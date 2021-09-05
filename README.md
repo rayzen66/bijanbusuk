@@ -669,20 +669,6 @@ http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2018/04/espn-plus-logo.jpg", ESPN +
 http://stream2.grandma.fit/fs2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png", BeinSports Extra
-https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="B01.th" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1 HD
-https://liveanevia.mncnow.id/live/eds/BeIN1s/sa_dash_vmx/BeIN1s.mpd
-#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png", Bein Sports HD1
-http://zalogitv.tech:8080/budiyanto/budiyanto/1784
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sport",beIN Sports 2 HD
-https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png", Fox Sports
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
