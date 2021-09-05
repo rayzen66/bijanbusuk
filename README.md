@@ -200,7 +200,7 @@ http://194.233.68.128:5080/LiveApp/streams/478602304725901923589240.m3u8|Referer
 #EXTINF:-1 tvg-ID="107" tvg-logo="https://i.ibb.co/SR3xTpX/a-warna.png" group-title="Astro",Astro Warna HD
 http://198.16.106.62:8278/Warna_eko/playlist.m3u8?tid=ma8281b01a8ec&ct=18843&tsum=8f722711e8c1dcfa148fdc35c6b6b576&st2=1628042324&ss=ee9d10e9d0bf75bbc6e9e3ecd72785fc&ct2=1628042335734&cs=2e8ceb475706d6bfb07120febb18148
 #EXTINF:-1 tvg-id="107" tvg-name="Astro Warna HD" tvg-logo="https://i.ibb.co/SR3xTpX/a-warna.png" group-title="Malaysia",Astro Warna HD 
-http://198.16.106.62:8278/Warna_eko/playlist.m3u8?tid=ma8281b01a8ec&ct=18843&tsum=8f722711e8c1dcfa148fdc35c6b6b576&st2=1628042324&ss=ee9d10e9d0bf75bbc6e9e3ecd72785fc&ct2=1628042335734&cs=2e8ceb475706d6bfb07120febb181482
+http://198.16.106.62:8278/Warna_eko/playlist.m3u8?tid=ma8281b01a8ec&ct=18843&tsum=8f722711e8c1dcfa148fdc35c6b6b576&st2=1628042324&ss=ee9d10e9d0bf75bbc6e9e3ecd72785fc
 
 #EXTINF:-1 tvg-chno="" tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/citra.png",Astro Citra HD
 #http://51.79.223.246:61980/myplay/c_58035/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
@@ -789,4 +789,37 @@ http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/247419
 #http://51.79.223.246:61980/myplay/mlsp_604/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 http://185.180.221.194:8277/streams/d/Assp4/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 ENGLISH [FHD]
+http://hbox.cdnss.me:80/bestcs/bestcs/5004
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 ENGLISH [HD]
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/34113
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_1_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 ENGLISH [HD] (2)
+http://hbox.cdnss.me:80/bestcs/bestcs/7946
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEIN_SPORT_ENGLISH_1_SD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 1 ENGLISH [SD]
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/34002
+
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 ENGLISH [FHD]
+http://hbox.cdnss.me:80/bestcs/bestcs/5003
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 ENGLISH [HD]
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/34127
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_2_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 ENGLISH [HD] (2)
+http://hbox.cdnss.me:80/bestcs/bestcs/7948
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEIN_SPORT_ENGLISH_2_SD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 2 ENGLISH [SD]
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/34003
+
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_3_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 ENGLISH [FHD]
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/34000
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_3_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 ENGLISH [HD]
+http://hbox.cdnss.me:80/bestcs/bestcs/7951
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENGLISH_3_HD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 ENGLISH [HD] (2)
+http://hbox.cdnss.me:80/bestcs/bestcs/7950
+#EXTINF:-1 tvg-logo=" https://logo.ott.ma/logo/beinsport%20SD/BEIN_SPORT_ENGLISH_3_SD.png" group-title="BEIN SPORTS (BACKUP)", beIN Sports 3 ENGLISH [SD]
+http://sawaiptv.vip:80/Darkiptv/Abdelhady/34004
+
+
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/T2WXx0kf/EUROSPORT-1.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 1
+https://chostv.mobie.in/choos/sports/euro1.m3u8
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/D0sVcfW8/EUROSPORT-2.png" group-title=" SPORTSTATION (BACKUP)", Eurosport 2
+https://chostv.mobie.in/choos/sports/euro2.m3u8
 
