@@ -539,27 +539,44 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTINF:-1 tvg-name=" " tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428183_ico.png",FOX Family Movies HD
-#https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
-#http://185.180.221.194:8277/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1 tvg-name=" " tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428183_ico.png" group-title="",FOX FAMILY MOVIE
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+http://185.180.221.194:8277/streams/d/Foxfamily/playlist.m3u8
 #http://50.7.59.184:61980/myplay/cn_1_11010/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 #http://1.crtv1.ml/hstv/crtv.php?id=383
-#http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
+http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Y2NlMGI3MzAtZjQ4OC0zNGIzLTlkZTUtZDFkODUzOTJiZDQ4
+#EXTINF:-1 group-title="" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/2ZouB2Ve",FOX Family Movies
+http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=Y2NlMGI3MzAtZjQ4OC0zNGIzLTlkZTUtZDFkODUzOTJiZDQ4
+#EXTINF:-1 group-title="" ch-number="" tvg-id="" tvg-chno="" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/2ZouB2Ve",FOX Family Movies
+http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" ,FOX Action Movie HD
-#https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
-#http://185.180.221.194:8277/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428182_ico.png" group-title="",FOX ACTION MOVIE
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
+http://185.180.221.194:8277/streams/d/Foxactionhd/playlist.m3u8
 #http://1.crtv1.ml/hstv/crtv.php?id=385
-#http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
+http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
 
-#EXTINF:-1 tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",Fox Action Movies HD
-#https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428182_ico.png" group-title="",FOX ACTION MOVIE
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
+http://185.180.221.194:8277/streams/d/Foxactionhd/playlist.m3u8
+#http://1.crtv1.ml/hstv/crtv.php?id=385
+http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
+
+#EXTINF:-1 tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" "group-title="",Fox Action Movies 
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png", Blue Ant Extreme HD
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8     
