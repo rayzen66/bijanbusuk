@@ -443,6 +443,7 @@ https://no2.onlinewebtv.lol/ddy1/premium126/tracks-v1a1/mono.m3u8|referer=https:
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png",  Astro Supersport 5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 https://ddy1.onlinewebtv.lol/ddy1/premium43/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 
