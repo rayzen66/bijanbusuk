@@ -59,7 +59,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/nombor/2402
-https://linears-playback.astro.com.my/vsg/41HNO0_WmpBvctDgX6ok38FiJzq3ycgFv8SmPSOTjW9qo=cElh/dash-wv/jitp-linearwm/2402/default.mpd
+http://linears-playback.astro.com.my/vsg/41_Sf_ezUr0PwjgjZLW7fTLSmCwQ9HkU5LIWVlnDSSWB8=5Bm0/dash-wv/jitp-linearwm/2402/default.mpd
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=ts&play_token=UrcfQKYpBD
