@@ -92,7 +92,7 @@ http://w.nasvpn.xyz:8080/saya/saya/16841.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZTVmYTY0NGYtNDQ4Ny0zYmNhLThlYjEtNjU3OTQ5MDc3OTU1
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
+EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
 https://aqfadtv.xyz/live/unifitv/salam/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Unifi_Sensasi.png", Sensasi
@@ -108,6 +108,7 @@ https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", Degup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.mpd
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest/scale-to-width-down/300?cb=20220902115129", Siar
@@ -118,6 +119,7 @@ https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 
