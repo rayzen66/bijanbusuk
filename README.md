@@ -1,5 +1,5 @@
-# bijanbusuk
-CHANNEL AKU
+billed-msg="😎 bijanbusuk 😎"
+
 
 
 #EXTM3U
