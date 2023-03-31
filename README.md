@@ -84,18 +84,25 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571231&e
 http://hotz.vip:2082/ejumjom/ejumjom/28
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://speedtrademarket.com/mytv/dash-ck/linear/2700
 https://speedtrademarket.com/live/channel/citra.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://speedtrademarket.com/mytv/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+https://speedtrademarket.com/live/channel/citra.mpd
 
 EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
 https://linears-playback.astro.com.my/vsg/41HNO0_WmpBvctDgX6ok38FhszTo6c79jvWvssjl1Y-Bc=8E7K/dash-wv/jitp-dashisowm/2700/default.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
 http://w.nasvpn.xyz:8080/puasa/puasa1./172
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
 http://w.nasvpn.xyz:8080/saya/saya/16841.m3u8
 
