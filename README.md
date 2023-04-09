@@ -45,6 +45,7 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
 https://linears-playback.astro.com.my/vsg/41jurYG1onRfmwJMn79ZqUAsUDbs11NO-T0wqdZ9uOndg=pOxU/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41jurYG1onRfmwJMn79ZqUAsUDbs11NO-T0wqdZ9uOndg=pOxU/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 
 
