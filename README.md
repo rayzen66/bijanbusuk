@@ -44,9 +44,7 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
-https://linears-playback.astro.com.my/vsg/41jurYG1onRfmwJMn79ZqUAnDYsYG-ygsBsysUS41Axj0=4oXB/dash-wv/jitp-linearwm/1004/default_primary.mpd
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+https://linears-playback.astro.com.my/vsg/41jurYG1onRfmwJMn79ZqUAsUDbs11NO-T0wqdZ9uOndg=pOxU/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 
 
@@ -76,15 +74,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUjfYyCTgY1PDHZ2yMK47vbQ=sHBT/dash-wv/jitp-linearwm/2402/default_primary.mpd
-http://linears-playback.astro.com.my/vsg/41_Sf_ezUr0PwjgjZLW7fTLSmCwQ9HkU5LIWVlnDSSWB8=5Bm0/dash-wv/jitp-linearwm/2402/default.mpd
+https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUvEnA6NC8R7tqcxrnjhyKsg=JFqz/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUk9CkYLZkxCmRaQRGUfQp08=n0OA/dash-wv/jitp-dashisowm/2700/default_primary.mpd
-https://linears-playback.astro.com.my/vsg/41HNO0_WmpBvctDgX6ok38FhszTo6c79jvWvssjl1Y-Bc=8E7K/dash-wv/jitp-dashisowm/2700/default.mpd
+https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUn-Vw-3ZrgceqRD9NStl0Zo=Evhj/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
