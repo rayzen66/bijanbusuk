@@ -43,7 +43,8 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 https://linears-playback.astro.com.my/vsg/41jurYG1onRfmwJMn79ZqUAu5i8ZiXrABWGjsw2ZiaRbc=u9Xg/dash-wv/jitp-linearwm/1004/default_primary.mpd
 https://linears-playback.astro.com.my/vsg/41jurYG1onRfmwJMn79ZqUApnqbDdSoM-lDN5O_vDVkS0=XnU1/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=DvbUwd0jPoDvbUwd0jPo
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
