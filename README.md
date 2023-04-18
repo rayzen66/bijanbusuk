@@ -64,6 +64,7 @@ https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUigfqpkaa1KXPxFV
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUmPJNbspNE6Dl1XS0Cs4WhE=-4l1/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUhKOZLM-d_fxBvHPRfQi2mc=Wf5F/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -71,7 +72,7 @@ https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUhKOZLM-d_fxBvHP
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZU8tJaW/snyeWuCFJYShZg","kid":"hL+a1oSL59sg+dFoI97vEA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sg-sg-sg.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra
+EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUhKOZLM-d_fxBvHPRfQi2mc=Wf5F/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
