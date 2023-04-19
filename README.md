@@ -1,6 +1,3 @@
-billed-msg="😎 bijanbusuk 😎"
-
-
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" 
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
@@ -44,7 +41,13 @@ https://linears-playback.astro.com.my/vsg/41jurYG1onRfmwJMn79ZqUAu5i8ZiXrABWGjsw
 https://linears-playback.astro.com.my/vsg/41jurYG1onRfmwJMn79ZqUApnqbDdSoM-lDN5O_vDVkS0=XnU1/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571236&extension=ts&play_token=1kEm8DbZmS
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=DvbUwd0jPoDvbUwd0jPo
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+http://kuchini.site:8080/mosesmn/4e40546ad6/158347
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -63,7 +66,15 @@ https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUj8C4ioIJYFZMYOD
 https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUigfqpkaa1KXPxFVKo8_ODA=gq_l/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941609&extension=ts&play_token=1kEm8DbZmS
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=ts&play_token=ADhoODj7kx
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
+https://epg.pw/stream/aa1b2652b5400194d10060d1fd203f35b901cf19f748391c77761261e72e8e16.xs
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -71,14 +82,13 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&exten
 https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUmPJNbspNE6Dl1XS0Cs4WhE=-4l1/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUhKOZLM-d_fxBvHPRfQi2mc=Wf5F/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZU8tJaW/snyeWuCFJYShZg","kid":"hL+a1oSL59sg+dFoI97vEA"}],"type":"temporary"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sg-sg-sg.astro.com.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/Vmdbbo5.png",108 Astro Citra
-#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-https://linears-playback.astro.com.my/vsg/41orfM7v37kUn6TvosfksYUhKOZLM-d_fxBvHPRfQi2mc=Wf5F/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
+#EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
+http://hotz.vip:2082/ejumjom/ejumjom/28
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
+https://speedtrademarket.com/vip/citra.mpd
 
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
@@ -501,3 +511,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+
+
+#EXTM3U billed-msg=" Bijanbusuk"
