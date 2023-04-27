@@ -37,7 +37,8 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
-https://linears-playback.astro.com.my/vsg/41h68edbwvPYwE_BM4bpdRgwNAbQpNLSl0xflUBSfTATI=vhRj/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41h68edbwvPYwE_BM4bpdRg-zAnprevFfR9J6ylbZEnp0=_ZTm/dash-wv/jitp-linearwm/1004/default.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -73,7 +74,8 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNk-ZzAY_w04fh-eLMsypHug=cEZS/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNjo7IWALpAQaQzprP4ObMi0=IIRG/dash-wv/jitp-linearwm/2402/default.mpd
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -92,6 +94,7 @@ https://epg.pw/stream/aa1b2652b5400194d10060d1fd203f35b901cf19f748391c77761261e7
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNg83MTU8Uglw7j3ibeel6Vo=p9Ns/dash-wv/jitp-dashisowm/2700/default.mpd
 https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNn7qKJsy4qS3eexgX6jucLQ=JPci/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
