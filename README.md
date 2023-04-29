@@ -106,7 +106,7 @@ https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNkEiWXuMoYvr4ZXV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://link.zozotv.xyz:443/live/Amir60/28602860/37.m3u8
 https://speedtrademarket.com/vip/citra.mpd
