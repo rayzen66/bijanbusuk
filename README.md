@@ -78,10 +78,7 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", WARNA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNpEZ7Qn2UDmHdSAajSfnUWo=SaXt/dash-wv/jitp-linearwm/2402/default_primary.mpd
-https://linears-playback.astro.com.my/vsg/41h68edbwvTREW_BM4bpdRg_SvlSllMVyvDXMAxZv2nNI=_yjs/dash-wv/jitp-linearwm/2404/default.mpd
-https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNltE5RCkn5dv2HQ0WXMQpBk=ZWVC/dash-wv/jitp-linearwm/2402/default.mpd
-https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNjo7IWALpAQaQzprP4ObMi0=IIRG/dash-wv/jitp-linearwm/2402/default.mpd
+
 
 
 
@@ -89,8 +86,9 @@ https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNjo7IWALpAQaQzpr
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
+https://link.zozotv.xyz:443/live/Amir60/28602860/35.m3u8
 https://speedtrademarket.com/vip/warna.mpd
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
@@ -110,8 +108,9 @@ https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNvU52BXE67Fegmm5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
+https://link.zozotv.xyz:443/live/Amir60/28602860/37.m3u8
 https://speedtrademarket.com/vip/citra.mpd
 
 EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
