@@ -351,10 +351,22 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
 #################################################################### MOVIES ##################################################################################
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Cikgu VS Hantu
+https://link.zozotv.xyz:443/live/Amir60/28602860/738.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Bas Terakhir Malam Raya
+https://link.zozotv.xyz:443/live/Amir60/28602860/814.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Air Force The Movie Selagi Bernyawa
+https://link.zozotv.xyz:443/live/Amir60/28602860/754.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Duan Nago Bogho
+https://link.zozotv.xyz:443/live/Amir60/28602860/806.m3u8
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png", HITS MOVIES HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png", BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -386,19 +398,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=360p
-#KODIPROP:inputstream.adaptive.license_key=https://speedtrademarket.com/mytv/results.php?keyid=b64eee6360b118d0d90329cc2c9e4c60&key=4e97aa6422b26ffb372647dbd0a7683c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gt1RM6s/hbo-signature-modified.png",HBO Signature HD
-https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gt1RM6s/hbo-signature-modified.png",HBO Signature (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.jpg",HBO Signature HD
-https://hw8871-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 
 
