@@ -44,7 +44,7 @@ https://linears-playback.astro.com.my/vsg/41rraW5EK_Jh_5Z1MvfOIzzyNeDqvdbtqTnXA-
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
 https://link.zozotv.xyz:443/live/Amir60/28602860/532.m3u8
 https://speedtrademarket.com/vip/ria.mpd
@@ -84,7 +84,7 @@ https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNnh5ySiJH1mynF86
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
 https://link.zozotv.xyz:443/live/Amir60/28602860/35.m3u8
 https://speedtrademarket.com/vip/warna.mpd
@@ -116,7 +116,7 @@ http://hotz.vip:2082/ejumjom/ejumjom/28
 
 
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
 http://hotz.vip:2082/ejumjom/ejumjom/24
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
