@@ -38,17 +38,14 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
 https://linears-playback.astro.com.my/vsg/41rraW5EK_Jh_5Z1MvfOIzzyNeDqvdbtqTnXA-ZNxrBU8=LdHU/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://linears-playback.astro.com.my/vsg/41h68edbwvPYwE_BM4bpdRg_SvlSllMVyvFGHAxZv2nNI=_yjs/dash-wv/jitp-linearwm/1004/default.mpd
-https://linears-playback.astro.com.my/vsg/41h68edbwvPYwE_BM4bpdRg4NvrdVF3jKNuB7PUAcvQNA=bO1o/dash-wv/jitp-linearwm/1004/default.mpd
-https://linears-playback.astro.com.my/vsg/41h68edbwvPYwE_BM4bpdRg-zAnprevFfR9J6ylbZEnp0=_ZTm/dash-wv/jitp-linearwm/1004/default.mpd
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
+https://link.zozotv.xyz:443/live/Amir60/28602860/532.m3u8
 https://speedtrademarket.com/vip/ria.mpd
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
@@ -78,7 +75,7 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", WARNA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-
+https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNpEZ7Qn2UDmHdSAajSfnUWo=SaXt/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 
 
@@ -100,8 +97,7 @@ https://epg.pw/stream/aa1b2652b5400194d10060d1fd203f35b901cf19f748391c77761261e7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNkEiWXuMoYvr4ZXVDRQW_Vo=IpY6/dash-wv/jitp-dashisowm/2700/default_primary.mpd
-https://linears-playback.astro.com.my/vsg/41h67edbwvPYwE_BM4bpdRg_SvlSllMVyvDXMAxZv2nNI=_yjs/dash-wv/jitp-linearwm/2002/default.mpd
-https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNvU52BXE67Fegmm5SahG59I=4onS/dash-wv/jitp-dashisowm/2700/default.mpd
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
