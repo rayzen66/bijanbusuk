@@ -39,6 +39,7 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
 https://linears-playback.astro.com.my/vsg/41rraW5EK_Jh_5Z1MvfOIzzyNeDqvdbtqTnXA-ZNxrBU8=LdHU/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -74,8 +75,9 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", WARNA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402/
 https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNpEZ7Qn2UDmHdSAajSfnUWo=SaXt/dash-wv/jitp-linearwm/2402/default_primary.mpd
+
 
 
 
@@ -95,7 +97,7 @@ https://epg.pw/stream/aa1b2652b5400194d10060d1fd203f35b901cf19f748391c77761261e7
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700/
 https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNkEiWXuMoYvr4ZXVDRQW_Vo=IpY6/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 
