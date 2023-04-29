@@ -351,6 +351,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
 #################################################################### MOVIES ##################################################################################
 
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Abang Long Fadil 3
+https://link.zozotv.xyz:443/live/Amir60/28602860/751.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Daddyku Gengster
+https://link.zozotv.xyz:443/live/Amir60/28602860/790.m3u8
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Cikgu VS Hantu
 https://link.zozotv.xyz:443/live/Amir60/28602860/738.m3u8
 
@@ -362,6 +369,23 @@ https://link.zozotv.xyz:443/live/Amir60/28602860/754.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Duan Nago Bogho
 https://link.zozotv.xyz:443/live/Amir60/28602860/806.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Kalut Nak Kawin
+https://link.zozotv.xyz:443/live/Amir60/28602860/707.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Kg Latah The Mummy
+https://link.zozotv.xyz:443/live/Amir60/28602860/715.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Musyrik
+https://link.zozotv.xyz:443/live/Amir60/28602860/728.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-s9R_rcl6-uM/WCJ5bT-lWEI/AAAAAAAAB_Y/ALRmOjgORkgMUVy26i2BBrZISD14kFcIACLcB/s1600/AstroFirst.png", Pengabdi Setan 2
+https://link.zozotv.xyz:443/live/Amir60/28602860/760.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png", HITS MOVIES HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
