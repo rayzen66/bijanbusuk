@@ -68,6 +68,7 @@ https://linears-playback.astro.com.my/vsg/41wNXH2riH95XyuzI3itJ0z6tOjAiW8Wd1F0zV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png", Astro Warna HD
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571231&extension=ts&play_token=1kEm8DbZmS
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941609&extension=ts&play_token=1kEm8DbZmS
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png", Astro Warna HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
