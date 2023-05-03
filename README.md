@@ -32,6 +32,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
+https://zazerconer.github.io/live-tv-malaysia-with-player/channel/media-prima/tv3/index.html
 https://aqfadtv.xyz/live/tv3/index.mpd
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png",Ria HD
@@ -117,16 +118,19 @@ https://aqfadtv.xyz/live/unifitv/salam/index.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Unifi_Sensasi.png", Sensasi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
+https://zazerconer.github.io/live-tv-malaysia-with-player/channel/unifi-tv/sensasi/index.html
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png", Inspirasi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
+https://zazerconer.github.io/live-tv-malaysia-with-player/channel/unifi-tv/inspirasi/index.html
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", Degup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
+https://zazerconer.github.io/live-tv-malaysia-with-player/channel/unifi-tv/degub/index.html
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.mpd
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
@@ -145,6 +149,7 @@ https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
+https://zazerconer.github.io/live-tv-malaysia-with-player/channel/unifi-tv/dunia-sinema/index.html
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
