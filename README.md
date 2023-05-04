@@ -32,8 +32,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
-https://zazerconer.github.io/live-tv-malaysia-with-player/channel/media-prima/tv3/index.html
 https://aqfadtv.xyz/live/tv3/index.mpd
+https://zazerconer.github.io/live-tv-malaysia-with-player/channel/media-prima/tv3/index.html
+
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png",Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
