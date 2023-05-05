@@ -37,6 +37,7 @@ https://zazerconer.github.io/live-tv-malaysia-with-player/channel/media-prima/tv
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png",Ria HD
+http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=go_ott
 http://syok.tv:25461/live/ABC/234/18.ts
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png",Ria HD
@@ -77,6 +78,7 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png", Warna HD
+http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=ts&play_token=go_ott_primary.mpd
 http://syok.tv:25461/live/ABC/234/22.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -95,14 +97,14 @@ https://epg.pw/stream/aa1b2652b5400194d10060d1fd203f35b901cf19f748391c77761261e7
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Citra HD
+EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Citra HD
 http://syok.tv:25461/live/ABC/234/26.ts
 https://linears-playback.astro.com.my/vsg/41wNXH2riH95XyuzI3itJ0z_PiTuNVXt_LWHXEgpY_8Dc=otOO/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
 http://smartfr.xyz:80/live/smartpro30/47DB92B6/400200335.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
+EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
 https://link.zozotv.xyz:443/Amir60/28602860/37
 
 
