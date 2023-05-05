@@ -37,11 +37,15 @@ https://zazerconer.github.io/live-tv-malaysia-with-player/channel/media-prima/tv
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png",Ria HD
+http://syok.tv:25461/live/ABC/234/18.ts
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png",Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
-http://syok.tv:25461/live/ABC/234/18.ts
-https://linears-playback.astro.com.my/vsg/419cgXDnniF3WAs2qOhlMlsRabaoC4U5lyiCe4DhMCu-s=z96k/dash-wv/jitp-linearwm/1004/default_primary.mpd
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png", Astro Ria HD
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571236&extension=ts&play_token=1kEm8DbZmS
@@ -71,11 +75,15 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_pri
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505
 https://aqfadtv.xyz/live/oasis/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png", Warna HD
 http://syok.tv:25461/live/ABC/234/22.ts
-https://linears-playback.astro.com.my/vsg/41wNXH2riH95XyuzI3itJ0z6tOjAiW8Wd1F0zVrOFtj8U=kXN2/dash-wv/jitp-linearwm/2402/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png", Warna HD
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png", Astro Warna HD
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941609&extension=ts&play_token=1kEm8DbZmS
