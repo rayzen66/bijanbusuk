@@ -36,14 +36,16 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 https://zazerconer.github.io/live-tv-malaysia-with-player/channel/media-prima/tv3/index.html
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png",Ria HD
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=go_ott
-http://syok.tv:25461/live/ABC/234/18.ts
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png",Ria HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png",Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+https://linears-playback.astro.com.my/vsg/41k0uF2evv6rNALWHk5x5aeyRXxIlXI4I-5nLTsWSv8BE=Vo6W/dash-wv/jitp-linearwm/1004/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png",Ria HD
+http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=go_ott
+http://syok.tv:25461/live/ABC/234/18.ts
 
 
 
@@ -77,13 +79,15 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_pri
 https://aqfadtv.xyz/live/oasis/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png", Warna HD
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=ts&play_token=go_ott_primary.mpd
-http://syok.tv:25461/live/ABC/234/22.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png", Warna HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png", Warna HD
+https://linears-playback.astro.com.my/vsg/41HZi5AYDG3cTm2l116mBW85YyCR_5ruqFP4_nmZojEA8=AJAj/dash-wv/jitp-linearwm/2402/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png", Warna HD
+http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=ts&play_token=go_ott_primary.mpd
+http://syok.tv:25461/live/ABC/234/22.ts
 
 
 
@@ -97,9 +101,8 @@ https://epg.pw/stream/aa1b2652b5400194d10060d1fd203f35b901cf19f748391c77761261e7
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Citra HD
-http://syok.tv:25461/live/ABC/234/26.ts
-https://linears-playback.astro.com.my/vsg/41wNXH2riH95XyuzI3itJ0z_PiTuNVXt_LWHXEgpY_8Dc=otOO/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Citra HD
+https://linears-playback.astro.com.my/vsg/41HZi5AYDG3cTm2l116mBW82ghs1ncjtwnIQJa6CDMYhI=Iifg/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
 http://smartfr.xyz:80/live/smartpro30/47DB92B6/400200335.m3u8
