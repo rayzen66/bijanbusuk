@@ -88,8 +88,10 @@ https://epg.pw/stream/aa1b2652b5400194d10060d1fd203f35b901cf19f748391c77761261e7
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
-http://smartfr.xyz:80/live/smartpro30/47DB92B6/400200335.m3u8
+http://iptv12k.com:35461/80201033004/324542/721
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7267
 
 
 
