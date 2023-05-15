@@ -263,7 +263,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default.mpd
 
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png", Calestial Movie HD 
+EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png", Calestial Movie HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506
 http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
