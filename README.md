@@ -36,7 +36,7 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 https://zazerconer.github.io/live-tv-malaysia-with-player/channel/media-prima/tv3/index.html
 
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png", Astro Ria HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png", Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 https://linears-playback.astro.com.my/vsg/41rraW5EK_Jh_5Z1MvfOIzz38n7694br6kXeK2li_dYUc=NbDn/dash-wv/jitp-linearwm/1004/manifest.mpd
@@ -81,7 +81,7 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png", Astro Warna HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png", Astro Warna HD
 https://linears-playback.astro.com.my/vsg/41CgcMfSm3-YjFQavzBFqmEmxOYzB9SKhBVhJzHSqCisk=YAB9/dash-wv/jitp-linearwm/2402/manifest.mpd
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png", Astro Warna HD
