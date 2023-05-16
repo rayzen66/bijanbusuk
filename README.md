@@ -34,14 +34,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
 https://aqfadtv.xyz/live/tv3/index.mpd
 
-
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png", Astro Ria HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 https://linears-playback.astro.com.my/vsg/41rraW5EK_Jh_5Z1MvfOIzz38n7694br6kXeK2li_dYUc=NbDn/dash-wv/jitp-linearwm/1004/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png", Astro Ria HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -49,7 +47,7 @@ https://linears-playback.astro.com.my/vsg/41rraW5EK_Jh_5Z1MvfOIzz38n7694br6kXeK2
 https://channel.zeehanzgadget.com/1004.mpd
 http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=go_ott
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png", Astro Ria HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571236&extension=ts&play_token=1kEm8DbZmS
 
 
@@ -618,6 +616,53 @@ https://ott-navigator.my.id/000143-356212-936581/sportifitasku/btsports/master_a
 #EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://ott-navigator.my.id/000143-356212-936581/sportifitasku/btsports/master_astro.m3u8?id=assp5
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400", HOT FM 
+https://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png", ERA
+https://astro2.rastream.com/era
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png", SINAR
+https://astro2.rastream.com/sinar
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png", GEGAR
+https://astro3.rastream.com/gegar
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624", BULETIN FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738", FLY FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/MolekFM.png", MOLEK FM
+https://mediaprima.rastream.com/mediaprima-molekfm
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png", HITZ
+https://astro1.rastream.com/hitz
+
+
+
+
+#EXTINF:-1 tvg-logo="https://aqibmedia.com/wp-content/uploads/2021/10/SuriaFM.png", SURIA
+https://23733.live.streamtheworld.com/SURIA_FMAAC.aac?key=value&key2=value2&dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=033a61ae-7089-4dfd-910c-6bda1661a583
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png", Radio IKIM
+https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=63f3904af48d023a_4999034_qj1Gix3R_MTAzLjIxLjgxLjM6ODA!_0000008ouxn&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2ODE5MDU0NzgsImV4cCI6MTY4MTk5MTg3OH0.9ObbwEt1E0lC8jADaaKlwWqJn8hKBNgAOCD8AdTeFf8&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=dd330dca4396b75bd95482efe7877006
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s221306g.png",BEST FM
+https://stream.rcs.revma.com/h34x4kgg9hhvv.m4a
+
+#EXTINF:-1 tvg-logo="https://www.manis.fm/wp-content/uploads/2020/02/cropped-manisfm_new-01-1024x308.png",MANIS FM
+https://n07.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdGs8ajQAVVGv4vpE3Kqfhg
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s193058g.png", MAKMUR FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC083_SC
+
+
 
 
 #EXTM3U billed-msg=" Bijanbusuk"
