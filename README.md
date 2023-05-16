@@ -37,11 +37,14 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=m3u8&play_token=R1N7eEHZQE
+http://51.79.206.58:8089/dash/2402.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=go_ott
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -55,12 +58,12 @@ https://aqfadtv.xyz/live/prima/index.mpd
 https://aqfadtv.xyz/live/oasis/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=m3u8&play_token=v2FHEj5S83
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 http://hotz.vip:2082/live/faizatiejom/faizatiejom/27.m3u8
