@@ -77,15 +77,16 @@ http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://speedtrademarket.com/mytv/dash-ck/linear/2700
-https://speedtrademarket.com/live/channel/citra.mpd
+https://speedtrademarket.com/live1/irinaspicy/warna.mpd
 
 
 
 
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+http://speedtrademarket.com/live1/irinaspicy/citra
 http://hotz.vip:2082/live/faizatiejom/faizatiejom/27.m3u8
 
 
