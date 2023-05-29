@@ -42,19 +42,25 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/As
 https://linears-playback.astro.com.my/vsg/41rraW5EK_Jh_5Z1MvfOIzz38n7694br6kXeK2li_dYUc=NbDn/dash-wv/jitp-linearwm/1004/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
-http://149.18.85.131/live/8059765630/3322606439/54899.m3u8
-##https://smt.sky4k.eu.org/live/index.m3u8?id=Ria
+#EXTVLCOPT:http-user-agent=OTT_AQFAD_LiVe_12
+#KODIPROP:inputstream.adaptive.stream_headers=referer=OTT_AQFAD_LiVe_12
+https://smt.sky4k.eu.org/live2023/index.m3u8?id=Ria
 
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+http://149.18.85.131/live/8059765630/3322606439/54899.m3u8
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=m3u8&play_token=go_ott
 http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=m3u8&play_token=R1N7eEHZQE
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
-http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=m3u8&play_token=go_ott
+
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=DvbUwd0jPoDvbUwd0jPo
@@ -71,6 +77,10 @@ https://aqfadtv.xyz/live/prima/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505
 https://aqfadtv.xyz/live/oasis/index.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
+#EXTVLCOPT:http-user-agent=OTT_AQFAD_LiVe_12
+#KODIPROP:inputstream.adaptive.stream_headers=referer=OTT_AQFAD_LiVe_12
+https://smt.sky4k.eu.org/live2023/index.m3u8?id=Warna
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -81,21 +91,17 @@ http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=
 #http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=m3u8&play_token=v2FHEj5S83
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
-http://149.18.85.131/live/8059765630/3322606439/191874.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 http://149.18.85.131/live/8059765630/3322606439/191900.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://anon.devds.site/link.php?hash=aHR0cHM6Ly9sbmsuZWMveHhjdXQyLm0zdTg=
-#http://speedtrademarket.com/live1/irinaspicy/citra
-#http://hotz.vip:2082/live/faizatiejom/faizatiejom/27.m3u8
+http://149.18.85.131/live/8059765630/3322606439/79327.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
-#EXTVLCOPT:http-user-agent=com.iptvlink.net
-https://iplogger.com/cloud7_sensasi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
+http://149.18.85.131/live/8059765630/3322606439/13490.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NThmODljYTUtNWM0Yi0zOTM3LWE4MzYtYTY4OTM1YzRhMzYx
@@ -367,6 +373,42 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
 https://aqfadtv.xyz/live/hbo/index.mpd
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 1
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095496&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 2
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095495&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 3
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095494&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 4
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095493&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 5
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095492&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 6
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095491&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 7
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095490&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 8
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095489&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 9
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095488&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 10
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095487&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 11
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095486&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 12
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095485&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 13
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095484&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 14
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095483&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 15
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095482&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 16
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095481&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 17
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095480&extension=m3u8&play_token=go_ott
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png", CINEMAX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
