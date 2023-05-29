@@ -307,6 +307,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png", Animax HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NThmODljYTUtNWM0Yi0zOTM3LWE4MzYtYTY4OTM1YzRhMzYx
+#EXTVLCOPT:network-caching=1000
+https://web.hypp.tv:443/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487VK201C73xHPJjGvTHv3JiPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082916%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082916%2Curn:Huawei:liveTV:XTV57622558%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy2rDMBRE_0ZLoUcqOQutUgKB4gbidlvG1rViIlup5ATy941bdzszZzhzRkeHVwctoavqRWmvN0a0sBslWrLopRWwhhX6rpNTrEOMwxTq5Bfs87T7koILrpTkUrFmudtHhHVZ38aWstP_2InyfejI-dLzOwpHCJkC5iFN_Bjx-MhxnTBqVjVpzFZVRkpj7ZbNS9qgXJ4NO6Ps0nhFJv-Wwi_gesRC7IrugkA1RnLTLcY_7j37p80PI8646_QAAAA&tenantId=6001
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png", DreamWorks
 #KODIPROP:inputstream.adaptive.license_type=clearkey
