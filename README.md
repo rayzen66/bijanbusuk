@@ -379,41 +379,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
 https://aqfadtv.xyz/live/hbo/index.mpd
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 1
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095496&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 2
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095495&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 3
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095494&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 4
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095493&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 5
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095492&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 6
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095491&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 7
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095490&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 8
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095489&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 9
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095488&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 10
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095487&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 11
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095486&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 12
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095485&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 13
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095484&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 14
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095483&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 15
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095482&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 16
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095481&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://logos-world.net/hbo-max-logo", HBO MAX 17
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095480&extension=m3u8&play_token=go_ott
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Max%20by%20HBO%20HD.png", CINEMAX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -690,6 +655,40 @@ https://n07.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdGs8ajQAVVGv4vpE3Kqf
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC083_SC
 
 
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 1
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095496&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 2
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095495&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 3
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095494&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 4
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095493&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 5
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095492&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 6
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095491&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 7
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095490&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 8
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095489&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 9
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095488&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 10
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095487&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 11
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095486&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 12
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095485&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 13
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095484&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 14
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095483&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 15
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095482&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 16
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095481&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 17
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095480&extension=m3u8&play_token=go_ott
 
 
 #EXTM3U billed-msg=" Bijanbusuk"
