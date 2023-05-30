@@ -41,7 +41,7 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/As
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 https://linears-playback.astro.com.my/vsg/41rraW5EK_Jh_5Z1MvfOIzz38n7694br6kXeK2li_dYUc=NbDn/dash-wv/jitp-linearwm/1004/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #EXTVLCOPT:http-user-agent=OTT_AQFAD_LiVe_12
 #KODIPROP:inputstream.adaptive.stream_headers=referer=OTT_AQFAD_LiVe_12
 https://smt.sky4k.eu.org/live2023/index.m3u8?id=Ria
@@ -80,6 +80,7 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 #EXTVLCOPT:http-user-agent=OTT_AQFAD_LiVe_12
 #KODIPROP:inputstream.adaptive.stream_headers=referer=OTT_AQFAD_LiVe_12
+http://starshare.live:8080/live/Shirley/Shirley/143158.m3u8
 https://smt.sky4k.eu.org/live2023/index.m3u8?id=Warna
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
