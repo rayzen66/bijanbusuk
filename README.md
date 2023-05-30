@@ -41,10 +41,10 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/As
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 https://linears-playback.astro.com.my/vsg/41rraW5EK_Jh_5Z1MvfOIzz38n7694br6kXeK2li_dYUc=NbDn/dash-wv/jitp-linearwm/1004/manifest.mpd
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
-#EXTVLCOPT:http-user-agent=OTT_AQFAD_LiVe_12
-#KODIPROP:inputstream.adaptive.stream_headers=referer=OTT_AQFAD_LiVe_12
-https://smt.sky4k.eu.org/live2023/index.m3u8?id=Ria
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+#EXTVLCOPT:http-user-agent=OTT_AQFAD_LiVe_WARNING_12
+#KODIPROP:inputstream.adaptive.stream_headers=referer=OTT_AQFAD_LiVe_WARNING_12
+https://smt.sky4k.eu.org/live2028/index.m3u8?id=Ria
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -100,6 +100,9 @@ http://149.18.85.131/live/8059765630/3322606439/191900.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 http://149.18.85.131/live/8059765630/3322606439/79327.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
 http://149.18.85.131/live/8059765630/3322606439/13490.m3u8
