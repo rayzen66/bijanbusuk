@@ -712,7 +712,7 @@ http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&play_token=SzSdQEwOue
 
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky action
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Sky_Cinema_Action_HD_%28alternative%29.svg/revision/latest?cb=20220502180334", sky action
 http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=30517&extension=m3u8&play_token=8iLmrem5f5
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd
