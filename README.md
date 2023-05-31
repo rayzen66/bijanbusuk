@@ -660,9 +660,9 @@ https://n07.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdGs8ajQAVVGv4vpE3Kqf
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC083_SC
 
 
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Max_%28streaming_service%29_2023.svg/revision/latest?cb=20230413022307", HBO MAX 1
 http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095496&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Max_%28streaming_service%29_2023.svg/revision/latest?cb=20230413022307", HBO MAX 2
 http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095495&extension=m3u8&play_token=go_ott
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 3
 http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095494&extension=m3u8&play_token=go_ott
