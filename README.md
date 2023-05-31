@@ -695,5 +695,37 @@ http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095481&extension=
 http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095480&extension=m3u8&play_token=go_ott
 
 
+#EXTINF:-1 tvg-logo="", test
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1110627&extension=m3u8&play_token=EMPoMeJJFn
+
+#EXTINF:-1 tvg-logo="", test 2
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=282639&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="", test 3
+http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1116489&extension=m3u8&play_token=740AxcgoQq
+
+#EXTINF:-1 tvg-logo="", test 4
+http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=30517&extension=m3u8&play_token=8iLmrem5f5
+
+#EXTINF:-1 tvg-logo="", test 5
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095797&extension=m3u8&play_token=go_ott
+
+
+
+
+#EXTINF:-1 tvg-logo="", test 6 arena 2
+http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/379990.m3u8
+
+#EXTINF:-1 tvg-logo="", test 7 arena bola
+http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380001.m3u8
+
+#EXTINF:-1 tvg-logo="", test 8 arena bola 2
+http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380005.m3u8
+
+#EXTINF:-1 tvg-logo="", test 9 arena bola 3
+http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380011.m3u8
+
+
+
 #EXTM3U billed-msg=" Bijanbusuk"
 
