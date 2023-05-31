@@ -358,12 +358,6 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227534/3221227534.mpd?rrsip=web.hy
 
 #################################################################### MOVIES ##################################################################################
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/FOX_Action_Movies.svg/revision/latest?cb=20201205153156",FOX Movies
-http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
-
-EXTINF:-1 tvg-logo="",Fox Movies Action
-http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&play_token=SzSdQEwOue
-
 #EXTINF:-1 tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275762486%27&EntityType=%27Item%27&EntityId=%27227348%27&Width=1494&Height=800", Rock Entertainment HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NThmODljYTUtNWM0Yi0zOTM3LWE4MzYtYTY4OTM1YzRhMzYx
@@ -501,14 +495,13 @@ EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
 
-EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png", ASTRO ARENA BOLA 2 HD
+#EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png", ASTRO ARENA BOLA 2 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUYzVNMlUwWWpndFl6aGtNaTAwTjJRekxUbG1PRE10TlRNd09Ea3daV0kyWVRCaiIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODY1NDM3MywiaWF0IjoxNjc4MDUwMzczfQ.CNHE9RhxWdgfzbUTaU4CNs03T2nUCa1VhJDHWBtIovg"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
-https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
-
+http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/379990.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -703,81 +696,99 @@ http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095481&extension=
 http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095480&extension=m3u8&play_token=go_ott
 
 
-#EXTINF:-1 tvg-logo="", test
+#EXTINF:-1 tvg-logo="", disney international
 http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1110627&extension=m3u8&play_token=EMPoMeJJFn
 
-#EXTINF:-1 tvg-logo="", test 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Star_Movies_HD_India.png/revision/latest?cb=20110928174318", star movie
 http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=282639&extension=m3u8&play_token=go_ott
 
-#EXTINF:-1 tvg-logo="", test 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317", star movies select
 http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1116489&extension=m3u8&play_token=740AxcgoQq
 
-#EXTINF:-1 tvg-logo="", test 4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Fox_Movies_%28Asia%29.svg/revision/latest?cb=20170610113934",FOX Movies
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Fox_Action_Movies_2022.svg/revision/latest?cb=20220919015849",Fox Movies Action
+http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&play_token=SzSdQEwOue
+
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky action
 http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=30517&extension=m3u8&play_token=8iLmrem5f5
 
-#EXTINF:-1 tvg-logo="", test 5
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd
 http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095797&extension=m3u8&play_token=go_ott
 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 2
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095796&extension=m3u8&play_token=go_ott
 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 3
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095795&extension=m3u8&play_token=go_ott
 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 4
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095794&extension=m3u8&play_token=go_ott
 
-#EXTINF:-1 tvg-logo="", test 6 arena 2
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/379990.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 5
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095793&extension=m3u8&play_token=go_ott
 
-#EXTINF:-1 tvg-logo="", test 7 arena bola
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 6
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095792&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 7
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095791&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 8
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095790&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 9
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095789&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 10
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095788&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 11
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095787&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 12
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095786&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 13
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095785&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 14
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095784&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 15
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095783&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 16
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095782&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 17
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095781&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 18
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095780&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 19
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095779&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 20
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095778&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 21
+http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095777&extension=m3u8&play_token=go_ott
+
+EXTINF:-1 tvg-logo="", test 7 arena bola
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380001.m3u8
 
-#EXTINF:-1 tvg-logo="", test 8 arena bola 2
+EXTINF:-1 tvg-logo="", test 8 arena bola 2
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380005.m3u8
 
-#EXTINF:-1 tvg-logo="", test 9 arena bola 3
+EXTINF:-1 tvg-logo="", test 9 arena bola 3
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380011.m3u8
 
-#EXTINF:-1 tvg-id="AstroSuperSportUHD.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Olahraga" ,Astro Supersport UHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
-https://daddyhd.mammothtv.workers.dev/dash-wv/linear/1601/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Olahraga",Astro Supersport 1
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium123/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Olahraga",Astro Supersport 2
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium124/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Olahraga",Astro Supersport 3
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium125/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Olahraga",Astro Supersport 4
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium126/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Olahraga",Astro Supersport 5
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium43/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="https://i.postimg.cc/W3d9mFTm/20220927-065123.png" group-title="Olahraga" ,Astro Arena
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
-https://daddyhd.mammothtv.workers.dev/dash-wv/linear/2604/default_ott.mpd
-
-#EXTINF:-1 tvg-id="AstroArena2.my" tvg-logo="https://i.postimg.cc/W3d9mFTm/20220927-065123.png" group-title="Olahraga" ,Astro Arena 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
-https://daddyhd.mammothtv.workers.dev/dash-wv/linear/5057/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="Boo.my" tvg-logo="https://i.postimg.cc/qRNXCQPY/20221026-001629.png" group-title="TV Dunia",Boo HD (Malaysia)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
-https://astro.kutubusuk.workers.dev/dash-wv/linear/2407/default_ott.mpd
 
 
 
