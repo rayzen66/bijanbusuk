@@ -78,6 +78,11 @@ https://aqfadtv.xyz/live/prima/index.mpd
 https://aqfadtv.xyz/live/oasis/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+https://astro.kutubusuk.workers.dev/dash-wv/linear/2402/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 #EXTVLCOPT:http-user-agent=OTT_AQFAD_LiVe_12
 #KODIPROP:inputstream.adaptive.stream_headers=referer=OTT_AQFAD_LiVe_12
 http://starshare.live:8080/live/Shirley/Shirley/143158.m3u8
@@ -94,7 +99,10 @@ http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 http://149.18.85.131/live/8059765630/3322606439/191900.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+https://astro.kutubusuk.workers.dev/dash-wv/linear/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -771,10 +779,7 @@ https://daddyhd.mammothtv.workers.dev/dash-wv/linear/5057/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
 https://astro.kutubusuk.workers.dev/dash-wv/linear/2407/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Scw92j/20230206-085233.png" group-title="TV Dunia",Astro Citra HD (Malaysia)
-https://astro.kutubusuk.workers.dev/dash-wv/linear/2700/default_ott.mpd
+
 
 #EXTM3U billed-msg=" Bijanbusuk"
 
