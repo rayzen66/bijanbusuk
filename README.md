@@ -36,10 +36,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 https://aqfadtv.xyz/live/tv3/index.mpd
 
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
-https://astro.kutubusuk.workers.dev/dash-wv/linear/1004/default_ott.mpd
+http://speedtrademarket.com/livehd333/irinaspicy/c/ria
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #EXTVLCOPT:http-user-agent=OTT_AQFAD_LiVe_WARNING_12
@@ -86,10 +86,7 @@ https://smt.sky4k.eu.org/live2023/index.m3u8?id=Warna
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-http://tv365.me/live/8059765630/3322606439/191874.m3u8
-#https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=m3u8&play_token=go_ott
-#http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=m3u8&play_token=v2FHEj5S83
+http://185.243.7.58/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=m3u8&play_token=go_ott
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380152.m3u8
@@ -105,6 +102,11 @@ https://astro.kutubusuk.workers.dev/dash-wv/linear/2700/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 http://149.18.85.131/live/8059765630/3322606439/79327.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+http://149.18.85.131/live/8059765630/3322606439/400200335.m3u8
 
 
 
@@ -706,7 +708,7 @@ http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Sky_Cinema_Action_HD_%28alternative%29.svg/revision/latest?cb=20220502180334", sky action
-http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=30517&extension=m3u8&play_token=8iLmrem5f5
+http://103.145.13.4:8080/live/alinhosniy256/alinhosnipy6531/48939.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd
 http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095797&extension=m3u8&play_token=go_ott
