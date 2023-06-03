@@ -47,11 +47,7 @@ http://speedtrademarket.com/livehd333/irinaspicy/c/ria
 https://smt.sky4k.eu.org/live2028/index.m3u8?id=Ria
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=go_ott
+http://speedtrademarket.com/livehd333/irinaspicy/c/ria
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://95.214.235.96:8880/live/3ca05163n13/svyga7csd/1705.m3u8
@@ -75,18 +71,10 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 http://149.18.85.131/live/8059765630/3322606439/191900.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
-#EXTVLCOPT:http-user-agent=OTT_AQFAD_LiVe_12
-#KODIPROP:inputstream.adaptive.stream_headers=referer=OTT_AQFAD_LiVe_12
-http://starshare.live:8080/live/Shirley/Shirley/143158.m3u8
-https://smt.sky4k.eu.org/live2023/index.m3u8?id=Warna
+http://speedtrademarket.com/livehd333/irinaspicy/c/warna
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-http://185.243.7.58/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=m3u8&play_token=go_ott
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380152.m3u8
+
 
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
