@@ -37,19 +37,18 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
 http://speedtrademarket.com/livehd333/irinaspicy/c/ria
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #EXTVLCOPT:http-user-agent=OTT_AQFAD_LiVe_WARNING_12
 #KODIPROP:inputstream.adaptive.stream_headers=referer=OTT_AQFAD_LiVe_WARNING_12
 https://smt.sky4k.eu.org/live2028/index.m3u8?id=Ria
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://speedtrademarket.com/livehd333/irinaspicy/c/ria
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://95.214.235.96:8880/live/3ca05163n13/svyga7csd/1705.m3u8
 
 
@@ -127,10 +126,7 @@ https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227948/3221227948.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=nR3IWnuvgquP%2F8My8iyxx%2BoxnuQhQQA9yraVG9ZBgJG7lGYp3EaTqDAXfA4S%2BPVgQpTIHrOhXCgOoaP1Jv59qvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124221801%3AUTC%2C1001767138%2C27.125.242.143%2C20221124221801%2Curn:Huawei:liveTV:XTV56919296%2C1001767138%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C3073678270%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOywrCMBRE_ybLkEfjY5GVIghSBatbuUluY2naaFIF_16rdTszZzhDAovbtXa1xDmzxihbFMViaRTjzjFVc4NWMiAZ72XUglgIoel9Gd2InY-rC2eUUSE45YJU490mgJ-W5aMzmLT8Y0dMz8aidrmmT8gUvE_oYWhiTw8BXqcUpgnBalLjs9lSSrVQc6kEGca0gtx-GnKFvIrdDRK6XfRfQNcQMpIb2BY8ltCh7h8h_Lh9ch-bN5RyWgv0AAAA&tenantId=6001
 
 
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest/scale-to-width-down/300?cb=20220902115129", Siar
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MGJjYzg0ODEtZjA2MS0zYTY2LTg4OTMtZDJiZWQ0MTUzNTJl
-https://aqfadtv.xyz/live/unifitv/siar/index.mpd
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", DUNIA SINEMA HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -389,12 +385,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature 
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature 
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
 http://208.115.225.174:14160
