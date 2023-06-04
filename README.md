@@ -489,10 +489,9 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
-http://shareext@tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115616&extension=m3u8&play_token=shareext@astro2
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ott-navigator.my.id/000143-356212-936581/sportifitasku/btsports/master_astro.m3u8?id=assp2
 
 
 
