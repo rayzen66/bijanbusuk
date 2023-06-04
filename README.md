@@ -37,7 +37,9 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
-http://speedtrademarket.com/livehd333/irinaspicy/c/ria
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
 
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
@@ -82,15 +84,9 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Ci
 https://astro.kutubusuk.workers.dev/dash-wv/linear/2700/default_ott.mpd
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-http://149.18.85.131/live/8059765630/3322606439/79327.m3u8
-
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 http://149.18.85.131/live/8059765630/3322606439/400200335.m3u8
+
+
 
 
 
@@ -465,16 +461,19 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", ASTRO ARENA 2 HD
-https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+http://149.18.85.131/live/8059765630/3322606439/185822.m3u8
 
 EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bd4a346e-a383-4e54-ad2f-4ebe40339cbc/dfp286c-7581a01d-87dc-4a6d-8a9b-3fbd8eaa7c1d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JkNGEzNDZlLWEzODMtNGU1NC1hZDJmLTRlYmU0MDMzOWNiY1wvZGZwMjg2Yy03NTgxYTAxZC04N2RjLTRhNmQtOGE5Yi0zZmJkOGVhYTdjMWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wuD-2cAsbndLRaskBtY0Fb0vHZ-SGi_7GWfEZDooymM", ASTRO ARENA BOLA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
 
-#EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png", ASTRO ARENA BOLA 2 HD
+EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola2_logo.png", ASTRO ARENA BOLA 2 HD
 http://149.18.85.131/live/8059765630/3322606439/185822.m3u8
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/379990.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport UHD
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1016544&extension=ts&play_token=1kEm8DbZmS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -483,16 +482,19 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 
 
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
+#KODIPROP:inputstream.adaptive.license_key=
+https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
+http://shareext@tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=115616&extension=m3u8&play_token=shareext@astro2
 
 
 
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 HD
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ott-navigator.my.id/000143-356212-936581/sportifitasku/btsports/master_astro.m3u8?id=assp3
 
 
 
