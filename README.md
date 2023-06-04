@@ -393,10 +393,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
 
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
-http://208.115.225.174:14160
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=550768&extension=m3u8&play_token=xdbt7BgLik683156
 
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch510_425_305", WARNER TV
