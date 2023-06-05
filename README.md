@@ -809,8 +809,15 @@ http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380005.m3u8
 EXTINF:-1 tvg-logo="", test 9 arena bola 3
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380011.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movie
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
+#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/101462-moviesnow.jpg",Movies Now
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg",MN Plus
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnpls.m3u8
 
 
 
