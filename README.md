@@ -19,7 +19,7 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 ################################################################ MY FREEVIEW ##################################################################################
 
 #EXTINF:-1 tvg-logo="", TEST
-http://95.214.235.96:8880/live/1mmk080198/48271181/71021.m3u8
+http://afrostreamtv.online:2052/Fazly/Fpq26zQoEz/2241?checkedby:Z69TV.com
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
