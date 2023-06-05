@@ -18,8 +18,8 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 
 ################################################################ MY FREEVIEW ##################################################################################
 
-
-
+#EXTINF:-1 tvg-logo="", TEST
+http://95.214.235.96:8880/live/1mmk080198/48271181/71021.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -45,9 +45,9 @@ http://tv365.me:80/live/8059765630/3322606439/191867.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
@@ -685,7 +685,7 @@ http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095480&extension=
 http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1110627&extension=m3u8&play_token=EMPoMeJJFn
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Star_Movies_HD_India.png/revision/latest?cb=20110928174318", star movie
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=282639&extension=m3u8&play_token=go_ott
+http://185.243.7.4/play/live.php?mac=00:1a:79:b1:05:9e&stream=1116488&extension=m3u8&play_token=4Vz9Z4kzRD
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317", star movies select
 http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1116489&extension=m3u8&play_token=740AxcgoQq
