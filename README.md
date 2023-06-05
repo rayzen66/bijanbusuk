@@ -45,20 +45,20 @@ http://muka03.wanicelife.com:8880/play/live.php?mac=00:1A:79:64:08:49&stream=710
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
+http://xtv.ooo:8080/live/asdfgh/asdfgh/229541.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #EXTVLCOPT:http-user-agent=OTT_AQFAD_LiVe_WARNING_12
 #KODIPROP:inputstream.adaptive.stream_headers=referer=OTT_AQFAD_LiVe_WARNING_12
 https://smt.sky4k.eu.org/live2028/index.m3u8?id=Ria
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://speedtrademarket.com/livehd333/irinaspicy/c/ria
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://95.214.235.96:8880/live/3ca05163n13/svyga7csd/1705.m3u8
 
 
