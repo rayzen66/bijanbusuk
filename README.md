@@ -40,7 +40,7 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
-http://tv365.me:80/live/8059765630/3322606439/191867.m3u8
+http://muka03.wanicelife.com:8880/play/live.php?mac=00:1A:79:64:08:49&stream=71020&extension=m3u8&play_token=go_ott
 
 
 
