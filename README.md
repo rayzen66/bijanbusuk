@@ -19,8 +19,6 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 ################################################################ MY FREEVIEW ##################################################################################
 
 
-#EXTINF:-1 tvg-logo="", TEST
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1685902578/ei/koB8ZN2bF--K_9EPvp21wAs/ip/172.177.65.65/id/pykpO5kQJ98.2/itag/95/source/
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
@@ -52,15 +50,15 @@ http://tv365.me:80/live/8059765630/3322606439/191867.m3u8
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
 
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #EXTVLCOPT:http-user-agent=OTT_AQFAD_LiVe_WARNING_12
 #KODIPROP:inputstream.adaptive.stream_headers=referer=OTT_AQFAD_LiVe_WARNING_12
 https://smt.sky4k.eu.org/live2028/index.m3u8?id=Ria
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://speedtrademarket.com/livehd333/irinaspicy/c/ria
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://95.214.235.96:8880/live/3ca05163n13/svyga7csd/1705.m3u8
 
 
