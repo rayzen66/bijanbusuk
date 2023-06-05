@@ -681,23 +681,13 @@ http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095481&extension=
 http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095480&extension=m3u8&play_token=go_ott
 
 
-#EXTINF:-1 tvg-logo="", disney international
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1110627&extension=m3u8&play_token=EMPoMeJJFn
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Star_Movies_HD_India.png/revision/latest?cb=20110928174318", star movie
-http://185.243.7.4/play/live.php?mac=00:1a:79:b1:05:9e&stream=1116488&extension=m3u8&play_token=4Vz9Z4kzRD
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317", star movies select
-http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1116489&extension=m3u8&play_token=740AxcgoQq
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Fox_Movies_%28Asia%29.svg/revision/latest?cb=20170610113934",FOX Movies
-http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts&play_token=w1Gs5vyU6z
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Fox_Action_Movies_2022.svg/revision/latest?cb=20220919015849",Fox Movies Action
-http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&play_token=SzSdQEwOue
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Sky_Cinema_Action_HD_%28alternative%29.svg/revision/latest?cb=20220502180334", sky action
+
+
+
+
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Sky_Cinema_Action_HD_%28alternative%29.svg/revision/latest?cb=20220502180334", sky action
 http://103.145.13.4:8080/live/alinhosniy256/alinhosnipy6531/48939.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd
@@ -813,9 +803,14 @@ http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380011.m3u8
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movie
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
+http://185.243.7.4/play/live.php?mac=00:1a:79:b1:05:9e&stream=1116488&extension=m3u8&play_token=4Vz9Z4kzRD
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317", star movies select
+http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1116489&extension=m3u8&play_token=740AxcgoQq
+
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/101462-moviesnow.jpg",Movies Now
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg",MN Plus
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnpls.m3u8
 
