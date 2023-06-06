@@ -95,6 +95,13 @@ http://hotz.vip:2082/faizatiejom/faizatiejom/27
 
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vdcZaKFbY0s+CXFzqLfqew", "kid":"BRDNLxNQRgGVb7WBZ95r6w" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BVbyCAo.png",Astro Sensasi
+https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/407476.m3u8
 http://149.18.85.131/live/8059765630/3322606439/13490.m3u8
