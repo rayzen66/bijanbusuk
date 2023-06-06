@@ -50,8 +50,8 @@ http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://xtv.ooo:8080/live/asdfgh/asdfgh/229541.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
-http://149.18.85.131/live/8059765630/3322606439/54899.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+http://149.18.85.131/live/8059765630/3322606439/400200335.m3u8
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://speedtrademarket.com/livehd333/irinaspicy/c/ria
@@ -79,7 +79,7 @@ http://149.18.85.131/live/8059765630/3322606439/191900.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 http://speedtrademarket.com/livehd333/irinaspicy/c/warna
-
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=m3u8&play_token=ADhoODj7kx
 
 
 
@@ -90,13 +90,14 @@ http://speedtrademarket.com/livehd333/irinaspicy/c/warna
 http://hotz.vip:2082/faizatiejom/faizatiejom/27
 http://hotz.vip:2082/faizatiejom/faizatiejom/28
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
-http://149.18.85.131/live/8059765630/3322606439/400200335.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571236&extension=m3u8&play_token=1kEm8DbZmS
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
 https://anon.devds.site/link.php?hash=aHR0cHM6Ly9sbmsuZWMveHhjdXQubTN1OA==
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
+http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/407476.m3u8
 http://149.18.85.131/live/8059765630/3322606439/13490.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
