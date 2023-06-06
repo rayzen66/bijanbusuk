@@ -44,7 +44,7 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 https://linears-playback.astro.com.my/vsg/41lXpzlWglCm0GNWgsacPSFTPUp4vuedUI2OuRtWGygyg=jS80/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
@@ -53,10 +53,13 @@ http://xtv.ooo:8080/live/asdfgh/asdfgh/229541.m3u8
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://149.18.85.131/live/8059765630/3322606439/400200335.m3u8
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://speedtrademarket.com/livehd333/irinaspicy/c/ria
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+http://speedtrademarket.com/livehd333/irinaspicy/c/warna
+
 http://95.214.235.96:8880/live/3ca05163n13/svyga7csd/1705.m3u8
 
 
@@ -77,8 +80,8 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 https://linears-playback.astro.com.my/vsg/41XFOOMS4XVPBdc43rbluUAr3YlDFQzgaO9_72ODTSUl0=-2QG/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
-http://speedtrademarket.com/livehd333/irinaspicy/c/warna
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
+
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=m3u8&play_token=ADhoODj7kx
 
 
@@ -100,7 +103,7 @@ http://hotz.vip:2082/faizatiejom/faizatiejom/27
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vdcZaKFbY0s+CXFzqLfqew", "kid":"BRDNLxNQRgGVb7WBZ95r6w" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BVbyCAo.png",Astro Sensasi
+EXTINF:-1 tvg-logo="https://i.imgur.com/BVbyCAo.png",Astro Sensasi
 https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
