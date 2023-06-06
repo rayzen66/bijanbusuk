@@ -41,31 +41,10 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://xtv.ooo:8080/live/asdfgh/asdfgh/229541.m3u8
-#EXTINF:-1 tvg-logo="", TEST 1
-http://xtv.ooo:8080/live/Mohammad/Mohammad123/229541.ts
-#EXTINF:-1 tvg-logo="", TEST 2
-http://xtv.ooo:8080/live/11111/11111/229541.ts
-#EXTINF:-1 tvg-logo="", TEST 3
-http://xtv.ooo:8080/live/Univision@RE/100Bangla/229541.ts
-#EXTINF:-1 tvg-logo="", TEST 4
-http://xtv.ooo:8080/85478880/85478865/229541
-#EXTINF:-1 tvg-logo="", TEST 5
-http://xtv.ooo:8080/311009689/6471777/229541
-#EXTINF:-1 tvg-logo="", TEST 6
-http://xtv.ooo:8080/42774/42774/229541
-#EXTINF:-1 tvg-logo="", TEST 7
-http://xtv.ooo:8080/Ijaaz123/aijaz321/229541
-#EXTINF:-1 tvg-logo="", TEST 8
-http://xtv.ooo:8080/Ijaaz123/aijaz321/229541
-#EXTINF:-1 tvg-logo="", TEST 9
-http://xtv.ooo:8080/6282527/4172427/229541
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://149.18.85.131/live/8059765630/3322606439/54899.m3u8
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
@@ -99,19 +78,12 @@ http://speedtrademarket.com/livehd333/irinaspicy/c/warna
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 http://149.18.85.131/live/8059765630/3322606439/79327.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
-http://149.18.85.131/live/8059765630/3322606439/400200335.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
-http://51.79.206.58:8089/dash/2700.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
-http://51.79.251.116:8080/live/zozo2022/abc12345/27.m3u8?token=GEYOU0ZZQVsaCw9SAARXXVIHVQlZAANQVAAHBQBaBFtXXVcEVlMHAwkQGhJLEUQBUFo5UQVECVABHxEUQ1xGZgoARAgXBVJTDwMUHBoRXwlUFVwITURDC1IRCUMBAQwOUEZKEFBJFwRKXFdcZwFTElhUAxpbCEYOWh8RDl5mUFwOBQhWFwtBURoeFFlLFRReX0IKVE1EUQtCQVIVVRsOG1JcVAUXHUECV0dYREocFF4TYjUaTURWGkJWXRJZVlobWUYLAUAJQU0aW0VvSgBFEENSB1UEFBFYFAMRTRJUVUE8BwlcW1QAFVFdWEMaXxRVExtEVQ4IWhZZQWwRWV0WA0FVUwEEEx4=
 
 
 
