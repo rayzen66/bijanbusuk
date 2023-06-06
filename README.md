@@ -107,6 +107,11 @@ http://149.18.85.131/live/8059765630/3322606439/79327.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
 http://149.18.85.131/live/8059765630/3322606439/400200335.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
+http://51.79.206.58:8089/dash/2700.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
+http://51.79.251.116:8080/live/zozo2022/abc12345/27.m3u8?token=GEYOU0ZZQVsaCw9SAARXXVIHVQlZAANQVAAHBQBaBFtXXVcEVlMHAwkQGhJLEUQBUFo5UQVECVABHxEUQ1xGZgoARAgXBVJTDwMUHBoRXwlUFVwITURDC1IRCUMBAQwOUEZKEFBJFwRKXFdcZwFTElhUAxpbCEYOWh8RDl5mUFwOBQhWFwtBURoeFFlLFRReX0IKVE1EUQtCQVIVVRsOG1JcVAUXHUECV0dYREocFF4TYjUaTURWGkJWXRJZVlobWUYLAUAJQU0aW0VvSgBFEENSB1UEFBFYFAMRTRJUVUE8BwlcW1QAFVFdWEMaXxRVExtEVQ4IWhZZQWwRWV0WA0FVUwEEEx4=
 
 
 
@@ -371,6 +376,11 @@ https://web.hypp.tv/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=web.hypp.t
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:0 tvg-logo="https://cdn.ksa.my.id/thrill.png",Thrill
+https://newanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png", BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
@@ -408,6 +418,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev
 http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=550768&extension=m3u8&play_token=xdbt7BgLik683156
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch510_425_305", WARNER TV
