@@ -88,11 +88,13 @@ http://speedtrademarket.com/livehd333/irinaspicy/c/warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 http://hotz.vip:2082/faizatiejom/faizatiejom/27
+http://hotz.vip:2082/faizatiejom/faizatiejom/28
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
+http://149.18.85.131/live/8059765630/3322606439/400200335.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png", Astro Citra HD
+https://anon.devds.site/link.php?hash=aHR0cHM6Ly9sbmsuZWMveHhjdXQubTN1OA==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
 http://149.18.85.131/live/8059765630/3322606439/13490.m3u8
