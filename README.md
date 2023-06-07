@@ -246,11 +246,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 
 ########################################################## MEDIACORP ##########################################################################################
 
-
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png", Channel Suria 
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/suria
-https://aqfadtv.xyz/live/mewatch/suria/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/d8ed7731-7bc7-4993-9f9d-c98ba9291b5c
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
 
 
 ########################################################### RTB GO ############################################################################################
