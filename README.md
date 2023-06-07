@@ -42,7 +42,7 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
-https://linears-playback.astro.com.my/vsg/41lXpzlWglCm0GNWgsacPSFTPUp4vuedUI2OuRtWGygyg=jS80/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://stream.astradamy.com/RI@.m3u8
 
 
 
