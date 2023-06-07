@@ -113,6 +113,7 @@ https://linears-playback.astro.com.my/vsg/41lw3Drv5xmoP56NwM-MHltavFD87vklugo5SK
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
+http://188.165.218.151:8080/live/puasa/puasa2/172.m3u8
 http://hotz.vip:2082/faizatiejom/faizatiejom/27
 
 
