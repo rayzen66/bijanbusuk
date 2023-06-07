@@ -60,13 +60,15 @@ http://149.18.85.131/live/8059765630/3322606439/191900.m3u8
 
 
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://speedtrademarket.com/livehd333/irinaspicy/c/ria
 
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+#EXTINF:-1 tvg-
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://speedtrademarket.com/livehd333/irinaspicy/c/warna
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://95.214.235.96:8880/live/3ca05163n13/svyga7csd/1705.m3u8
 
 
