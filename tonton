@@ -5,6 +5,28 @@
 
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 *******************************************
+
+EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull
+http://188.165.218.151:8080/live/puasa/puasa2/170.m3u8
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull 
+EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa 
+http://188.165.218.151:8080/live/puasa/puasa2/171.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull 
+EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
+http://188.165.218.151:8080/live/puasa/puasa2/172.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull 
+EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
+http://188.165.218.151:8080/live/puasa/puasa2/173.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull 
+EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
+http://188.165.218.151:8080/live/puasa/puasa2/174.m3u8
+
+
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull TV 
 http://hotz.vip:2082/ejumjom/ejumjom/1
