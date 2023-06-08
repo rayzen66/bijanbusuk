@@ -7,168 +7,17 @@
 *******************************************
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="", TEST
-http://humiptv.live:8080/live/876465421460/087543135678/143001.ts
-#EXTINF:-1 tvg-logo="", TEST2
-http://humiptv.live:8080/live/876465421460/087543135678/143002.ts
-#EXTINF:-1 tvg-logo="", TEST3
-http://humiptv.live:8080/live/876465421460/087543135678/143003.ts
-#EXTINF:-1 tvg-logo="", TEST4
-http://humiptv.live:8080/live/876465421460/087543135678/143004.ts
-#EXTINF:-1 tvg-logo="", TEST5
-http://humiptv.live:8080/live/876465421460/087543135678/143005.ts
-#EXTINF:-1 tvg-logo="", TEST6
-http://humiptv.live:8080/live/876465421460/087543135678/143006.ts
-#EXTINF:-1 tvg-logo="", TEST7
-http://humiptv.live:8080/live/876465421460/087543135678/143007.ts
-#EXTINF:-1 tvg-logo="", TEST8
-http://humiptv.live:8080/live/876465421460/087543135678/143008.ts
-#EXTINF:-1 tvg-logo="", TEST9
-http://humiptv.live:8080/live/876465421460/087543135678/143009.ts
-#EXTINF:-1 tvg-logo="", TEST10
-http://humiptv.live:8080/live/876465421460/087543135678/143010.ts
-#EXTINF:-1 tvg-logo="", TEST11
-http://humiptv.live:8080/live/876465421460/087543135678/143011.ts
-#EXTINF:-1 tvg-logo="", TEST12
-http://humiptv.live:8080/live/876465421460/087543135678/143012.ts
-#EXTINF:-1 tvg-logo="", TEST13
-http://humiptv.live:8080/live/876465421460/087543135678/143013.ts
-#EXTINF:-1 tvg-logo="", TEST14
-http://humiptv.live:8080/live/876465421460/087543135678/143014.ts
-#EXTINF:-1 tvg-logo="", TEST15
-http://humiptv.live:8080/live/876465421460/087543135678/143015.ts
-#EXTINF:-1 tvg-logo="", TEST16
-http://humiptv.live:8080/live/876465421460/087543135678/143016.ts
-#EXTINF:-1 tvg-logo="", TEST17
-http://humiptv.live:8080/live/876465421460/087543135678/143017.ts
-#EXTINF:-1 tvg-logo="", TEST18
-http://humiptv.live:8080/live/876465421460/087543135678/143018.ts
-#EXTINF:-1 tvg-logo="", TEST19
-http://humiptv.live:8080/live/876465421460/087543135678/143019.ts
-#EXTINF:-1 tvg-logo="", TEST20
-http://humiptv.live:8080/live/876465421460/087543135678/143020.ts
-#EXTINF:-1 tvg-logo="", TEST21
-http://humiptv.live:8080/live/876465421460/087543135678/143021.ts
-#EXTINF:-1 tvg-logo="", TEST22
-http://humiptv.live:8080/live/876465421460/087543135678/143022.ts
-#EXTINF:-1 tvg-logo="", TEST23
-http://humiptv.live:8080/live/876465421460/087543135678/143023.ts
-#EXTINF:-1 tvg-logo="", TEST24
-http://humiptv.live:8080/live/876465421460/087543135678/143024.ts
-#EXTINF:-1 tvg-logo="", TEST25
-http://humiptv.live:8080/live/876465421460/087543135678/143025.ts
-#EXTINF:-1 tvg-logo="", TEST26
-http://humiptv.live:8080/live/876465421460/087543135678/143026.ts
-#EXTINF:-1 tvg-logo="", TEST27
-http://humiptv.live:8080/live/876465421460/087543135678/143027.ts
-#EXTINF:-1 tvg-logo="", TEST28
-http://humiptv.live:8080/live/876465421460/087543135678/143028.ts
-#EXTINF:-1 tvg-logo="", TEST29
-http://humiptv.live:8080/live/876465421460/087543135678/143029.ts
-#EXTINF:-1 tvg-logo="", TEST30
+#EXTINF:-1 tvg-logo="", TEST30 oasis
 http://humiptv.live:8080/live/876465421460/087543135678/143030.ts
-#EXTINF:-1 tvg-logo="", TEST31
+#EXTINF:-1 tvg-logo="", TEST31 ria
 http://humiptv.live:8080/live/876465421460/087543135678/143031.ts
-#EXTINF:-1 tvg-logo="", TEST32
+#EXTINF:-1 tvg-logo="", TEST32 prima
 http://humiptv.live:8080/live/876465421460/087543135678/143032.ts
-#EXTINF:-1 tvg-logo="", TEST33
+#EXTINF:-1 tvg-logo="", TEST33 aura/rania
 http://humiptv.live:8080/live/876465421460/087543135678/143033.ts
-#EXTINF:-1 tvg-logo="", TEST34
-http://humiptv.live:8080/live/876465421460/087543135678/143034.ts
-#EXTINF:-1 tvg-logo="", TEST35
+
+#EXTINF:-1 tvg-logo="", TEST35 sensasi
 http://humiptv.live:8080/live/876465421460/087543135678/143035.ts
-#EXTINF:-1 tvg-logo="", TEST36
-http://humiptv.live:8080/live/876465421460/087543135678/143036.ts
-#EXTINF:-1 tvg-logo="", TEST37
-http://humiptv.live:8080/live/876465421460/087543135678/143037.ts
-#EXTINF:-1 tvg-logo="", TEST38
-http://humiptv.live:8080/live/876465421460/087543135678/143038.ts
-#EXTINF:-1 tvg-logo="", TEST39
-http://humiptv.live:8080/live/876465421460/087543135678/143039.ts
-#EXTINF:-1 tvg-logo="", TEST40
-http://humiptv.live:8080/live/876465421460/087543135678/143040.ts
-#EXTINF:-1 tvg-logo="", TEST41
-http://humiptv.live:8080/live/876465421460/087543135678/143041.ts
-#EXTINF:-1 tvg-logo="", TEST42
-http://humiptv.live:8080/live/876465421460/087543135678/143042.ts
-#EXTINF:-1 tvg-logo="", TEST43
-http://humiptv.live:8080/live/876465421460/087543135678/143043.ts
-#EXTINF:-1 tvg-logo="", TEST44
-http://humiptv.live:8080/live/876465421460/087543135678/143044.ts
-#EXTINF:-1 tvg-logo="", TEST45
-http://humiptv.live:8080/live/876465421460/087543135678/143045.ts
-#EXTINF:-1 tvg-logo="", TEST46
-http://humiptv.live:8080/live/876465421460/087543135678/143046.ts
-#EXTINF:-1 tvg-logo="", TEST47
-http://humiptv.live:8080/live/876465421460/087543135678/143047.ts
-#EXTINF:-1 tvg-logo="", TES48
-http://humiptv.live:8080/live/876465421460/087543135678/143048.ts
-#EXTINF:-1 tvg-logo="", TES49
-http://humiptv.live:8080/live/876465421460/087543135678/143049.ts
-#EXTINF:-1 tvg-logo="", TES50
-http://humiptv.live:8080/live/876465421460/087543135678/143050.ts
-#EXTINF:-1 tvg-logo="", TES51
-http://humiptv.live:8080/live/876465421460/087543135678/143051.ts
-#EXTINF:-1 tvg-logo="", TES52
-http://humiptv.live:8080/live/876465421460/087543135678/143052.ts
-#EXTINF:-1 tvg-logo="", TES53
-http://humiptv.live:8080/live/876465421460/087543135678/143053.ts
-#EXTINF:-1 tvg-logo="", TES54
-http://humiptv.live:8080/live/876465421460/087543135678/143054.ts
-#EXTINF:-1 tvg-logo="", TES55
-http://humiptv.live:8080/live/876465421460/087543135678/143055.ts
-#EXTINF:-1 tvg-logo="", TES56
-http://humiptv.live:8080/live/876465421460/087543135678/143056.ts
-#EXTINF:-1 tvg-logo="", TES57
-http://humiptv.live:8080/live/876465421460/087543135678/143057.ts
-#EXTINF:-1 tvg-logo="", TES58
-http://humiptv.live:8080/live/876465421460/087543135678/143058.ts
-#EXTINF:-1 tvg-logo="", TESt59
-http://humiptv.live:8080/live/876465421460/087543135678/143059.ts
-#EXTINF:-1 tvg-logo="", TES60
-http://humiptv.live:8080/live/876465421460/087543135678/143060.ts
-
-
 
 
 
