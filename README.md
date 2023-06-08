@@ -28,6 +28,12 @@ to-be-continued-yes-roundabout-em-cachorres6.ts
 #EXTINF:-1 tvg-logo="", TEST
 tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="", TEST
+https://ogietv.biz.id:443/play/3En1nRaR0x23S4Tt2ZPTbSUvtyR4lIxEQzDlWX7upTo/m3u8
+
+#EXTINF:-1 tvg-logo="", TEST
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=297589&extension=m3u8&play_token=4LQaJ5cbX2
+
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -99,8 +105,6 @@ https://linears-playback.astro.com.my/vsg/41XFOOMS4XVPBdc43rbluUAr3YlDFQzgaO9_72
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=m3u8&play_token=ADhoODj7kx
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 http://185.243.7.58/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=m3u8&play_token=go_ott
