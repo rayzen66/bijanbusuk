@@ -26,7 +26,7 @@ https://live-production.secureswiftcontent.com/exp=1686207075~acl=/hls-p/ingest_
 to-be-continued-yes-roundabout-em-cachorres6.ts
 
 #EXTINF:-1 tvg-logo="", TEST
-tracks-v1a1/mono.m3u8
+https://ddy1.onlinewebtv.lol:443/ddy1/premium31/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="", TEST
 https://ogietv.biz.id:443/play/3En1nRaR0x23S4Tt2ZPTbSUvtyR4lIxEQzDlWX7upTo/m3u8
