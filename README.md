@@ -21,6 +21,14 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 #EXTINF:-1 tvg-logo="", TEST
 https://live-production.secureswiftcontent.com/exp=1686207075~acl=/hls-p/ingest_7464_*/*~hmac=756d79f74ff7f3fbfaa81f4423603cdd40ed0b47abb1c7fe9349ce973b0eee37/hls-p/ingest_7464_720p/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="", TEST
+to-be-continued-yes-roundabout-em-cachorres6.ts
+
+#EXTINF:-1 tvg-logo="", TEST
+tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
