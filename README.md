@@ -131,9 +131,9 @@ https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", Degup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.mpd
 https://aqfadtv.xyz/clearkey/unifitv/degup/
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.mpd
 
 
 
@@ -520,8 +520,11 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", ASTRO ARENA 2 HD
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/379990.m3u8
-http://149.18.85.131/live/8059765630/3322606439/185822.m3u8
 
+
+
+http://149.18.85.131/live/8059765630/3322606439/185822.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", ASTRO ARENA 2 HD
 https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
 
