@@ -67,7 +67,7 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/As
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 https://linears-playback.astro.com.my/vsg/41XFOOMS4XVPBdc43rbluUAr3YlDFQzgaO9_72ODTSUl0=-2QG/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=m3u8&play_token=ADhoODj7kx
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
@@ -76,7 +76,7 @@ http://185.243.7.58/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 http://185.243.7.58/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=m3u8&play_token=go_ott
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 http://149.18.85.131/live/8059765630/3322606439/191900.m3u8
 
 
@@ -88,14 +88,14 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 https://linears-playback.astro.com.my/vsg/41lw3Drv5xmoP56NwM-MHltavFD87vklugo5SKgckrkyU=glLD/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
+EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
 http://149.18.85.131/live/8059765630/3322606439/400200335.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
+EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
 http://188.165.218.151:8080/live/puasa/puasa2/172.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
+EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
 http://hotz.vip:2082/faizatiejom/faizatiejom/27
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
@@ -340,19 +340,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NThmODljYTUtNWM0Yi0zOTM3LWE4MzYtYTY4OTM1YzRhMzYx
-#EXTINF:-1 tvg-logo="https://ws.kapallayar.cc//image//Logo//KIDS//KD_BOOMERANG.png",BOOMERANG
+EXTINF:-1 tvg-logo="https://ws.kapallayar.cc//image//Logo//KIDS//KD_BOOMERANG.png",BOOMERANG
 https://link.zozotv.xyz:443/live/lifeku/lifeku/135.m3u8
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_46.png",Kids TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png", KIDS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png", KIDS TV
-https://anevi-live-channel-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #################################################################### MOVIES ##################################################################################
 
@@ -410,7 +404,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
 
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature
+EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
@@ -486,36 +480,10 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4wTJz1h/astroarena2.png", Astro Arena 2
-http://starshare.live:8080/live/4839858492/3729488393/143019.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", ASTRO ARENA 2 HD
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/379990.m3u8
 http://149.18.85.131/live/8059765630/3322606439/185822.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGrhkm1z/astroarena.png", Astro Arena 1
-http://starshare.live:8080/live/4839858492/3729488393/143018.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LX1SD9rP/astrosport.png", Astro Supersport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium123/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv9WKXWh/astrosport2.png", Astro Supersport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://donelfantastic.github.io/creativemedia/hls/asp2cmedia.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3LtpKmn/astrosport3.png", Astro Supersport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium125/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNPWvDzc/astro4.png", Astro Supersport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium126/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbR1yn6G/astrosport5.png", Astro Supersport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", Astro SuperSport UHD 
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1016544&extension=ts&play_token=1kEm8DbZmS
@@ -679,115 +647,6 @@ https://n07.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdGs8ajQAVVGv4vpE3Kqf
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s193058g.png", MAKMUR FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC083_SC
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Max_%28streaming_service%29_2023.svg/revision/latest?cb=20230413022307", HBO MAX 1
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095496&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Max_%28streaming_service%29_2023.svg/revision/latest?cb=20230413022307", HBO MAX 2
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095495&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 3
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095494&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 4
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095493&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 5
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095492&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 6
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095491&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 7
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095490&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 8
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095489&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 9
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095488&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 10
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095487&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 11
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095486&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 12
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095485&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 13
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095484&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 14
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095483&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 15
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095482&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 16
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095481&extension=m3u8&play_token=go_ott
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-11663461870m9srh5j4us.png", HBO MAX 17
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095480&extension=m3u8&play_token=go_ott
-
-
-
-
-
-
-
-
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Sky_Cinema_Action_HD_%28alternative%29.svg/revision/latest?cb=20220502180334", sky action
-http://103.145.13.4:8080/live/alinhosniy256/alinhosnipy6531/48939.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095797&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 2
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095796&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 3
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095795&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 4
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095794&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 5
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095793&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 6
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095792&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 7
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095791&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 8
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095790&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 9
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095789&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 10
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095788&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 11
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095787&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 12
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095786&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 13
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095785&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 14
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095784&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 15
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095783&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 16
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095782&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 17
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095781&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 18
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095780&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 19
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095779&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 20
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095778&extension=m3u8&play_token=go_ott
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png", sky store hd 21
-http://185.243.7.3/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1095777&extension=m3u8&play_token=go_ott
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
@@ -841,33 +700,15 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 http://starshare.live:8080/live/4839858492/3729488393/979.m3u8
 http://185.243.7.4/play/live.php?mac=00:1a:79:b1:05:9e&stream=1116488&extension=m3u8&play_token=4Vz9Z4kzRD
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png", Star Movies
-http://starshare.live:8080/live/4839858492/3729488393/979.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317", star movies select
 http://starshare.live:8080/live/4839858492/3729488393/23270.m3u8
 http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1116489&extension=m3u8&play_token=740AxcgoQq
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20190810162735", Star Movies Select
-http://starshare.live:8080/live/4839858492/3729488393/23270.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest?cb=20180531123424",Movies Now
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest?cb=20180531123424",Movies Now
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg",MN Plus
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg",MN Plus
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnpls.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest?cb=20171225070136", Boo
-https://astro.kutubusuk.workers.dev/dash-wv/linear/2407/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
