@@ -108,8 +108,8 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 https://linears-playback.astro.com.my/vsg/41lw3Drv5xmoP56NwM-MHltavFD87vklugo5SKgckrkyU=glLD/dash-wv/jitp-dashisowm/2700/default_primary.mpd
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
+http://149.18.85.131/live/8059765630/3322606439/400200335.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
 http://188.165.218.151:8080/live/puasa/puasa2/172.m3u8
@@ -832,9 +832,11 @@ http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380011.m3u8
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movie
+http://starshare.live:8080/live/4839858492/3729488393/979.m3u8
 http://185.243.7.4/play/live.php?mac=00:1a:79:b1:05:9e&stream=1116488&extension=m3u8&play_token=4Vz9Z4kzRD
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317", star movies select
+http://starshare.live:8080/live/4839858492/3729488393/23270.m3u8
 http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1116489&extension=m3u8&play_token=740AxcgoQq
 
 #EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/101462-moviesnow.jpg",Movies Now
