@@ -18,11 +18,6 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 
 ################################################################ MY FREEVIEW ##################################################################################
 
-#EXTINF:-1 tvg-logo="", Test 1
-http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/197972.m3u8
-#EXTINF:-1 tvg-logo="", Test 2
-http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/197972.m3u8
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
@@ -41,7 +36,31 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 https://aqfadtv.xyz/live/tv3/index.mpd
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+https://stream.astradamy.com/RI@.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+#EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
+http://188.165.218.151:8080/live/puasa/puasa2/7868.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", Astro Prima HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+https://aqfadtv.xyz/live/prima/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Astro_Oasis.png/220px-Astro_Oasis.png", Astro Oasis HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505
+https://aqfadtv.xyz/live/oasis/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
+http://185.243.7.58/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=m3u8&play_token=go_ott
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
+http://hotz.vip:2082/faizatiejom/faizatiejom/27
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
+http://humiptv.live:8080/live/876465421460/087543135678/143035.ts
 
 
 
