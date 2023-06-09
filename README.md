@@ -18,6 +18,11 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 
 ################################################################ MY FREEVIEW ##################################################################################
 
+#EXTINF:-1 tvg-logo="", Test 1
+http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/197972.m3u8
+#EXTINF:-1 tvg-logo="", Test 2
+http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/197972.m3u8
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
