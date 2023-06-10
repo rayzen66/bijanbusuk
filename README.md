@@ -18,6 +18,14 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 
 ################################################################ MY FREEVIEW ##################################################################################
 
+
+#EXTINF:-1 tvg-logo="", TEST
+http://185.243.7.58:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571205&extension=m3u8&play_token=jYu1ANH1JI
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
@@ -38,7 +46,8 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 https://stream.astradamy.com/RI@.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
 http://188.165.218.151:8080/live/puasa/puasa2/7868.m3u8
 
@@ -58,6 +67,9 @@ http://185.243.7.58/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
 http://hotz.vip:2082/faizatiejom/faizatiejom/27
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png", Astro Citra HD
+http://149.18.85.131/live/8059765630/3322606439/400200335.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
 http://humiptv.live:8080/live/876465421460/087543135678/143035.ts
@@ -83,7 +95,7 @@ https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", Degup
+EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", Degup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://aqfadtv.xyz/clearkey/unifitv/degup/
@@ -177,9 +189,7 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Astro_AB
 #KODIPROP:inputstream.adaptive.license_key=https://speedtrademarket.com/mytv/dash-ck/linear/2109
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default.mpd
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png", COLORS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -474,12 +484,15 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", ASTRO ARENA 2 HD
+http://149.18.85.131/live/8059765630/3322606439/185822.m3u8
+
+
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/379990.m3u8
 
 
 
-http://149.18.85.131/live/8059765630/3322606439/185822.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", ASTRO ARENA 2 HD
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", ASTRO ARENA 2 HD
 https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
 
