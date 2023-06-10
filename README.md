@@ -19,8 +19,7 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 ################################################################ MY FREEVIEW ##################################################################################
 
 
-#EXTINF:-1 tvg-logo="", TEST
-http://185.243.7.58:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571205&extension=m3u8&play_token=jYu1ANH1JI
+
 
 
 
@@ -48,7 +47,7 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 https://stream.astradamy.com/RI@.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
-https://smt.sky4k.eu.org/live2088/index.m3u8?id=Ria_test
+https://stream.astradamy.com/RI@_src.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", Astro Prima HD
