@@ -21,7 +21,8 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 
 
 
-
+#EXTINF:-1 tvg-logo="", Test
+https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 
 
 
@@ -485,10 +486,10 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", ASTRO ARENA 2 HD
 http://149.18.85.131/live/8059765630/3322606439/185822.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", ASTRO ARENA 2 HD
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/379990.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", ASTRO ARENA 2 HD
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", ASTRO ARENA 2 HD
@@ -506,16 +507,15 @@ https://daddyhd.mammothtv.workers.dev/dash-wv/linear/1601/default_primary.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport HD
-https://staging-linearjitp-playback.astro.com.my/hls-mp4-fp/linear/601/default.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 HD
 #EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://ott-navigator.my.id/000143-356212-936581/sportifitasku/btsports/master_astro.m3u8?id=assp2
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png", Astro SuperSport 2 HD
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png", Astro SuperSport 3 HD
 #EXTVLCOPT:http-user-agent=otto-aplikasi
