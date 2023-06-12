@@ -737,7 +737,7 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://bgtv.site:
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Firefox
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg/revision/latest?cb=20200508220352",HBO Xtreme HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6TyP8kJ/20230519-230031.jpg",HBO Xtreme HD
 https://live5-ott.izzigo.tv/out/u/dash/HBO-XTREME-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -760,9 +760,7 @@ EXTINF:-1 tvg-logo="", test 9 arena bola 3
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380011.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony PIX
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
-#EXTINF:-1 tvg-id="SonyPix" ch-number="" group-title="Movies" tvg-logo="https://i.ibb.co/TcLpjwD/logo.png", Sony Pix 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movie
