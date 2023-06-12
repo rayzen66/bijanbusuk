@@ -348,7 +348,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
-#EXTINF:0 tvg-logo="https://i.postimg.cc/tgRZfkjt/20220926-161550.png",Thrill
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",Thrill
 https://newanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png", BOO
@@ -477,28 +477,9 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 
-https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
-
-https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
-
-https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", ASTRO ARENA 2 HD
-http://149.18.85.131/live/8059765630/3322606439/185822.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", ASTRO ARENA 2 HD
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/379990.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", ASTRO ARENA 2 HD
-https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
-
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", ASTRO ARENA 2 HD
-https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+http://kuchini.site:8080/9a7c64ba/PJnnJEHm8BxxyKdg/287793
 
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", Astro SuperSport UHD 
