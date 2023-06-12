@@ -48,7 +48,7 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 https://stream.astradamy.com/RI@.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
-https://stream.astradamy.com/RI@_src.m3u8
+http://45.143.222.41:8080/live/1c8aff65/bce3124507/158347.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
