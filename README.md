@@ -43,8 +43,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
 https://aqfadtv.xyz/live/tv3/index.mpd
 
-
-
+#EXTINF:-1 tvg-logo="", Test
+https://tvmalaysia.xyz/hls/ria.m3u8|referer=https://www.tvmalaysiaonline.xyz/2021/06/ria.html
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NThmODljYTUtNWM0Yi0zOTM3LWE4MzYtYTY4OTM1YzRhMzYx
