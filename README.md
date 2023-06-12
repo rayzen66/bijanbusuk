@@ -52,7 +52,7 @@ http://45.143.222.41:8080/live/1c8aff65/bce3124507/158347.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-http://iptv12k.com:35461/live/649010610007/887543/735.ts
+http://104.193.225.145:8080/live/RI@/RI@.m3u8?hls_ctx=e9537xv6
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
