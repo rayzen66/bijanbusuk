@@ -21,9 +21,6 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 
 
 
-#EXTINF:-1 tvg-logo="", Test
-https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
-
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
@@ -43,11 +40,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
 https://aqfadtv.xyz/live/tv3/index.mpd
 
-#EXTINF:-1 tvg-logo="", Test
-http://104.193.225.145:8080/live/RI@/RI@.m3u8?hls_ctx=e9537xv6
 
-#EXTINF:-1 tvg-logo="", Test
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=go_ott
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NThmODljYTUtNWM0Yi0zOTM3LWE4MzYtYTY4OTM1YzRhMzYx
