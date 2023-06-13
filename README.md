@@ -26,9 +26,7 @@ http://51.79.82.208:16007
 
 
 #EXTINF:-1 tvg-logo="", test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dcqkiaqc3sngm.cloudfront.net/dash-ck/linear/711
-http://linear08-playback.sooka.my/dash-wv/linear/711/default_primary.mpd
+http://linear08-playback.sooka.my//CH2/masterCH2.mpd
 
 
 
