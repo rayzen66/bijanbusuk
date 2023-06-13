@@ -18,7 +18,11 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 
 ################################################################ MY FREEVIEW ##################################################################################
 
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-logo=" https://i.postimg.cc/L4WMKL9j/ASTRO-CITRA.png " group-title="TV MALAYSIA",Astro CITRA
+http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-logo=" https://i.postimg.cc/1zKZLdXz/ASTRO-RIA.png " group-title="TV MALAYSIA",Astro RIA
+http://51.79.82.208:16007
 
 
 
@@ -442,9 +446,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 http://kuchini.site:8080/9a7c64ba/PJnnJEHm8BxxyKdg/287793
 
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", Astro SuperSport UHD 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", Astro SuperSport UHD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mammothtv.my.id/astro/1601
+https://7pal.short.gy/astrouhd
 https://daddyhd.mammothtv.workers.dev/dash-wv/linear/1601/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png", Astro SuperSport HD
