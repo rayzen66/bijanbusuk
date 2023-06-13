@@ -25,6 +25,11 @@ http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
 http://51.79.82.208:16007
 
 
+#EXTINF:-1 tvg-logo="", test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dcqkiaqc3sngm.cloudfront.net/dash-ck/linear/711
+http://linear08-playback.sooka.my/dash-wv/linear/711/default_primary.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
