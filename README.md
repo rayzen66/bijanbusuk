@@ -43,14 +43,14 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 
 ***********************************************************************************************************************************************
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net/haji
 http://188.165.218.151:8080/live/haji/haji/11.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
-http://iptv12k.com:35461/live/649010610007/123321/4354.ts
+http://syok.tv:25461/live/SK085112/67834/18.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://141.95.55.32:25461/live/SK085112/67834/18.ts
@@ -73,6 +73,9 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
 http://141.95.55.32:25461/live/SK085112/67834/22.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png", Astro Warna HD
+http://syok.tv:25461/live/SK085112/67834/22.ts
 
 **************************************************************************************************************************************************
 
