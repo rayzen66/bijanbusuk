@@ -100,7 +100,7 @@ http://humiptv.live:8080/live/876465421460/087543135678/143035.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NThmODljYTUtNWM0Yi0zOTM3LWE4MzYtYTY4OTM1YzRhMzYx
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png", Salam HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Salam_HD.png", Salam HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9X1Uzxq6NAAqGASx47cKgqfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080121%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080121%2Curn:Huawei:liveTV:iptv47777%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOXQuCMBiF_80uR5s25sWuiiCIFWTdxuv2usTpbLOgf5-WXZ6P53DGCAb3W1Wtpcmx4NbWeV5gNWkQmQCb1RIlCpLwoYPixID3Te90sDN2PW9ubEVXlHNGGSflPLfz4JamfnYVRpX9sTPGV2NQ2VTTFyQKzkV0MDahpycP70v0S4VguVxjQhRc5oJzIRkZZ7eE1E4JuUPahG6AiPYQ3BdQNfiEZADTgkMNHar-6f2PO0Y7vfkAzoOp1vQAAAA&tenantId=6001
 
 
@@ -789,12 +789,15 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movie
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
+http://shareex@195.26.87.217/live?channelId=198&deviceMac=00:1A:79:33:E9:41
 
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317", star movies select
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317", star movies select
+http://shareex@195.26.87.217/live?channelId=199&deviceMac=00:1A:79:33:E9:41
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest?cb=20180531123424",Movies Now
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=156022&extension=m3u8&play_token=xdbt7BgLik
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg",MN Plus
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnpls.m3u8
