@@ -443,11 +443,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 http://iptv12k.com:35461/live/649010610007/123321/20681.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png", ASTRO ARENA 2 HD
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY4NzE4ODE4MiwiaWF0IjoxNjg2NTg0MTgyfQ.CElm3W3EUEnZU2r9FE9-DmS-P33goHKq7kxfgdaUauY"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ // 'key-id-in-hex': 'key-in-hex',"ca4f5ff4e4694d54bdfdc9bd34384290": "1100fe297146f7d024b59944f09e6d1a"}
-https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png", Astro SuperSport UHD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
