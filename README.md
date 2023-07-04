@@ -668,6 +668,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bernama-my.png", Bernama HD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1688440312/ei/mDmjZLLILsmvkgbPv4CoAQ/ip/13.73.36.94/id/34pdxUincPw.9/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/hls_chunk_host/rr3---sn-o097znze.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/Ul2Sq_s3UonC7pYc4lHwYQSG3BWJDSjiuG4t53FIrg/vprv/1/playlist_type/DVR/mh/4y/mm/44/mn/sn-o097znze/ms/lva/mv/u/mvi/3/pl/22/dover/11/pacing/0/keepalive/yes/fexp/24007246,51000022/beids/24350017/mt/1688418311/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgauY_JG-RfqIh5q18KluGiil0PnN4V8ihr7TY4K4klqICIHbxpNcKi9MPWlcr5DHbG__RKjUIGqC8fhjjqhymNmS5/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgM_C3AiJOujwVjHOdMZ3E0q3DdgQSTQK6YvdwGkqsjlcCIQDZhlTWFruy7AIVI57YfyJCNZwXBmVww6KMxn5KmB1pWw%3D%3D/playlist/index.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
 
@@ -950,9 +951,24 @@ https://github.com/OngisMbois/VOD/raw/main/Zhazam2.m3u8
 
 
 
+#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Asstro", As-stro Warna HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+http://51.81.208.129:35461/80203091402/213445/5075
 
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my 
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
+http://51.81.208.129:35461/17501083101/524668/735
 
+#EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asstro" tvg-id="",Ass-tro Citra HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+http://51.81.208.129:35461/80203091402/213445/6608
 
 
 
