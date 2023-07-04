@@ -55,19 +55,11 @@ http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
-https://local.kpsvpn.com/index_1004.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-https://quiet-rain-1d8f.wkwkw.workers.dev/staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Astro_Prima_HD.png", Astro Prima HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -79,22 +71,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850", Astro Warna HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://local.kpsvpn.com/index_2402.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850", Astro Warna HD
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/380152.m3u8
-
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 https://quiet-rain-1d8f.wkwkw.workers.dev/staging-linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
-http://149.18.85.131/live/8059765630/3322606439/13490.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NThmODljYTUtNWM0Yi0zOTM3LWE4MzYtYTY4OTM1YzRhMzYx
@@ -112,7 +93,7 @@ https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", Degup
+EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png", Degup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
@@ -151,7 +132,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",Suke TV
+EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",Suke TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://www.youtube.com
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
@@ -976,34 +957,6 @@ https://n07.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdGs8ajQAVVGv4vpE3Kqf
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s193058g.png", MAKMUR FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC083_SC
 
-#############   VOD   ##############################
-####################################################
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Avatar 2
-https://github.com/OngisMbois/VOD/raw/main/avatar.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Antman Quantumania
-https://github.com/OngisMbois/VOD/raw/main/AntmanQuantumania.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Fast X
-https://github.com/OngisMbois/VOD/raw/main/FastX.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Sonic 2
-https://github.com/OngisMbois/VOD/raw/main/Sonic2.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Black Adam
-https://github.com/OngisMbois/VOD/raw/main/Blackadam.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Transformer Beats
-https://github.com/OngisMbois/VOD/raw/main/Transformerbeats.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Shangchi
-https://github.com/OngisMbois/VOD/raw/main/Shangchi.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Wakanda Forever
-https://github.com/OngisMbois/VOD/raw/main/Wakandaforever.m3u8
-
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Shazam 2
-https://github.com/OngisMbois/VOD/raw/main/Zhazam2.m3u8
 
 
 #EXTINF:-1 tvg-logo="",TEST 1
