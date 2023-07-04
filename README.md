@@ -851,27 +851,6 @@ https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 https://1.yurend.xyz/dash-wv/linear/5059/default_primary.mpd
 **************************************************************************************************************************************************************************
 
-#EXTINF:-1 tvg-id="AstroUHD.my" tvg-name="Astro UHD" tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png" group-title="Sports",Astro SuperSport UHD 
-
-
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png"  group-title="Sports",Astro SuperSport 
-
-**https://astrompd2.thescript2.workers.dev/dash-wv/linear/601/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/ZX3ycOV.png" group-title="Sports",Astro SuperSport 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnhks.lol/lb/premium124/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/aZlaotH.png" group-title="Sports",Astro SuperSport 3 
-
-
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/TBZ5Op7.png" group-title="Sports",Astro SuperSport 4 
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/1NzIte.png",SPOTV 
