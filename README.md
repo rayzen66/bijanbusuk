@@ -719,6 +719,15 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/379990.m3u8
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png", Astro Arena 2 HD 
+http://ae2.aatvbox.club:8880/12mk160078/31623992/1696
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png", Astro Arena 2 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
+https://daddyhd.mammothtv.workers.dev/dash-wv/linear/5057/default_ott.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -975,10 +984,6 @@ https://github.com/OngisMbois/VOD/raw/main/Zhazam2.m3u8
 
 
 
-#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Asstro", As-stro Warna HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-http://51.81.208.129:35461/80203091402/213445/5075
 
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -989,10 +994,27 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Asstro" tvg-id="",Ass-tro Ria HD
 http://51.81.208.129:35461/17501083101/524668/735
 
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-logo=" https://i.postimg.cc/1zKZLdXz/ASTRO-RIA.png " group-title="TV MALAYSIA",Astro RIA
+http://51.79.82.208:16007
+
+#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Asstro", As-stro Warna HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+http://51.81.208.129:35461/80203091402/213445/5075
+
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo=" https://i.postimg.cc/qMCHkqqS/ASTRO-WARNA.png " group-title="TV MALAYSIA",Astro WARNA
+https://stream.zeehanzgadget.com/warna
+
 #EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asstro" tvg-id="",Ass-tro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 http://51.81.208.129:35461/80203091402/213445/6608
+
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-logo=" https://i.postimg.cc/L4WMKL9j/ASTRO-CITRA.png " group-title="TV MALAYSIA",Astro CITRA
+http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo=" https://i.postimg.cc/9MFjVBwY/ASTRO-CERIA.png " group-title="TV MALAYSIA",Astro CERIA
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
 
 
 
