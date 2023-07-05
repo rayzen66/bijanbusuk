@@ -977,17 +977,17 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC083_SC
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9986
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Test" tvg-logo="https://i.postimg.cc/G35DqDGn/20230704-160004.png",TEST 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G35DqDGn/20230704-160004.png",TEST 1
 https://malay.yurendtv.biz.id/dash-wv/linear/9986/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9987
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Test" tvg-logo="https://i.postimg.cc/G35DqDGn/20230704-160004.png",TEST 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G35DqDGn/20230704-160004.png",TEST 2
 https://malay.yurendtv.biz.id/dash-wv/linear/9987/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9988
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Test" tvg-logo="https://i.postimg.cc/G35DqDGn/20230704-160004.png",TEST 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G35DqDGn/20230704-160004.png",TEST 3
 https://malay.yurendtv.biz.id/dash-wv/linear/9988/default_ott.mpd
 
 
