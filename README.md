@@ -717,9 +717,9 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/379990.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png", Astro Arena 2 HD 
-http://ae2.aatvbox.club:8880/12mk160078/31623992/1696
+http://62.210.209.242:2095/live/metatvpro/888909/26306.ts?token=GEFeAEAMEQ5EAghSBAAHAFZSUApUBgYCDlEHUFFXVFJUBQ5ZAQUAVwURFUcSTBRRUgg6WwEVC1MBAwAETRQXEAYRaQhXRgkWVQQOXFUaShZHDAhXRw0AVw8IBQFXAlFRT0FGCFdGCRZXCwhcWBpKFlYdEVcXWVANaFRVRAhVB0FZDUMNX0gRWwhsXQAMWQhQEV9HAkcbEwhEQBIID0MOD09BVAhHFlJAAxEDR1ABUAQRSUdRCkJfFUVJEghDYzFBT0FTGUcBXUcPXFdHWxoSRxFJR1sWaEMERERCVwBbBxFBWRRQEUgRWQdLZgYOVghRUBEMXQtEE1sVBgACQxpADgwNXxVcFmxED1cbX0MKVQULUEdP#https://dispatch.ulivetv.net/v/live/cg4vigttsr0g.m3u8?stream_id=cg4vigttsr0g&timestamp=1686363320&rand=clwUXaWaW0&uuid=9b647b3816b2a66a&from=web&sign=f26a720ac30b707f8355840b22c2f1f0#P2p://ns2.hellotvvod.com:9906/dea566c69fda4f6c97c23aa0ead5320b.ts#http://syok.tv:2082/1122/1122/123#https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png", Astro Arena 2 HD 
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png", Astro Arena 2 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
 https://daddyhd.mammothtv.workers.dev/dash-wv/linear/5057/default_ott.mpd
