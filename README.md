@@ -967,19 +967,21 @@ https://n07.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdGs8ajQAVVGv4vpE3Kqf
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC083_SC
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9986
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Test" tvg-logo="https://i.postimg.cc/G35DqDGn/20230704-160004.png",TEST 1
+https://malay.yurendtv.biz.id/dash-wv/linear/9986/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="",TEST 1
-http://194.62.215.10:8080/hls/81c51ed7b35a113fa96c5700fe51b8a7/735_156.ts
-#EXTINF:-1 tvg-logo="",TEST 2
-http://194.62.215.10:8080/hls/c8d51f62ad64dc32ac03ad61488e7f88/735_157.ts
-#EXTINF:-1 tvg-logo="",TEST 3
-http://194.62.215.10:8080/hls/733102db4f7a0cd9816fd9b693c49cf3/735_158.ts
-#EXTINF:-1 tvg-logo="",TEST 4
-http://194.62.215.10:8080/hls/4168a49c6674cc520b97d14ad1a725a7/735_159.ts
-#EXTINF:-1 tvg-logo="",TEST 5
-http://194.62.215.10:8080/hls/48597dd5bb3c41c632060a2a884f6b02/735_160.ts
-#EXTINF:-1 tvg-logo="",TEST 6
-http://194.62.215.10:8080/hls/b1777ee3707f05ba6a33db07db16e796/735_161.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9987
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Test" tvg-logo="https://i.postimg.cc/G35DqDGn/20230704-160004.png",TEST 2
+https://malay.yurendtv.biz.id/dash-wv/linear/9987/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9988
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Test" tvg-logo="https://i.postimg.cc/G35DqDGn/20230704-160004.png",TEST 3
+https://malay.yurendtv.biz.id/dash-wv/linear/9988/default_ott.mpd
+
 
 
 #EXTM3U billed-msg=" Bijanbusuk"
