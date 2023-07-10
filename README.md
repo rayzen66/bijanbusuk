@@ -53,6 +53,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"37fb99ca61a94c889fdc758bb2a67495","kid":"f723fd2686d9ce8f76a83fac34dff9e4"}],"type":"temporary"}
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/158347.m3u8
 https://1.yurend.xyz/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
@@ -85,6 +86,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=m3u8
 http://51.81.208.129:35461/80203091402/213445/5075
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", Astro Warna
