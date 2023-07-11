@@ -88,7 +88,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 http://185.243.7.57/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941609&extension=m3u8
 http://51.81.208.129:35461/80203091402/213445/5075
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", Astro Warna
+http://185.243.7.4/play/live.php?mac=00:1A:79:73:45:10&stream=941609&extension=m3u8&play_token=go_ott
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", Astro Warna
 http://humiptv.live:8080/live/9225387350/9272623816/143158.ts
 
