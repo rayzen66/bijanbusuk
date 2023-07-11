@@ -15,6 +15,16 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 
+########################################################################################################################################
+
+#EXTINF:-1 tvg-logo="", test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my 
+https://linears-playback.astro.com.my/vsg/41kg41I1M694jfjnbJ3EsM46MwGUcR9YwKC2WHG78IiGQ=61SV/dash-wv/jitp-dashisowm/2400/default.mpd
+
+
+
 
 ################################################################ MY FREEVIEW ##################################################################################
 
