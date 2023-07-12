@@ -39,6 +39,10 @@ https://links.nextvcloud.cf:443/play/iruX5qQWl-zcQ7cWUL5Ru-yP1lMVo4-UI3KjvO1VhZc
 http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=go_ott
 
 
+
+#EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MALAYSIA",ASTRO CITRA
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AstroWarna.my" ch-number="132" tvg-name="Astro Warna HD" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/JCn7Yd0.png", 132 Astro Warna ⁽ˢᵉʳᵛᵉʳ ²⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402/
