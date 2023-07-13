@@ -16,6 +16,26 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 
 ########################################################################################################################################
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO",Astro Ria
+https://axcestv.com:443/shukri/shukri/453
+
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria [B]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO",Astro Ria [B]
+https://axcestv.com:443/shukri/shukri/454
+
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna [A]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO",Astro Warna [A]
+https://axcestv.com:443/shukri/shukri/455
+
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna [B]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO",Astro Warna [B]
+https://axcestv.com:443/shukri/shukri/456
+
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna [C]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO",Astro Warna [C]
+https://axcestv.com:443/shukri/shukri/457
+
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra [A]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO",Astro Citra [A]
+https://axcestv.com:443/shukri/shukri/458
+
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra [B]" tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="ASTRO",Astro Citra [B]
+https://axcestv.com:443/shukri/shukri/459
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png", TV1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
