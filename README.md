@@ -49,6 +49,17 @@ https://live.mana2.my/Mytv/index.m3u8|User-Agent=Mozilla
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
 http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+https://rtmsport.com/6ri4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+https://smt.sky4k.eu.org/live2088/index.m3u8?id=Ria_mega
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+https://smt.sky4k.eu.org/live2088/index.m3u8?id=Ria_test
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+https://rtmsport.com/1ri4.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -67,6 +78,30 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.p
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/407489.m3u8
 http://dmtn.tv:8080/live/steveny5997/54332611/407489.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", Astro Warna
+https://rtmsport.com/9warn4.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", Astro Warna
+http://185.243.7.4/play/live.php?mac=00:1A:79:73:45:10&stream=941609&extension=m3u8&play_token=go_ott
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", Astro Warna
+https://local.kpsvpn.com/index_2402.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", Astro Warna
+http://51.161.209.155:35461/live/649010610007/123321/5075.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", Astro Warna
+https://smt.sky4k.eu.org/live2088/index.m3u8?id=Warna
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", Astro Warna
+http://149.18.85.131/live/8059765630/3322606439/191900.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra
+https://rtmsport.com/5citr4.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra
+https://local.kpsvpn.com/index_2700.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra
+http://188.165.218.151:8080/live/haji/haji/172.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra
+http://149.18.85.131/live/8059765630/3322606439/400200335.m3u8
 
 
 EXTINF:-1 group-title="ASTRO MY",MY Astro Sensasi
