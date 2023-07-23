@@ -99,6 +99,11 @@ http://dmtn.tv:8080/live/steveny5997/54332611/407489.m3u8
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 https://quiet-rain-1d8f.wkwkw.workers.dev/staging-linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
+http://103.68.63.37:8278/Citra/playlist.m3u8?tid=MD3D9091559590915595&ct=19254&tsum=4026cb2674e22ae93b855d7d6f1d3af2
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra HD
+http://ac.skyvod.eu.org:8080/live/AEC_SKY.m3u8
+
 EXTINF:-1 group-title="ASTRO MY",MY Astro Sensasi
 http://humiptv.live:8080/live/9225387350/9272623816/143035.ts
 
@@ -163,10 +168,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",Suke TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://www.youtube.com
-https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",Suke TV
+https://live.mana2.my/SukeTv/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
