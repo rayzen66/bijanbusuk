@@ -727,6 +727,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png", Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
+http://8.219.138.150:8885/streams/mac3bSuBYM_T_8FPLznb1lF7PfNnbYlLevWfhP5BoFX7i8zHdTU-4y7CWQ9ckjMk8AE1h6HfMQaq5f_h-v0LwE2CEYknYZfu0Ps2h1Ai60Ddb2AE0xABsq4aclwOeJByxWF-kvRcwPPcz5Q3klGRrRmJA9cklGQL_ZL6ZeZ6ptU5h7Srks0U7T94AdU3oVo1BxC6-StIF-THzOrBKfijYNsauHxQ35-WoAcFFMIPudAZawOOPXzh6YXkKwHe1Itl.m3u8?u=1690126544
 https://linears-playback.astro.com.my/vsg/41SAZDZZXCqZTOQJXNJxrc6uEZZouAavS-LdC7W0HdG2k=WJ9V/dash-wv/jitp-linearwm/5057/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
