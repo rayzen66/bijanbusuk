@@ -745,6 +745,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b5e515638de4243b6ba49843d0be763:24ad47f73c8cfffc6961d47aa551b882
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HUXpNbUptTm1JdE5EQm1OQzAwTVRneExXRm1ZalV0T1RabU9UY3hPRGsyWmpreSIsIndtb3BpZCI6MzIsImV4cCI6MTY5MDU0MjY1NiwiaWF0IjoxNjg5OTM4NjU2fQ.s0sQx8GzttScF4C0ybmwQZxo8GX7_msIIloczYs3LCA"}
+#EXTINF:-1 tvg-id="802.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="AOTG All;Sports",Astro Arena 2 HD
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png", Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
