@@ -887,7 +887,12 @@ EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Bein
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5013 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
 
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Bein-sports-2-hero.png/revision/latest?cb=20170624055814",beIN Sports 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bein-sports-3-hero.png/revision/latest?cb=20170624060242",beIN Sports 3 HD
@@ -923,6 +928,30 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="Sports",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdndac.lol/lb/premium123/index.m3u8
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="Sports",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdndac.lol/lb/premium124/index.m3u8
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="Sports",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdndac.lol/lb/premium125/index.m3u8
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="Sports",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdndac.lol/lb/premium126/index.m3u8
+#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="Sports",Astro SuperSport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdndac.lol/lb/premium43/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s", GP 1
