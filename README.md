@@ -47,6 +47,16 @@ https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/arena2/
 https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
+#EXTINF:-1 tvg-logo="", PILIHAN
+http://w.nasvpn.xyz:8080/live/saya/saya/13852.ts?blog.ntnas.top
+
+#EXTINF:-1 tvg-logo="", PELANGI
+http://w.nasvpn.xyz:8080/live/saya/saya/13853.ts?blog.ntnas.top
+
+#EXTINF:-1 tvg-logo="", HARMONI
+http://w.nasvpn.xyz:8080/live/saya/saya/13854.ts?blog.ntnas.top
+
+
 #EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/promotion/2023/feb/arenabola_logo.png", Arena Bola
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MjgzMDk3NCwiaWF0IjoxNjkyMjI2OTc0fQ.BxfNFmwg7YfcjPjV7d2zDksh81gZr0Ua_Z9JbXYfIUs"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -187,6 +197,13 @@ https://linears-playback.astro.com.my/vsg/41xZ4J1ZOVmc8S_84j8KPZHpSmSs4ZLLBwFoqy
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA 10
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA 11
+http://w.nasvpn.xyz:8080/live/saya/saya/11.ts?blog.ntnas.top
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA 12
+http://w.nasvpn.xyz:8080/live/saya/saya/7868.ts?blog.ntnas.top
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000
@@ -240,14 +257,16 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 https://ktpremium.com:443/live/Hasan/Hasan/913177.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",Astro Citra hd 2
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-##https://aqfadtv.xyz/live/citra/index.mpd
-##https://linears-playback.astro.com.my/vsg/41VKHsj_WiLj_8PIlULli0WzhUDi-8zGm7sgyhAlDF5UQ=UBTa/dash-wv/jitp-dashisowm/2700/default.mpd
 http://thefirefox12537.github.io/streams/astro/citra.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",Astro Citra hd 2
+http://w.nasvpn.xyz:8080/live/saya/saya/172.ts?blog.ntnas.top
 
 #EXTINF:-1 tvg-logo="", Astro Sensasi
 https://ktpremium.com:443/live/123meta101/34tregfsfsdf4/910978.m3u8
+
+#EXTINF:-1 tvg-logo="", Astro Sensasi
+http://w.nasvpn.xyz:8080/live/saya/saya/16539.ts?blog.ntnas.top
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NThmODljYTUtNWM0Yi0zOTM3LWE4MzYtYTY4OTM1YzRhMzYx
@@ -666,8 +685,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8yZr7GB/JYefSGQPMPHIiA","kid":"6k1RreAbvzlG4N6XMFG6EA"}],"type":"temporary"}
-EXTINF:0 tvg-logo="https://i.imgur.com/Y282owj.png",Thrill
-https://newanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTINF:0 tvg-logo="https://i.imgur.com/Y282owj.png",Thrill
+http://w.nasvpn.xyz:8080/live/saya/saya/179.ts?blog.ntnas.top
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
