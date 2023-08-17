@@ -83,7 +83,26 @@ https://linears-playback.astro.com.my/vsg/21sgEalpx3rXGcrM7IGDz2Z6EMWUDmx1Yu0qmY
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/ac6413ad-066e-43df-ad3d-5946408bb0ed
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name=" [MY] ASTRO Citra (not 24/7)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png" group-title="[VIP] MALAYSIA", [MY] ASTRO Citra (not 24/7)
+https://ktpremium.com:443/bigboy/bigboy/25852
 
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="[MY] ASTRO Citra (recording)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO Citra (recording)
+https://ktpremium.com:443/bigboy/bigboy/913177
+
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="[MY] ASTRO RIA HD(not 24/7)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="[VIP] MALAYSIA",[MY] ASTRO RIA HD(not 24/7)
+https://ktpremium.com:443/bigboy/bigboy/25855
+
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="[MY] ASTRO RIA HD (B)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="[VIP] MALAYSIA",[MY] ASTRO RIA HD (B)
+https://ktpremium.com:443/bigboy/bigboy/912833
+
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="[MY] ASTRO WARNA HD (not 24/7)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-warna-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO WARNA HD (not 24/7)
+https://ktpremium.com:443/bigboy/bigboy/25867
+
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="[MY] ASTRO WARNA HD (B)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-warna-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO WARNA HD (B)
+https://ktpremium.com:443/bigboy/bigboy/912836
+
+#EXTINF:-1 tvg-id="116.unifi" tvg-name="[MY] Astro Sensasi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png" group-title="[VIP] MALAYSIA",[MY] Astro Sensasi
+https://ktpremium.com:443/bigboy/bigboy/910978
 ################################################################ MY FREEVIEW ##################################################################################
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
