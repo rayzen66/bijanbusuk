@@ -82,6 +82,7 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_H
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=XCIPTV-v5.0.1
 #EXTVLCOPT:http-icy-metadata=1
+https://ktpremium.com:443/live/Hasan/Hasan/25867.m3u8
 https://speedtrademarket.com/livehd789/irinaspicy/vvip/warna
 
 
