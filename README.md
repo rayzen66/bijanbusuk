@@ -60,6 +60,7 @@ https://speedtrademarket.com/livehd789/irinaspicy/vvip/ria
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+https://ktpremium.com:443/live/lynn89/lynn89/25855.m3u8
 https://ktpremium.com:443/live/Hasan/Hasan/25855.m3u8
 https://aqfadtv.xyz/live/ria/index.mpd
 
@@ -76,23 +77,18 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_pri
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png",ASTRO WARNA HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=XCIPTV-v5.0.1
-#EXTVLCOPT:http-icy-metadata=1
-https://ktpremium.com:443/live/Hasan/Hasan/25867.m3u8
-https://speedtrademarket.com/livehd789/irinaspicy/vvip/warna
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png",ASTRO WARNA HD
+https://ktpremium.com:443/live/lynn89/lynn89/25867.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png",ASTRO WARNA HD
+http://muka03.wanicelife.com:8880/live/mmNgmvu9uL/Y4qXXjdk2n/1706.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",ASTRO CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+https://ktpremium.com:443/live/lynn89/lynn89/913177.m3u8
 https://ktpremium.com:443/live/Hasan/Hasan/913177.m3u8
 
-#EXTINF:-1 tvg-logo="", Astro Sensasi
+EXTINF:-1 tvg-logo="", Astro Sensasi
 https://ktpremium.com:443/live/Hasan/Hasan/910978.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
