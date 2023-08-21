@@ -60,6 +60,9 @@ http://live8.cdn.iptv8k.org:80/review_stream/riakbmm22/i.m3u8
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA 3
 http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/158347.m3u8
 
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA 4
+http://kuchini.site:8080/googleiptvex/8XsdD8qVstQhcjuy/158347
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Astro_Prima.png/220px-Astro_Prima.png", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000
