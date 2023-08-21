@@ -18,6 +18,10 @@ https://macan.tv/xmltv.php?username=epg&password=epg
 
 ########################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/DemiNegaraku.png",Demi Negaraku
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5120
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5120/default_primary.mpd
 
 ################################################################ MY FREEVIEW ##################################################################################
 
@@ -46,9 +50,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
 https://bit.ly/3Bqj97r
-
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
-http://iptvtree.net:8080/live/LeCyGodF/thYAg86ShLywX9FL/158347.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NThmODljYTUtNWM0Yi0zOTM3LWE4MzYtYTY4OTM1YzRhMzYx
