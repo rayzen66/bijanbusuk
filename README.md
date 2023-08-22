@@ -29,7 +29,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5120/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5121/default.mpd
 
 
-
+#EXTINF:-1 tvg-logo="https://www.sinarharian.com.my/uploads/images/2023/06/10/2226464.jpg",Polis Evo 3
+https://onedrive-mastrolive.vercel.app/api/raw/?path=/Movies/MalayMovies/Polis.Evo.3.2023.mp4
 
 
 ################################################################ MY FREEVIEW ##################################################################################
@@ -900,108 +901,6 @@ https://onedrive-mastrolive.vercel.app/api/raw/?path=/Series/SpecialForceAnarchy
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mastrolive/mastrolive/main/Poster/Series/SpecialForceAnarchy.jpg" group-title="Special Force Anarchy (Disney+ Hotstar)", Special Force Anarchy (ep7)
 https://onedrive-mastrolive.vercel.app/api/raw/?path=/Series/SpecialForceAnarchy/Special.Force.Anarchy.EP07.mp4
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e88694d8d6fd9c611a0587ee9af6610:9c556d3ad9059f7dc8fea5cb1eb47a44
-#EXTINF:-1 tvg-id="xx" tvg-name="Nafas Cinta" group-title="Astro Citra - AOD" tvg-logo="https://iili.io/Gso8V1.jpg",Nafas Cinta
-https://vodejitp-asset-playback-b.astro.com.my/v1/default/dash-wv/vode/c64bbe32-9020-5f6e-9ec2-1ea51afd19cf/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f3b03ba3ea937b82802ea1a46071510:a6d9e4ebe4f7fc5fc05dbcf57bbe2dfe
-#EXTINF:-1 tvg-id="xx" tvg-name="Khurafat - Perjanjian Syaitan" group-title="Astro Citra - AOD" tvg-logo="https://iili.io/GsoSiF.jpg",Khurafat - Perjanjian Syaitan
-https://vodejitp-asset-playback-b.astro.com.my/v1/default/dash-wv/vode/b0471425-58a6-5f07-8146-8d99e4a893ff/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7bda44b8dfdbd3e7be61fb4f3e01f110:786848cb78db1640f0430bac7b18c038
-#EXTINF:-1 tvg-id="xx" tvg-name="Zombi Kampung Pisang" group-title="Astro Citra - AOD" tvg-logo="https://iili.io/GsxKW7.jpg",Zombi Kampung Pisang
-https://vodejitp-asset-playback-b.astro.com.my/v1/default/dash-wv/vode/cf49db28-2042-5158-86b1-339c082e84cd/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a3a3c41d58a5f0429d805fd5870bc10:00ac4c1c0242f0cff6baa38c1b14b253
-#EXTINF:-1 tvg-id="xx" tvg-name="Puaka Janda" group-title="Astro Citra - AOD" tvg-logo="https://iili.io/GsohSj.jpg",Puaka Janda
-https://vodejitp-asset-playback-b.astro.com.my/v1/default/dash-wv/vode/0d89f6cd-587b-5e44-8656-a7c6a91417fb/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a9e4f8ea1ba14302a01788458da11b10:6e8f48d6a7eec7515f7b9ae0dd6bfaba
-#EXTINF:-1 tvg-id="xx" tvg-name="Anak Perjanjian Syaitan" group-title="Astro Citra - AOD" tvg-logo="https://iili.io/GsowHx.jpg",Anak Perjanjian Syaitan
-https://vodejitp-asset-playback-b.astro.com.my/v1/default/dash-wv/vode/5d5bb629-8e75-58d0-a6a7-be7765c58e4a/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=044673003ef18c9ed443c0d35bf2a510:da63fd7ac7121a59ce76422e24d43dbd
-#EXTINF:-1 tvg-id="xx" tvg-name="Hantu Kak Limah" group-title="Astro Citra - AOD" tvg-logo="https://iili.io/GsCP1a.jpg",Hantu Kak Limah
-https://vodejitp-asset-playback-b.astro.com.my/v1/default/dash-wv/vode/b5b60f50-7e30-58a1-a5d1-6548e668ce9d/default.mpd
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c9f16304c9023c21b5654e538a4f010:126dd301fe12b2f7bcdb559912b73360
-#EXTINF:-1 tvg-id="xx" tvg-name="Polis Evo 2" group-title="Astro Citra - AOD" tvg-logo="https://iili.io/GsKMPf.jpg",Polis Evo 2
-https://vodejitp-asset-playback-b.astro.com.my/v1/default/dash-wv/vode/d0c752ec-8ca7-5090-aab4-d01588204fa9/default.mpd
-
-
-#EXTINF:-1 tvg-id="xx" tvg-name="Polis Evo 3" group-title="Astro Citra - AOD" tvg-logo="https://www.sinarharian.com.my/uploads/images/2023/06/10/2226464.jpg",Polis Evo 3
-https://onedrive-mastrolive.vercel.app/api/raw/?path=/Movies/MalayMovies/Polis.Evo.3.2023.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400" group-title="RADIO", HOT FM 
-https://mediaprima.rastream.com/mediaprima-hotfm
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="RADIO", ERA
-https://astro2.rastream.com/era
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="RADIO", SINAR
-https://astro2.rastream.com/sinar
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="RADIO", GEGAR
-https://astro3.rastream.com/gegar
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624" group-title="RADIO", BULETIN FM
-https://mediaprima.rastream.com/mediaprima-koolfm
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738" group-title="RADIO", FLY FM
-https://mediaprima.rastream.com/mediaprima-flyfm
-
-#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/MolekFM.png" group-title="RADIO", MOLEK FM
-https://mediaprima.rastream.com/mediaprima-molekfm
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="RADIO", HITZ
-https://astro1.rastream.com/hitz
-
-
-
-
-#EXTINF:-1 tvg-logo="https://aqibmedia.com/wp-content/uploads/2021/10/SuriaFM.png" group-title="RADIO", SURIA
-https://23733.live.streamtheworld.com/SURIA_FMAAC.aac?key=value&key2=value2&dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=300x250%2C728x90&burst-time=15&sbmid=033a61ae-7089-4dfd-910c-6bda1661a583
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png" group-title="RADIO", Radio IKIM
-https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=63f3904af48d023a_4999034_qj1Gix3R_MTAzLjIxLjgxLjM6ODA!_0000008ouxn&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2ODE5MDU0NzgsImV4cCI6MTY4MTk5MTg3OH0.9ObbwEt1E0lC8jADaaKlwWqJn8hKBNgAOCD8AdTeFf8&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=dd330dca4396b75bd95482efe7877006
-
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s221306g.png" group-title="RADIO",BEST FM
-https://stream.rcs.revma.com/h34x4kgg9hhvv.m4a
-
-#EXTINF:-1 tvg-logo="https://www.manis.fm/wp-content/uploads/2020/02/cropped-manisfm_new-01-1024x308.png" group-title="RADIO",MANIS FM
-https://n07.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdGs8ajQAVVGv4vpE3Kqfhg
-
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s193058g.png" group-title="RADIO", MAKMUR FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC083_SC
-
-
-
 
 
 #EXTM3U billed-msg=" Bijanbusuk"
