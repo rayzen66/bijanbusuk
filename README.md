@@ -126,8 +126,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",Suke TV
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",Suke TV
 #EXTVLCOPT:network-caching=1000
+https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
 https://live.mana2.my/SukeTV/index.m3u8?organizationId=196288014&suiteItemId=196291657
 https://live.mana2.my/SukeTv/manifest.mpd
 
@@ -205,6 +206,13 @@ EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f884a92f39d704c432f25cf6333a3210:ebd8183d33158584f12160364c317ffa
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_522,h_294,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/channel_list/1170x658withlogo807278654.png",ZEE CINEMA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
 ########################################################## MEDIACORP ##########################################################################################
 
