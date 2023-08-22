@@ -138,9 +138,9 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",Suke TV
 #EXTVLCOPT:network-caching=1000
-https://trtv.trchannel.xyz/YT_Live.php?id=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
-https://live.mana2.my/SukeTV/index.m3u8?organizationId=196288014&suiteItemId=196291657
-https://live.mana2.my/SukeTv/manifest.mpd
+https://raw.githubusercontent.com/555Z555/music/main/assets/info.m3u8
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
