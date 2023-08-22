@@ -28,9 +28,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5120/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5121
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5121/default.mpd
 
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/TVB_Magic_IVP_LAND_917x516.jpg",TVB Magic 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49a10d0610e700b4b20dd1c91a2fc310:eb5b2cec485514216f7c25d102ab8a13
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/TVB_Magic_IVP_LAND_917x516.jpg",TVB Magic 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5107/default_ott.mpd
 
 ################################################################ MY FREEVIEW ##################################################################################
