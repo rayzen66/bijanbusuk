@@ -68,12 +68,15 @@ http://aflaxtv.xyz:8080/05add9be/df28c0b5be/158347
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 https://aqfadtv.xyz/live/ria/index.mpd
 
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
+http://sysadminhost.net:8080/stadnik/6a627b52a9/158347
+
 EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
 https://bit.ly/3Bqj97r
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi HD
 http://starshare.live:8080/live/24321463/35245125/143035.ts
 
 EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",SALAM HD
