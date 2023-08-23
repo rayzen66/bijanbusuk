@@ -32,33 +32,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5121/default.mpd
 #EXTINF:-1 tvg-logo="https://www.sinarharian.com.my/uploads/images/2023/06/10/2226464.jpg",Polis Evo 3
 https://onedrive-mastrolive.vercel.app/api/raw/?path=/Movies/MalayMovies/Polis.Evo.3.2023.mp4
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4JbgoHmJVlsv1DSoIW4CDQ", "kid":"kfP+uqtuFckyAnm+JYaKoQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Degup.png",DEGUP
-https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MzlhNGEyN2ItMDBmZS0zZGZiLWFiMmUtYjM2MzJkNzZmZTli
-#EXTINF:-1 tvg-logo="https://speedtrademarket.com/live/logo/siarhd_v3.png?1704",UNIFI SIAR
-https://web.hypp.tv:443/PLTV/88888888/224/3221227948/3221227948.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=nR3IWnuvgquP%2F8My8iyxx%2BoxnuQhQQA9yraVG9ZBgJG7lGYp3EaTqDAXfA4S%2BPVgQpTIHrOhXCgOoaP1Jv59qvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124221801%3AUTC%2C1001767138%2C27.125.242.143%2C20221124221801%2Curn:Huawei:liveTV:XTV56919296%2C1001767138%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C3073678270%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOywrCMBRE_ybLkEfjY5GVIghSBatbuUluY2naaFIF_16rdTszZzhDAovbtXa1xDmzxihbFMViaRTjzjFVc4NWMiAZ72XUglgIoel9Gd2InY-rC2eUUSE45YJU490mgJ-W5aMzmLT8Y0dMz8aidrmmT8gUvE_oYWhiTw8BXqcUpgnBalLjs9lSSrVQc6kEGca0gtx-GnKFvIrdDRK6XfRfQNcQMpIb2BY8ltCh7h8h_Lh9ch-bN5RyWgv0AAAA&tenantId=6001
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MzlhNGEyN2ItMDBmZS0zZGZiLWFiMmUtYjM2MzJkNzZmZTli
-#EXTINF:-1 tvg-logo="https://speedtrademarket.com/live/logo/salamhd_v3.png?1704",UNIFI SALAM HD
-https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9X1Uzxq6NAAqGASx47cKgqfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080121%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080121%2Curn:Huawei:liveTV:iptv47777%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOXQuCMBiF_80uR5s25sWuiiCIFWTdxuv2usTpbLOgf5-WXZ6P53DGCAb3W1Wtpcmx4NbWeV5gNWkQmQCb1RIlCpLwoYPixID3Te90sDN2PW9ubEVXlHNGGSflPLfz4JamfnYVRpX9sTPGV2NQ2VTTFyQKzkV0MDahpycP70v0S4VguVxjQhRc5oJzIRkZZ7eE1E4JuUPahG6AiPYQ3BdQNfiEZADTgkMNHar-6f2PO0Y7vfkAzoOp1vQAAAA&tenantId=6001
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MzlhNGEyN2ItMDBmZS0zZGZiLWFiMmUtYjM2MzJkNzZmZTli
-#EXTINF:-1 tvg-logo="https://ws.kapallayar.cc//image//Logo//KIDS//KD_BOOMERANG.png",UNIFI BOOMERANG
-https://web.hypp.tv:443/PLTV/88888888/224/3221227534/3221227534.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHORk%2F7o9ZSvEMcHdX5yljqg9BPtBbwcQhknqc39VUJpD%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124094239%3AUTC%2C1001767137%2C115.164.56.153%2C20221124094239%2Curn:Huawei:liveTV:SP0010059884%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOUQuCMBzEv80exzaHtoc9FUEQFmS9xt_5d4nT1aZC3z4tezq4u99xQwCDh50uJcs4T6DeGClnUSZLZFIyxoSCjEsS8ZV7LYgB55re5r5asNtle-eMMioEp1yQYpnbO7BrMx-7EoNO_tgFw9QY1FWs6QSRgrUBLQyN7-nZwfsa3FohWKzXeJoqoVjGUqUkGRa3gNjOCXlA3PruCQGro7dfQNfgIpInmBYs5tCh7kfnftwpVPObD9dw2Of0AAAA&tenantId=6001
-
-
 
 ################################################################ MY FREEVIEW ##################################################################################
 
@@ -90,7 +63,10 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/98eeb75a39995d2c6ab45fb716af8310.png",Astro Ria
 http://aflaxtv.xyz:8080/05add9be/df28c0b5be/158347
 
-
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+https://aqfadtv.xyz/live/ria/index.mpd
 
 EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
 https://bit.ly/3Bqj97r
@@ -123,10 +99,11 @@ EXTINF:-1 tvg-logo="https://khakaz.com/iptv/tvlogo/tvmy/degup.png",Degup TV
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live16.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.mpd
 
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Degup.png/revision/latest?cb=20220924000615",Degup 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png",DEGUP
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
+
 
 EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129",SIAR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -943,6 +920,49 @@ https://onedrive-mastrolive.vercel.app/api/raw/?path=/Series/SpecialForceAnarchy
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mastrolive/mastrolive/main/Poster/Series/SpecialForceAnarchy.jpg" group-title="Special Force Anarchy (Disney+ Hotstar)", Special Force Anarchy (ep7)
 https://onedrive-mastrolive.vercel.app/api/raw/?path=/Series/SpecialForceAnarchy/Special.Force.Anarchy.EP07.mp4
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wk5GZkZ.png" group-title="VISUAL RADIO",ERA FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/ERA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMpqEvV.png" group-title="VISUAL RADIO",Fly FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/FlyFM.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="VISUAL RADIO",Hitz FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9WCFqr.png" group-title="VISUAL RADIO",Hot FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",Kool 101
+https://github.com/AqFad2811/RadioYTLive/raw/main/Kool101.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p88EiHn.png" group-title="VISUAL RADIO",Suria
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",MolekFM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",Radios
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Radios.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",SINAR.m3u8
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SINAR.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",Zayan.m3u8
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Zayan.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",Gegar
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Gegar.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",Lite
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Lite.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",Mix
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MIX.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",8FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
 
 #EXTM3U billed-msg=" Bijanbusuk"
 
