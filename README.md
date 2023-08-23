@@ -64,6 +64,9 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 http://aflaxtv.xyz:8080/05add9be/df28c0b5be/158347
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD
+https://ktpremium.com:443/live/lynn89/lynn89/25855.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD
 https://ktpremium.com:443/ale182/ale182/25855
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD
@@ -87,6 +90,9 @@ https://ktpremium.com:443/ale182/ale182/25867
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD
 https://ktpremium.com:443/ale182/ale182/912836
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD
+http://muka03.wanicelife.com:8880/live/mmNgmvu9uL/Y4qXXjdk2n/1706.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD
 https://ktpremium.com:443/ale182/ale182/25852
