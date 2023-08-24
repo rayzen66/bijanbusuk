@@ -985,55 +985,7 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MIX.m3u8
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
 
 
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name=" [MY] ASTRO Citra (not 24/7)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png" group-title="[VIP] MALAYSIA", [MY] ASTRO Citra (not 24/7)
-https://ktpremium.com:443/bigboy/bigboy/25852
-#EXTINF:-1 tvg-id="AstroCitra" tvg-name="[MY] ASTRO Citra (recording)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO Citra (recording)
-https://ktpremium.com:443/bigboy/bigboy/913177
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="[MY] ASTRO RIA HD(not 24/7)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="[VIP] MALAYSIA",[MY] ASTRO RIA HD(not 24/7)
-https://ktpremium.com:443/bigboy/bigboy/25855
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="[MY] ASTRO RIA HD (B)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="[VIP] MALAYSIA",[MY] ASTRO RIA HD (B)
-https://ktpremium.com:443/bigboy/bigboy/912833
-#EXTINF:-1 tvg-id="AstroPrima" tvg-name="[MY] ASTRO PRIMA HD " tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-prima-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO PRIMA HD 
-https://ktpremium.com:443/bigboy/bigboy/25862
-#EXTINF:-1 tvg-id="AstroOasis" tvg-name="[MY] ASTRO OASIS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-oasis-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO OASIS HD
-https://ktpremium.com:443/bigboy/bigboy/25864
-#EXTINF:-1 tvg-id="AstroOasis" tvg-name="[MY] ASTRO OASIS HD (B)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-oasis-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO OASIS HD (B)
-https://ktpremium.com:443/bigboy/bigboy/912835
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="[MY] ASTRO WARNA HD (not 24/7)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-warna-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO WARNA HD (not 24/7)
-https://ktpremium.com:443/bigboy/bigboy/25867
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="[MY] ASTRO WARNA HD (B)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-warna-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO WARNA HD (B)
-https://ktpremium.com:443/bigboy/bigboy/912836
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="104" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/ria.png" group-title="🇲🇾AstroGo🇲🇾 : BAHASA MALAYSIA",Astro Ria HD:Kpsboy/(DU)
-https://tv.kpsvpn.com/ria.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="105" ch-number="AstroPrima" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/prima.png" group-title="🇲🇾AstroGo🇲🇾 : BAHASA MALAYSIA",Astro Prima HD:Kpsboy 
-https://tv.kpsvpn.com/prima.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="106" ch-number="AstroOasis" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/oasis.png" group-title="🇲🇾AstroGo🇲🇾 : BAHASA MALAYSIA",Astro Oasis HD:Kpsboy 
-https://tv.kpsvpn.com/oasis.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="107" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/warna.png" group-title="🇲🇾AstroGo🇲🇾 : BAHASA MALAYSIA",Astro Warna HD:Kpsboy/(DU)
-https://tv.kpsvpn.com/warna.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="🇲🇾AstroGo🇲🇾 : MOVIES" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/citra.png",Astro Citra HD:Kpsboy/(DU)
-https://tv.kpsvpn.com/citra.mpd
 
 #EXTM3U billed-msg=" Bijanbusuk"
 
