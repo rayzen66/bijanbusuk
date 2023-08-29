@@ -68,6 +68,8 @@ https://aqfadtv.xyz/live/ria/index.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD
 http://51.79.82.208:16007
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD
+http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/158347.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzUyMzk3NSwiaWF0IjoxNjkyOTE5OTc1fQ.VAU50wCYobXQtP5zLSPqB93fm5pNzZkQNSbHhr9ToFI"}
@@ -76,6 +78,9 @@ http://51.79.82.208:16007
 #KODIPROP:inputstream.adaptive.license_key={"37fb99ca61a94c889fdc758bb2a67495": "f723fd2686d9ce8f76a83fac34dff9e4"}
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD
 https://linear07-playback.sooka.my/CH4/masterCH4.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD
+http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/71020
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -105,6 +110,12 @@ http://149.18.85.131/live/8059765630/3322606439/79327.m3u8
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD
 http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD
+http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/71146
+
+http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/71080
+
 
 EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
 https://bit.ly/3Bqj97r
@@ -373,6 +384,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8?app_type=web&userid=j
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JqbvXBxWGCpTFLeSFbjQbQ","kid":"526GvXDwqoLJSzjYKVPdEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230", Ceria HD 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230", Ceria HD 
+http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/71080
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230", Ceria HD  
