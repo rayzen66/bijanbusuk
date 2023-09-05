@@ -59,22 +59,34 @@ EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/cont
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
 https://aqfadtv.xyz/live/ria/index.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
 https://live.astradamy.com/astro/ria/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD 3
+https://cloudflare-ipfs.com/ipfs/QmeV8PDCHC1HRY3wjDC1WKXu66VyLfYJajMpzYNAgig5Vp
+
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima HD
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
+
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png", Astro Oasis HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -92,16 +104,18 @@ http://muka03.wanicelife.com:8880/live/mmNgmvu9uL/Y4qXXjdk2n/1706.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD 3
 http://95.214.235.96:8880/live/3ca06303n13/asdfe23e32/1706.m3u8
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://ktpremium.com:443/live/lynn89/lynn89/913177.m3u8
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD 4
+https://cloudflare-ipfs.com/ipfs/QmeV8PDCHC1HRY3wjDC1WKXu66VyLfYJajMpzYNAgig5Vp
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD 1
-https://ktpremium.com:443/live/lynn89/lynn89/913177.ts
-http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
-http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/71146
-http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/71080
+
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra
+https://cloudflare-ipfs.com/ipfs/QmeV8PDCHC1HRY3wjDC1WKXu66VyLfYJajMpzYNAgig5Vp
 
 
 EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
@@ -790,6 +804,11 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live14.mpd
 EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-5.png",Unifi Sports 5
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live15.mpd
 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png",Astro Arena
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=24ae86774df0428fb46f153e81664662:09a6cf0424f10e76da4ac307b7e7ff04
+https://d277c08tzca9og.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer fuckyou
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -797,6 +816,11 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live15.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", Astro Arena HD 
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png",Astro Arena 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b5e515638de4243b6ba49843d0be763:24ad47f73c8cfffc6961d47aa551b882
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer fuckyou
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png",Astro Arena 2 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
