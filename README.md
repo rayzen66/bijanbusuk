@@ -33,6 +33,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5121/default.mpd
 https://onedrive-mastrolive.vercel.app/api/raw/?path=/Movies/MalayMovies/Polis.Evo.3.2023.mp4
 
 
+#EXTINF:-1 tvg-logo="", Test
+http://muka03.wanicelife.com:8880/live/6mm180029/67113429/1720.m3u8
+
+
+
 ################################################################ MY FREEVIEW ##################################################################################
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
