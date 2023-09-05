@@ -63,8 +63,10 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
 https://aqfadtv.xyz/live/ria/index.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD 3
-https://sookantv.com/ott/myria
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD 3
+
+
+
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -95,14 +97,13 @@ http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/1706
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD
 http://muka03.wanicelife.com:8880/live/mmNgmvu9uL/Y4qXXjdk2n/1706.m3u8
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD 3
-http://95.214.235.96:8880/live/3ca06303n13/asdfe23e32/1706.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69796371dc4e457d98fa2b025eabfc94:6e171dc36e2356c24e4e59b19bc98fc5
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD 5
-https://sookantv.com/ott/warna.mpd
+https://linear05-playback.sooka.my/CH1/masterCH1.mpd
+
+
+
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD 1
 http://172.96.140.34:9138/stream/live/c20631.m3u8
