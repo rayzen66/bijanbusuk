@@ -1047,12 +1047,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 
 ################################################################## SPORTS ####################################################################################
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202202/20220220/20220220163044631gzk.png",, unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109",unifi Sports 2 HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1093,6 +1096,81 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium123/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium124/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium125/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium126/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png",Astro SuperSport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.cdnbos.lol/lb/premium43/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdnbos.lol/lb/premium123/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdnbos.lol/lb/premium124/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdnbos.lol/lb/premium125/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdnbos.lol/lb/premium126/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png",Astro Supersport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://webudit.cdnbos.lol/lb/premium43/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",Astro SuperSport HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",Astro SuperSport 2 
+https://aqfadtv.xyz/supersport2.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",Astro SuperSport 3 HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
+https://aqfadtv.xyz/supersport3.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",Astro SuperSport 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
+https://aqfadtv.xyz/supersport4.m3u8
+
+#EXTINF: -1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png",Astro SuperSport 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 
 **************************************************************************************************************************************************************************
 
