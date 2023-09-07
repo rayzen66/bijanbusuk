@@ -1360,11 +1360,6 @@ http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/1706
 #EXTINF:-1 tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO WARNA HD (sooka)
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700/
-#EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO CITRA HD 
-https://cloudflare-ipfs.com/ipfs/QmeV8PDCHC1HRY3wjDC1WKXu66VyLfYJajMpzYNAgig5Vp
-
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)", ASTRO CITRA Sooka
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5NDIxMzkwMCwiaWF0IjoxNjkzNjA5OTAwfQ.OpTpwp0X_ygT8RcrV2Bt4_GlyE14OyCN9GZK1WNzt50"}
@@ -1379,6 +1374,9 @@ https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 #EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO PRIMA HD
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f884a92f39d704c432f25cf6333a3210:ebd8183d33158584f12160364c317ffa
+#EXTINF:-1 tvg-id="251" tvg-name="BollyOne HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="🇲🇾 INDIAN (ASTRO GO)",BollyOne HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
 billed-msg="😎 BijanBusuk 😎"
