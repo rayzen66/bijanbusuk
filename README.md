@@ -1291,6 +1291,15 @@ https://onedrive-mastrolive.vercel.app/api/raw/?path=/Series/SpecialForceAnarchy
 https://onedrive-mastrolive.vercel.app/api/raw/?path=/Series/SpecialForceAnarchy/Special.Force.Anarchy.EP07.mp4
 
 
+#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNmp4_OpDoxHcakdg_xBmCSo=XVf_/dash-wv/jitp-linearwm/2402/default.mpd
+
+#EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNpHPrUDWvAUzUfLOG9B2Bxg=JkIq/dash-wv/jitp-dashisowm/2700/default.mpd
 
 
 billed-msg="😎 BijanBusuk 😎"
