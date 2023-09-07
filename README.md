@@ -79,6 +79,9 @@ https://aqfadtv.xyz/live/ria/index.mpd
 https://linears-playback.astro.com.my/vsg/dash-wv/jitp-linearwm/1004/default.mpd
 
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD
+http://smartfr.xyz:80/live/smartpro22/5C925BDD/191867.m3u8
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000
