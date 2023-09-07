@@ -1096,6 +1096,23 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png",Astro SuperSport 1 FHD_🇲🇾
+http://gg.gg/assp1my
+https://iplogger.com/ASSP1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" ,Astro SuperSport 2 FHD_🇲🇾
+https://iplogger.com/ASSP2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png",Astro SuperSport 3 FHD_🇲🇾
+https://iplogger.com/ASSP3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png",Astro SuperSport 4 FHD_🇲🇾
+https://iplogger.com/ASSP4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png",Astro SuperSport 5 FHD_🇲🇾
+https://iplogger.com/ASSP5
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=918982&extension=ts&play_token=
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5u2rs1d9jaqcwm2/astrosupersport2.png",Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
