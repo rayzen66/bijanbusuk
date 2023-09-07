@@ -1172,6 +1172,22 @@ https://aqfadtv.xyz/supersport4.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png",Astro SuperSport
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/146068
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png",Astro SuperSport 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157556
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png",Astro SuperSport 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157557
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png",Astro SuperSport 4
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157558
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png",Astro SuperSport 5
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287792
+
 **************************************************************************************************************************************************************************
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
