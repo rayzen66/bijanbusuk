@@ -1459,5 +1459,36 @@ http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJ
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MuZu | Astro",ASTRO CITRA
 http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJX_-tDg=Fj8c/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
+#EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="MuZu | Astro",ASTRO PRIMA
+http://iptvmedia.live:8080/F19591/d7d02309/157467
+
+#EXTINF:-1 tvg-id="108" tvg-name=" [MY] ASTRO Citra HD(VIP)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png" group-title="[VIP] MALAYSIA", [MY] ASTRO Citra HD(VIP)
+https://ktiptv.cf:443/2209077624/12345/25852
+
+#EXTINF:-1 tvg-id="104" tvg-name="[MY] ASTRO RIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="[VIP] MALAYSIA",[MY] ASTRO RIA HD
+https://ktiptv.cf:443/2209077624/12345/25855
+
+#EXTINF:-1 tvg-id="105" tvg-name="[MY] ASTRO PRIMA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-prima-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO PRIMA HD
+https://ktiptv.cf:443/2209077624/12345/25862
+
+#EXTINF:-1 tvg-id="106" tvg-name="[MY] ASTRO OASIS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-oasis-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO OASIS HD
+https://ktiptv.cf:443/2209077624/12345/25864
+
+#EXTINF:-1 tvg-id="107" tvg-name="[MY] ASTRO WARNA HD(VIP)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-warna-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO WARNA HD(VIP)
+https://ktiptv.cf:443/2209077624/12345/25867
+
+#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MuZu | Astro",ASTRO WARNA
+http://line.premiumpowers.net:80/Manuel/1234567/941609
+
+#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MuZu | Astro",ASTRO WARNA
+http://line.premiumpowers.net:80/Manuel/1234567/571231
+
+
+#EXTINF:-1 tvg-id="105" tvg-name="[MY] ASTRO PRIMA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-prima-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO PRIMA HD
+http://line.premiumpowers.net:80/Manuel/1234567/571237
+
+#EXTINF:-1 tvg-id="104" tvg-name="[MY] ASTRO RIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="[VIP] MALAYSIA",[MY] ASTRO RIA HD
+http://line.premiumpowers.net:80/Manuel/1234567/571236
+
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
