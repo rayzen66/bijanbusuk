@@ -32,31 +32,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5121/default.mpd
 #EXTINF:-1 tvg-logo="https://www.sinarharian.com.my/uploads/images/2023/06/10/2226464.jpg",Polis Evo 3
 https://onedrive-mastrolive.vercel.app/api/raw/?path=/Movies/MalayMovies/Polis.Evo.3.2023.mp4
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/200px-Astro_Ceria.png",ASTRO CERIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://lock-all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiZGpyZVF1R1IiLCJyZWZyZXNoX3Rva2VuIjoiRGlxVXJxbHp2UkZXemRlMHhkUXhDcHcxZ3duV0hieDQ0NVNpTFpseHhrdW1WcE81UHNNS2ZmRlVqSWd4TktrckRlTjJUdGxpMEhRVEEybHhJS1wvTlBUUElWZnhxQ1NId2p0NXpsOFNvUk9cL1pZSHNhZnJuMndSamQ4NWFHNkI1MldlRE9JWFZWVnNZblAxblwvTG9NT1RkaWJzTGZpYTI5OGtZWWFVZ1VOUk5YZkIxOEVtdDhpSUtpWFdcL3FEVFhMSUx6czZwZWVWRTFGamlDNFRCUGdVeStIRjBHbzk4NFwvWDArVGl0eVg0dk1oc1Yyd0RSXC95TDFoUlNDNnFiOUJtYUs1WDRlb0RGMWdjVXcwXC9RTFgzSWYwbXhZbjFIbStkT3doR001ZUF2cXZWeFg3RzZwYVo4cTBzUG8yWUJaUSs2In0=
-https://cr-7.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNEU2djllemsiLCJyZWZyZXNoX3Rva2VuIjoiblY3YVFJVU5rYVlpaytKeUR3b1F3Rll1UHJ5Q0RlOWpQWGhyXC9mRXlMT3JHeGlOWEZQaG5wa3NrdWgrR2tiSG92bXphazJrenZrRkd6QmVHVVVBZ2JEYXAxWTN0UTVwbG9CRGE0Ykw0Q3RTWnN6QXZWUFVCVVl3WExxZTZcL0N3eVZPaHdFQVZXb3NUNDgrZHB0YjIwRjFoenZqRHVaZU9ycHRiSDhOdWZZQUFvVGh2OWx5Q1VSNnZYRUo2c04rejdmdjdkVDdHSXFadGhRSU5BZWZDbE14K0J6RjFRRmtET050MDhGd3JMUEF1RytjTUxtWURBVHFZVWhpMXBqWURMVElxaWpBNFQyY0R1Y2M3UTNyMnE5b3doeSt2bjZVQ2NWXC9ySXRNa3hPRmdwOFNEaXpHZ3pCb3dpMEVzTGtDYTdyTHdNNmREOGlQbmZqeGc4cWhGeUh2K2VZVXlmTVJKTitiY3JMTmlZRlhhOEUxbVBcLzdGRUkyM0h0dVVsVENtMlRKUGdGSjlHUnlQazg3elwvY3FMUEZvZXpMdFR3MXhTdmpDNHUxREVxZ1AwPSJ9
-
-
-
-#EXTINF:-1 tvg-id="ASTRO CITRA" group-title="AXTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Astro_Citra_HD.png/revision/latest/scale-to-width-down/200?cb=20201215114828",ASTRO CITRA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://51.81.208.129:35461/80203091402/213445/6608
-
-#EXTINF:-1 tvg-id="Astro Warna HD" tvg-name="ASTRO WARNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="AXTRO",ASTRO WARNA HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://51.81.208.129:35461/80203091402/213445/5075
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000
-#EXTINF:-1 tvg-id="ASTRO PRIMA" group-title="AXTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Astro_Prima_HD.png/revision/latest/scale-to-width-down/200?cb=20201022092334",ASTRO PRIMA
-https://aqfadtv.xyz/live/prima/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#EXTINF:-1 tvg-id="105.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="Astro",Astro Prima
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 
 ################################################################ MY FREEVIEW ##################################################################################
 
