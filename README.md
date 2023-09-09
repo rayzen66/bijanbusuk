@@ -153,7 +153,9 @@ EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/cont
 https://ktpremium.com:443/live/lynn89/lynn89/913177.ts
 
 
-EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
+#EXTVLCOPT:network-caching=1000
+https://live.mana2.my/Tv5/manifest.mpd
 https://bit.ly/3Bqj97r
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -237,7 +239,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",Suke TV
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",Suke TV
+#EXTVLCOPT:network-caching=1000
+https://live.mana2.my/SukeTv/manifest.mpd
 https://live.mana2.my/SukeTV/index.m3u8?organizationId=196288014&suiteItemId=196291657
 
 
