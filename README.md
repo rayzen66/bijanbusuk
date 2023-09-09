@@ -33,6 +33,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5121/default.mpd
 https://onedrive-mastrolive.vercel.app/api/raw/?path=/Movies/MalayMovies/Polis.Evo.3.2023.mp4
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/200px-Astro_Ceria.png",ASTRO CERIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://lock-all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiZGpyZVF1R1IiLCJyZWZyZXNoX3Rva2VuIjoiRGlxVXJxbHp2UkZXemRlMHhkUXhDcHcxZ3duV0hieDQ0NVNpTFpseHhrdW1WcE81UHNNS2ZmRlVqSWd4TktrckRlTjJUdGxpMEhRVEEybHhJS1wvTlBUUElWZnhxQ1NId2p0NXpsOFNvUk9cL1pZSHNhZnJuMndSamQ4NWFHNkI1MldlRE9JWFZWVnNZblAxblwvTG9NT1RkaWJzTGZpYTI5OGtZWWFVZ1VOUk5YZkIxOEVtdDhpSUtpWFdcL3FEVFhMSUx6czZwZWVWRTFGamlDNFRCUGdVeStIRjBHbzk4NFwvWDArVGl0eVg0dk1oc1Yyd0RSXC95TDFoUlNDNnFiOUJtYUs1WDRlb0RGMWdjVXcwXC9RTFgzSWYwbXhZbjFIbStkT3doR001ZUF2cXZWeFg3RzZwYVo4cTBzUG8yWUJaUSs2In0=
+https://cr-7.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNEU2djllemsiLCJyZWZyZXNoX3Rva2VuIjoiblY3YVFJVU5rYVlpaytKeUR3b1F3Rll1UHJ5Q0RlOWpQWGhyXC9mRXlMT3JHeGlOWEZQaG5wa3NrdWgrR2tiSG92bXphazJrenZrRkd6QmVHVVVBZ2JEYXAxWTN0UTVwbG9CRGE0Ykw0Q3RTWnN6QXZWUFVCVVl3WExxZTZcL0N3eVZPaHdFQVZXb3NUNDgrZHB0YjIwRjFoenZqRHVaZU9ycHRiSDhOdWZZQUFvVGh2OWx5Q1VSNnZYRUo2c04rejdmdjdkVDdHSXFadGhRSU5BZWZDbE14K0J6RjFRRmtET050MDhGd3JMUEF1RytjTUxtWURBVHFZVWhpMXBqWURMVElxaWpBNFQyY0R1Y2M3UTNyMnE5b3doeSt2bjZVQ2NWXC9ySXRNa3hPRmdwOFNEaXpHZ3pCb3dpMEVzTGtDYTdyTHdNNmREOGlQbmZqeGc4cWhGeUh2K2VZVXlmTVJKTitiY3JMTmlZRlhhOEUxbVBcLzdGRUkyM0h0dVVsVENtMlRKUGdGSjlHUnlQazg3elwvY3FMUEZvZXpMdFR3MXhTdmpDNHUxREVxZ1AwPSJ9
 
 ################################################################ MY FREEVIEW ##################################################################################
 
