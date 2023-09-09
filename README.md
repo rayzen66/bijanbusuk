@@ -1298,6 +1298,23 @@ https://onedrive-mastrolive.vercel.app/api/raw/?path=/Series/SpecialForceAnarchy
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mastrolive/mastrolive/main/Poster/Series/SpecialForceAnarchy.jpg" group-title="Special Force Anarchy (Disney+ Hotstar)", Special Force Anarchy (ep7)
 https://onedrive-mastrolive.vercel.app/api/raw/?path=/Series/SpecialForceAnarchy/Special.Force.Anarchy.EP07.mp4
 
-
+EXTINF:-1 tvg-id="AstroCitra" tvg-name=" [MY] ASTRO Citra (not 24/7)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png" group-title="[VIP] MALAYSIA", [MY] ASTRO Citra (not 24/7)
+https://ktpremium.com:443/ale182/ale182/25852
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="[MY] ASTRO Citra (recording)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO Citra (recording)
+https://ktpremium.com:443/ale182/ale182/913177
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="[MY] ASTRO RIA HD(not 24/7)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="[VIP] MALAYSIA",[MY] ASTRO RIA HD(not 24/7)
+https://ktpremium.com:443/ale182/ale182/25855
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="[MY] ASTRO RIA HD (B)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="[VIP] MALAYSIA",[MY] ASTRO RIA HD (B)
+https://ktpremium.com:443/ale182/ale182/912833
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="[MY] ASTRO PRIMA HD " tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-prima-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO PRIMA HD 
+https://ktpremium.com:443/ale182/ale182/25862
+#EXTINF:-1 tvg-id="AstroOasis" tvg-name="[MY] ASTRO OASIS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-oasis-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO OASIS HD
+https://ktpremium.com:443/ale182/ale182/25864
+#EXTINF:-1 tvg-id="AstroOasis" tvg-name="[MY] ASTRO OASIS HD (B)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-oasis-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO OASIS HD (B)
+https://ktpremium.com:443/ale182/ale182/912835
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="[MY] ASTRO WARNA HD (not 24/7)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-warna-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO WARNA HD (not 24/7)
+https://ktpremium.com:443/ale182/ale182/25867
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="[MY] ASTRO WARNA HD (B)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-warna-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO WARNA HD (B)
+https://ktpremium.com:443/ale182/ale182/912836
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
