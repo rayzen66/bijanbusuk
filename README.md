@@ -70,6 +70,26 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi HD http://149.18.85.131/live/8059765630/3322606439/13490.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="",TEST
+http://humiptv.live:8080/live/9225387350/9272623816/121874.m3u8
+
+#EXTINF:-1 tvg-logo="",TEST
+http://dmtn.tv:8080/live/steveny5997/54332611/407476.m3u8
+
+#EXTINF:-1 tvg-logo="",TEST
+http://dmtn.tv:8080/play/live.php?mac=00:1A:79:45:5E:9A&stream=407476&extension=m3u8&play_token=1kEm8DbZmS
+
+#EXTINF:-1 tvg-logo="",TEST
+https://ktpremium.com:443/live/F599843/Aa1234/25852.m3u8
+
+#EXTINF:-1 tvg-logo="",TEST
+https://ktpremium.com:443/live/LT1236/4566/913177.m3u8
+
+#EXTINF:-1 tvg-logo="",TEST
+http://95.214.235.96:8880/live/3ca06303n13/asdfe23e32/1706.m3u8
+
 ################################################################ MY FREEVIEW ##################################################################################
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1
