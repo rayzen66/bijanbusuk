@@ -938,11 +938,21 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",Galaxy
 https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/Galaxy.png",Galaxy
+https://anevia115.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbqpsDe.png",Galaxy Premium 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=360p
 #KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
 https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/GalaxyPremium.png",Galaxy Premium
+https://anevia115.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 
 EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/MCN.png/revision/latest/scale-to-width-down/250?cb=20200201131113",My Cinema
