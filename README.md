@@ -1428,4 +1428,28 @@ https://bit.ly/3Bqj97r
 http://95.214.235.96:8880/live/3ca06303n13/asdfe23e32/1706.m3u8
 
 
+#EXTINF:-1 tvg-logo="",TEST
+http://w.nasvpn.xyz:8080/live/saya/saya/11.ts?blog.ntnas.top
+
+#EXTINF:-1 tvg-logo="",TEST
+http://w.nasvpn.xyz:8080/live/saya/saya/7868.ts?blog.ntnas.top
+
+#EXTINF:-1 tvg-logo="",TEST
+http://w.nasvpn.xyz:8080/live/saya/saya/176.ts?blog.ntnas.top
+
+#EXTINF:-1 tvg-logo="",TEST
+http://w.nasvpn.xyz:8080/live/saya/saya/175.ts?blog.ntnas.top
+
+#EXTINF:-1 tvg-logo="",TEST
+http://w.nasvpn.xyz:8080/live/saya/saya/172.ts?blog.ntnas.top
+
+
+#EXTINF:-1 tvg-logo="",TEST
+http://w.nasvpn.xyz:8080/live/saya/saya/16578.ts?blog.ntnas.top
+
+#EXTINF:-1 tvg-logo="",TEST
+http://198.16.100.90:8278/Prima/playlist.m3u8?tid=MDCD7525162675251626&ct=19249&tsum=baa42cb947105579e476ec0c5b71043d
+
+
+
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
