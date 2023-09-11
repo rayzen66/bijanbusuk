@@ -83,7 +83,7 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Pr
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -95,13 +95,13 @@ EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.
 http://dmtn.tv:8080/live/steveny5997/54332611/380155.m3u8
 
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 
 
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",Astro Prima
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000
 https://aqfadtv.xyz/live/prima/index.mpd
@@ -118,7 +118,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/1706
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD 2
 http://muka03.wanicelife.com:8880/live/mmNgmvu9uL/Y4qXXjdk2n/1706.m3u8
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD 3
@@ -146,7 +146,7 @@ EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/cont
 https://ktpremium.com:443/live/lynn89/lynn89/913177.ts
 
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
+EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/Tv5/manifest.mpd
 https://bit.ly/3Bqj97r
@@ -1366,58 +1366,10 @@ http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=348095_&extensio
 
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/98eeb75a39995d2c6ab45fb716af8310.png" group-title="MALAY_SIA 1", Astro Ria
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/158347
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="MALAY_SIA 2", MY: Astro Prima
-http://kuchini.site:8080/multi6741/ab72059e/157467
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/98eeb75a39995d2c6ab45fb716af8310.png" group-title="MALAY_SIA 2", MY: Astro Ria
-http://kuchini.site:8080/multi6741/ab72059e/158347
-
-#EXTINF:-1 tvg-id="105.astro" tvg-logo="" group-title="Astro",Astro 
-http://95.214.235.96:8880/live/3ca06303n13/asdfe23e32/1706.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004 
-http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8 
-https://aqfadtv.xyz/live/ria/index.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004 
-https://live.astradamy.com/astro/ria/index.mpd
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.m
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png", Astro Oasis HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505 
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.m
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD 3 http://95.214.235.96:8880/live/3ca06303n13/asdfe23e32/1706.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700 
-https://ktpremium.com:443/live/lynn89/lynn89/913177.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD 1 
-https://ktpremium.com:443/live/lynn89/lynn89/913177.ts 
-http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8 
-http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/71146 
-http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/71080
-
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5 
-https://bit.ly/3Bqj97r
 
 
 
@@ -1427,28 +1379,6 @@ https://bit.ly/3Bqj97r
 #EXTINF:-1 tvg-logo="",TEST
 http://95.214.235.96:8880/live/3ca06303n13/asdfe23e32/1706.m3u8
 
-
-#EXTINF:-1 tvg-logo="",TEST
-http://w.nasvpn.xyz:8080/live/saya/saya/11.ts?blog.ntnas.top
-
-#EXTINF:-1 tvg-logo="",TEST
-http://w.nasvpn.xyz:8080/live/saya/saya/7868.ts?blog.ntnas.top
-
-#EXTINF:-1 tvg-logo="",TEST
-http://w.nasvpn.xyz:8080/live/saya/saya/176.ts?blog.ntnas.top
-
-#EXTINF:-1 tvg-logo="",TEST
-http://w.nasvpn.xyz:8080/live/saya/saya/175.ts?blog.ntnas.top
-
-#EXTINF:-1 tvg-logo="",TEST
-http://w.nasvpn.xyz:8080/live/saya/saya/172.ts?blog.ntnas.top
-
-
-#EXTINF:-1 tvg-logo="",TEST
-http://w.nasvpn.xyz:8080/live/saya/saya/16578.ts?blog.ntnas.top
-
-#EXTINF:-1 tvg-logo="",TEST
-http://198.16.100.90:8278/Prima/playlist.m3u8?tid=MDCD7525162675251626&ct=19249&tsum=baa42cb947105579e476ec0c5b71043d
 
 
 
