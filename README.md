@@ -465,6 +465,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7038/CPS/images/universal/film/logo/202109/20210926/20210926024214242p95.png",Sony GEM
+https://centerrrs.hypp.tv/PLTV/88888888/224/3221227869/3221227869.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=PFdydFCH5Mo7RR%2F0P0651iVFMt84ujmM%2BoaDOHbapqMB4lnJ8hdwm7Rfv7CXD6QbJR3UG1sq7LyFWZvGkVOSjHs8CPsCFl1C0jYSdzx4th8xQ%2BZYCn6rCsOVg2rsjlm770mh6Hs9Eo1828uMze%2BfsTOrleUonskxpubF4zzd9m8%3D%3A20230903113104%3AUTC%2C10001001339788%2C14.192.210.204%2C20230903113104%2Curn:Huawei:liveTV:XTV51882374%2C10001001339788%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C10000104137539%2C0%2C10000103513667%2C13618d58-eb92-5f91-e5ec-685d93d32068%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOTY-CMBiE_02PTVtYVg49aUxMNrgJ6NWM7UslFootmuy_X_DjOjPP5JkiDO02WpZnk61EUebI89WXhSRBymSFkK0kEEt0q4JWzMD7bnBVsAt2rNcnKbjgSkmeKdYsd1sP915W9_5MUWcfrKb46Axpm1r-QOJwLpLD1IWB_3r8HaJ_Txg1H7VZSgk5yxXlN5uWtEG6zg27IK1DPyKS_QnuCegWPhEbYa5wVKEnPdy9f3H7aGebf-b9oyv0AAAA&tenantId=6001
+
 ********************************************************************************************************************************************
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
