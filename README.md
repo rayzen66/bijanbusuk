@@ -35,57 +35,7 @@ https://onedrive-mastrolive.vercel.app/api/raw/?path=/Movies/MalayMovies/Polis.E
 
 
 
-#EXTINF:-1 tvg-id="105.astro" tvg-logo="" group-title="Astro",Astro 
-http://95.214.235.96:8880/live/3ca06303n13/asdfe23e32/1706.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004 
-http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8 
-https://aqfadtv.xyz/live/ria/index.mpd
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004 
-https://live.astradamy.com/astro/ria/index.mpd
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.m
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png", Astro Oasis HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505 
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.m
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD 3 http://95.214.235.96:8880/live/3ca06303n13/asdfe23e32/1706.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700 
-https://ktpremium.com:443/live/lynn89/lynn89/913177.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD 1 
-https://ktpremium.com:443/live/lynn89/lynn89/913177.ts 
-http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8 
-http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/71146 
-http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/71080
-
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5 
-https://bit.ly/3Bqj97r
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="",TEST
-http://95.214.235.96:8880/live/3ca06303n13/asdfe23e32/1706.m3u8
 
 ################################################################ MY FREEVIEW ##################################################################################
 
@@ -1412,5 +1362,58 @@ http://kuchini.site:8080/multi6741/ab72059e/157467
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/98eeb75a39995d2c6ab45fb716af8310.png" group-title="MALAY_SIA 2", MY: Astro Ria
 http://kuchini.site:8080/multi6741/ab72059e/158347
+
+#EXTINF:-1 tvg-id="105.astro" tvg-logo="" group-title="Astro",Astro 
+http://95.214.235.96:8880/live/3ca06303n13/asdfe23e32/1706.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004 
+http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8 
+https://aqfadtv.xyz/live/ria/index.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004 
+https://live.astradamy.com/astro/ria/index.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png", Astro Prima HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.m
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png", Astro Oasis HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505 
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.m
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD 3 http://95.214.235.96:8880/live/3ca06303n13/asdfe23e32/1706.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700 
+https://ktpremium.com:443/live/lynn89/lynn89/913177.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD 1 
+https://ktpremium.com:443/live/lynn89/lynn89/913177.ts 
+http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8 
+http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/71146 
+http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/71080
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5 
+https://bit.ly/3Bqj97r
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="",TEST
+http://95.214.235.96:8880/live/3ca06303n13/asdfe23e32/1706.m3u8
+
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
