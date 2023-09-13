@@ -147,6 +147,15 @@ https://bit.ly/3Bqj97r
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi HD
 http://starshare.live:8080/live/24321463/35245125/143035.ts
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vdcZaKFbY0s+CXFzqLfqew", "kid":"BRDNLxNQRgGVb7WBZ95r6w" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Sensasi.png", ASTRO SENSASI
+http://149.18.85.131/live/8059765630/3322606439/13490.m3u8
+https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
