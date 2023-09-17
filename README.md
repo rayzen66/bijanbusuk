@@ -98,6 +98,15 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima HD 
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pKjmF6L/Thu-24-08-2023-23-30-09.png",PRIMA
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
+
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png", Astro Oasis HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505
@@ -154,8 +163,9 @@ https://ktpremium.com:443/live/lynn89/lynn89/913177.ts
 
 EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/Tv5/manifest.mpd
-https://bit.ly/3Bqj97r
+https://live.mana2.my/Tv5/index.m3u8?auth_key=1694944995-63431508c1a842ffa8da7f475645f17d-0-b5a256d76a69d6661ab42b131c2bdfc8&token=1694944995-63431508c1a842f
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
@@ -181,12 +191,13 @@ https://centerrrs.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=cent
 EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest?cb=20220902052331",Sensasi HD 
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"m/YWIPzWgY0F6IWNqrUq1Q", "kid":"s4OL9oWqjbozCGqiNp4P5w" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest?cb=20220902052331",Sensasi HD 
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live30.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest?cb=20220902052331",Sensasi HD 
+https://web.hypp.tv/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=rKYifC4cgUH4ajqf5oEB0XSn%2BUpPSbQzzi2nJsCu4qFhh0mZthy9iDsPY4qTtavHdAPNexXlFR7IGkxJR2DoTiNdmkKxMPwcummn5H%2FvSfmXUa7p19AiNlG2IwzWT7mo%3A20230914102350%3AUTC%2C10001003897360%2C115.132.173.157%2C20230914102350%2Curn:Huawei:liveTV:SP000004015718%2C10001003897360%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0006%2C%2C%2C2%2C10000106865763%2C0%2C10000104587428%2C3028494234%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7CMBBE_8ZHy3ZSFx98AiFVQqESgWu19m5MhBNTOyD17yE0XGfmjd6UwdPXxiKh6SrtvEOoEb1bCaOU6JRQH0a4ihX6bZJVzEOM_RiahDN2Oqx_pOCCKyW5rFg7320jhGXZ3AZH2co3dqB87z1ZLB2_Q-EQQqYAU59G_h3h75jjMmHULmpSm1obbT61XtVsmtMWyuXZsDOUdRqukAl3KbwA20EsxK7gLxCogYHseIvxn9tnfNo8AISrze30AAAA&tenantId=6003
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png", Inspirasi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -207,6 +218,15 @@ https://centerrrs.hypp.tv/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=cent
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png",SIAR
 https://centerrrs.hypp.tv/PLTV/88888888/224/3221227948/3221227948.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=nR3IWnuvgquP%2F8My8iyxx%2BoxnuQhQQA9yraVG9ZBgJG7lGYp3EaTqDAXfA4S%2BPVgQpTIHrOhXCgOoaP1Jv59qvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124221801%3AUTC%2C1001767138%2C27.125.242.143%2C20221124221801%2Curn:Huawei:liveTV:XTV56919296%2C1001767138%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C3073678270%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOywrCMBRE_ybLkEfjY5GVIghSBatbuUluY2naaFIF_16rdTszZzhDAovbtXa1xDmzxihbFMViaRTjzjFVc4NWMiAZ72XUglgIoel9Gd2InY-rC2eUUSE45YJU490mgJ-W5aMzmLT8Y0dMz8aidrmmT8gUvE_oYWhiTw8BXqcUpgnBalLjs9lSSrVQc6kEGca0gtx-GnKFvIrdDRK6XfRfQNcQMpIb2BY8ltCh7h8h_Lh9ch-bN5RyWgv0AAAA&tenantId=6001
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png",SIAR
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227948/3221227948.mpd?rrsip=web.hypp.tv&zoneoffset=0&servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=V%2B5TlG5zAAAe3XE8YHHQk1bRXr%2FeSM9LS0lyp4GeYaooqtnztuev0Q75QBWZOwo3RaEqI6D0FtUt6%2FwRfytNL%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20220902121326%3AUTC%2C1001767138%2C210.186.211.75%2C20220902121326%2Curn:Huawei:liveTV:XTV56919296%2C1001767138%2C-1%2C0%2C1%2C%2C%2C7%2C595%2C%2C%2C4%2C1612403%2C0%2C517698%2C3133383759%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6001&from=5&hms_devid=1790&mag_hms=1790,1799&mount=1000002&targetdev=1790&it=H4sIAAAAAAAAA0XMTwvCIBiA8W-zo_hnynbwVARdJFh1jVd9FcFN0jXo28ci6P78nrWCw_NRg4Mg2MgHZl2vWD9Q67wcpRKSWRl81_Bpihadg5zTEk3xO7tPhwejhBLOGRGqu-67U4ao-bc0r9li_bMJ65Ycat8C2aARiLFihDWVhVwyvG81_5IPdUDz25kAAAA
+
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", DUNIA SINEMA HD
@@ -240,9 +260,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",Suke TV
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/SukeTv/manifest.mpd
-https://live.mana2.my/SukeTV/index.m3u8?organizationId=196288014&suiteItemId=196291657
-
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1694945122-dc06cfc60691445e910dad425921c035-0-dd2ad035d8743cfa7bae9612ea288389&token=1694945122-dc06cfc6069144
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
