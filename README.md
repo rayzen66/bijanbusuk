@@ -1,20 +1,6 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
-
-https://iptv-org.github.io/epg/guides/jp.xml
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://link.zozotv.xyz/epgtvku.xml,http://103.152.118.53:80/global/epg.xml.gz,http://103.152.118.53:80/local/epg.xml!                                      
 
 
-https://i.mjh.nz/PlutoTV/all.xml.gz
-https://techzyon.com/epg/plutotv_guide.xml
-https://macan.tv/xmltv.php?username=epg&password=epg
-
-#EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 
 ########################################################################################################################################
 
