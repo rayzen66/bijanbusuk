@@ -11,7 +11,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5120/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75d73aa8a1c02adf57ddeb4102d79410:7b584b6aa869fa2d2f639fbcf60fdff5
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Ultraman_HD.png",Ultraman
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ultraman_logo.svg/250px-Ultraman_logo.svg.png",Ultraman
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5121/default.mpd
 
 
