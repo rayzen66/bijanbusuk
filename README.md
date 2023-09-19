@@ -18,9 +18,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5121/default.mpd
 #EXTINF:-1 tvg-logo="https://www.sinarharian.com.my/uploads/images/2023/06/10/2226464.jpg",Polis Evo 3
 https://onedrive-mastrolive.vercel.app/api/raw/?path=/Movies/MalayMovies/Polis.Evo.3.2023.mp4
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Astro_Premier.png/200px-Astro_Premier.png",Astro Premier 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default.mpd
 
-
-
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png",Astro Premier 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5128
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
 
 ################################################################ MY FREEVIEW ##################################################################################
@@ -715,10 +721,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2407/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
 
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png", PREMIER
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5128
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
