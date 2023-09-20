@@ -6,13 +6,8 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cfcff10e7bf34c5e65a8619c034dc10:311a12c7353cfb13923efe9e340ce724
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/DemiNegaraku.png",Demi Negaraku
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/DemiNegaraku.png",Demi Negaraku
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5120/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=75d73aa8a1c02adf57ddeb4102d79410:7b584b6aa869fa2d2f639fbcf60fdff5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ultraman_logo.svg/250px-Ultraman_logo.svg.png",Ultraman
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5121/default.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.sinarharian.com.my/uploads/images/2023/06/10/2226464.jpg",Polis Evo 3
@@ -491,6 +486,12 @@ https://aqfadtv.xyz/live/mewatch/animax/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 EXTINF:-1 tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", Animax
 https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75d73aa8a1c02adf57ddeb4102d79410:7b584b6aa869fa2d2f639fbcf60fdff5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ultraman_logo.svg/250px-Ultraman_logo.svg.png",Ultraman
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5121/default.mpd
 
 EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest",AniPlus 
 http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8?app_type=web&userid=jjj&chname=ANIPLUS_HD
