@@ -78,6 +78,7 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/158347
 http://vo01.mohdtv.com:8880/ALLChannels681def141491/46401783/1705
 
 
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
