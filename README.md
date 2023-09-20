@@ -18,15 +18,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5121/default.mpd
 #EXTINF:-1 tvg-logo="https://www.sinarharian.com.my/uploads/images/2023/06/10/2226464.jpg",Polis Evo 3
 https://onedrive-mastrolive.vercel.app/api/raw/?path=/Movies/MalayMovies/Polis.Evo.3.2023.mp4
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png",Astro Premier  
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default.mpd
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png",Astro Premier 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5128
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
 
 ################################################################ MY FREEVIEW ##################################################################################
@@ -62,22 +53,40 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png", TV3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/k1vsbsn2vv/tutortv/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9hF0Dx5/SGN-09-17-2023-1694929980026.png",PREMIER 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
 https://aqfadtv.xyz/live/ria/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima HD 
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD3
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/158347
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD4
+http://vo01.mohdtv.com:8880/ALLChannels681def141491/46401783/1705
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima HD1 
+https://linears-playback.astro.com.my/vsg/41Hxci3ejo0Dd2U1WiwenLC-0nPY7MreG1XYlGkuEi3bs=NgP7/dash-wv/jitp-linearwm/1000/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima HD2 
+http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303854
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png", Astro Oasis HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -86,29 +95,37 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_pri
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD 1
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD1
 http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/1706
 
-
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD 2
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD2
 http://muka03.wanicelife.com:8880/live/mmNgmvu9uL/Y4qXXjdk2n/1706.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD 3
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD3
 http://95.214.235.96:8880/live/3ca06303n13/asdfe23e32/1706.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD4
 http://my.odtv.uk:80/0752403883/2580384366/18
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=69796371dc4e457d98fa2b025eabfc94&key=6e171dc36e2356c24e4e59b19bc98fc5
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD5
+https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD
 http://my.odtv.uk:80/6288284322/8436372383/19
 
+KODIPROP:inputstreamaddon=inputstream.adaptive
+EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5HWXpZV1ZpWlRFdE5UUTNNQzAwWmpKbExUa3dNV010TVdabU5XVTVZMlJoTTJSbCIsIndtb3BpZCI6MzIsImV4cCI6MTY5NTA0ODExMywiaWF0IjoxNjk0NDQ0MTEzfQ.9vr60unuMYVCRt-K9bwXlyLoj3Ni9s-zFxPQZk3XrZY","3y37WdNxsDTNAF3605xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d7df6125"} 
+KODIPROP:inputstream.adaptive.manifest_type=dash
+KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name=" citra" tvg-logo="https://i.ibb.co/Gsgn8Hw/SGN-09-02-2023-1693647760050.png" group-title="MALAYSIA" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144", CITRA
+http://54.38.32.101/live/1876237294/1071238363/19.m3u8?token=QhpQUUYMEAlAVw0GBFNVCVYBAwQECVcEB1NVC1kEBlNcWQ8FDFQAAVYQFUZDQUFVBVpsCwUbDAddTUdGSwRDb1BcGgoXUgUFVQQbSBJBWl0BFQlSTRtGXwBDXxEJUQYJABoUElAcRlYQXFgIb1FWRg1UVkBbV0NaCE1HXFY+VVVUWVZUF14QA0AeGw1DRREKCkJfDk0bVF8QEwRHXUMLEgoIDwUXSBBQDUdXEEJMEQpGempATRtTThAEC0BRDl8SAxpVA0BcEB9AW0o7QlBARBZSUg8ESxQMRlFHHxoMUEhmW1deWwFRRwtdVxcSDxEBRhsRDw5XX0ILEzpDUQUTChsJCAYBVBB
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
-#EXTVLCOPT:network-caching=1000
-https://live.mana2.my/Tv5/index.m3u8?auth_key=1694944995-63431508c1a842ffa8da7f475645f17d-0-b5a256d76a69d6661ab42b131c2bdfc8&token=1694944995-63431508c1a842f
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
@@ -139,16 +156,11 @@ https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
 https://centerrrs.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9X1Uzxq6NAAqGASx47cKgqfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080121%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080121%2Curn:Huawei:liveTV:iptv47777%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOXQuCMBiF_80uR5s25sWuiiCIFWTdxuv2usTpbLOgf5-WXZ6P53DGCAb3W1Wtpcmx4NbWeV5gNWkQmQCb1RIlCpLwoYPixID3Te90sDN2PW9ubEVXlHNGGSflPLfz4JamfnYVRpX9sTPGV2NQ2VTTFyQKzkV0MDahpycP70v0S4VguVxjQhRc5oJzIRkZZ7eE1E4JuUPahG6AiPYQ3BdQNfiEZADTgkMNHar-6f2PO0Y7vfkAzoOp1vQAAAA&tenantId=6001
 
- #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest?cb=20220902052331",Sensasi HD 
-https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=rKYifC4cgUH4ajqf5oEB0Z2I03cm4d2TMQnQ6CSa3m3t3RxCUoK5rFP47blvMbDbJxhCD7QhYxY3hz3Xy08%2F4ggYU9UMh1fxCV547C0d2qBt5J0dsgfU28LWZM15p3G2%3A20230918144514%3AUTC%2C10001003897360%2C27.125.250.92%2C20230918144514%2Curn:Huawei:liveTV:SP000004015718%2C10001003897360%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0006%2C%2C%2C2%2C10000106865763%2C0%2C10000104587428%2C3028494234%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.165_80&hms_devid=1765&mag_hms=1765,1788,1794,1792&mount=1000002&targetdev=1765&it=H4sIAAAAAAAAAzWMTQsCIRQA_43Hx_qxlQdPRdBFgq2u8dSXCLaSbgv9-9qo6zAzU0VPh53ZcOo7J1FprpSSQeverYLQH0RerR1r9LDFSOYx5zRGW8KSXYbtlXfQgRAcJGenZbfPGI34mvZ5d1QN_2cD1Tl5MqHdYMYGGGOliFMqIxwzvs41_5Q30mXu4pkAAAA
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest?cb=20220902052331",Sensasi HD 
-https://web.hypp.tv/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=rKYifC4cgUH4ajqf5oEB0XSn%2BUpPSbQzzi2nJsCu4qFhh0mZthy9iDsPY4qTtavHdAPNexXlFR7IGkxJR2DoTiNdmkKxMPwcummn5H%2FvSfmXUa7p19AiNlG2IwzWT7mo%3A20230914102350%3AUTC%2C10001003897360%2C115.132.173.157%2C20230914102350%2Curn:Huawei:liveTV:SP000004015718%2C10001003897360%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0006%2C%2C%2C2%2C10000106865763%2C0%2C10000104587428%2C3028494234%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7CMBBE_8ZHy3ZSFx98AiFVQqESgWu19m5MhBNTOyD17yE0XGfmjd6UwdPXxiKh6SrtvEOoEb1bCaOU6JRQH0a4ihX6bZJVzEOM_RiahDN2Oqx_pOCCKyW5rFg7320jhGXZ3AZH2co3dqB87z1ZLB2_Q-EQQqYAU59G_h3h75jjMmHULmpSm1obbT61XtVsmtMWyuXZsDOUdRqukAl3KbwA20EsxK7gLxCogYHseIvxn9tnfNo8AISrze30AAAA&tenantId=6003
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",SENSASI
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=rKYifC4cgUH4ajqf5oEB0Z2I03cm4d2TMQnQ6CSa3m3t3RxCUoK5rFP47blvMbDbJxhCD7QhYxY3hz3Xy08%2F4ggYU9UMh1fxCV547C0d2qBt5J0dsgfU28LWZM15p3G2%3A20230918144514%3AUTC%2C10001003897360%2C27.125.250.92%2C20230918144514%2Curn:Huawei:liveTV:SP000004015718%2C10001003897360%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0006%2C%2C%2C2%2C10000106865763%2C0%2C10000104587428%2C3028494234%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.165_80&hms_devid=1765&mag_hms=1765,1788,1794,1792&mount=1000002&targetdev=1765&it=H4sIAAAAAAAAAzWMTQsCIRQA_43Hx_qxlQdPRdBFgq2u8dSXCLaSbgv9-9qo6zAzU0VPh53ZcOo7J1FprpSSQeverYLQH0RerR1r9LDFSOYx5zRGW8KSXYbtlXfQgRAcJGenZbfPGI34mvZ5d1QN_2cD1Tl5MqHdYMYGGGOliFMqIxwzvs41_5Q30mXu4pkAAAA
+
 
 
 
@@ -188,6 +200,10 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227948/32
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
+#EXTVLCOPT:network-caching=1000
+https://live.mana2.my/Tv5/index.m3u8?auth_key=1695109345-fabcb559a7c14e57850a164ec09d47bc-0-cde4b57c991b35fe0d2dded6c5600e97&token=1695109345-fabcb559a7c14e57850a164ec09d47bc-0-cde4b57c991b35fe0d2dded6c5600e97
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -211,9 +227,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",Suke TV
-#EXTVLCOPT:network-caching=1000
-https://live.mana2.my/SukeTv/index.m3u8?auth_key=1694945122-dc06cfc60691445e910dad425921c035-0-dd2ad035d8743cfa7bae9612ea288389&token=1694945122-dc06cfc6069144
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",SUKE TV
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1695109423-313e465d55b14e4dbce188898320f7ce-0-3ee9f7ddcd714af1e1f1f4814fd31c63&token=1695109423-313e465d55b14e4dbce188898320f7ce-0-3ee9f7ddcd714af1e1f1f4814fd31c63
+
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
