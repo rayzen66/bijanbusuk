@@ -60,6 +60,13 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9hF0Dx5/SGN-09-17-2023-1694929980026.png",PREMIER 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9hF0Dx5/SGN-09-17-2023-1694929980026.png",PREMIER
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default.mpd
+
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
@@ -75,8 +82,7 @@ https://aqfadtv.xyz/live/ria/index.mpd
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/158347
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD4
-http://vo01.mohdtv.com:8880/ALLChannels681def141491/46401783/1705
-
+http://vo01.mohdtv.com:8880/live/ALLChannels681def141491/46401783/1705.m3u8
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -113,17 +119,14 @@ http://my.odtv.uk:80/0752403883/2580384366/18
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD5
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD1
 http://my.odtv.uk:80/6288284322/8436372383/19
 
-KODIPROP:inputstreamaddon=inputstream.adaptive
-EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5HWXpZV1ZpWlRFdE5UUTNNQzAwWmpKbExUa3dNV010TVdabU5XVTVZMlJoTTJSbCIsIndtb3BpZCI6MzIsImV4cCI6MTY5NTA0ODExMywiaWF0IjoxNjk0NDQ0MTEzfQ.9vr60unuMYVCRt-K9bwXlyLoj3Ni9s-zFxPQZk3XrZY","3y37WdNxsDTNAF3605xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d7df6125"} 
-KODIPROP:inputstream.adaptive.manifest_type=dash
-KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"EQD+KXFG99AktZlE8J5tGg", "kid":"yk9f9ORpTVS9/cm9NDhCkA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name=" citra" tvg-logo="https://i.ibb.co/Gsgn8Hw/SGN-09-02-2023-1693647760050.png" group-title="MALAYSIA" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144", CITRA
-http://54.38.32.101/live/1876237294/1071238363/19.m3u8?token=QhpQUUYMEAlAVw0GBFNVCVYBAwQECVcEB1NVC1kEBlNcWQ8FDFQAAVYQFUZDQUFVBVpsCwUbDAddTUdGSwRDb1BcGgoXUgUFVQQbSBJBWl0BFQlSTRtGXwBDXxEJUQYJABoUElAcRlYQXFgIb1FWRg1UVkBbV0NaCE1HXFY+VVVUWVZUF14QA0AeGw1DRREKCkJfDk0bVF8QEwRHXUMLEgoIDwUXSBBQDUdXEEJMEQpGempATRtTThAEC0BRDl8SAxpVA0BcEB9AW0o7QlBARBZSUg8ESxQMRlFHHxoMUEhmW1deWwFRRwtdVxcSDxEBRhsRDw5XX0ILEzpDUQUTChsJCAYBVBB
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD2
+https://axcestv.com:443/@jusriungit/AuHCh3H8D6/459
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",Astro Citra HD3
+http://vo01.mohdtv.com:8880/live/ALLChannels681def141491/46401783/1706.m3u8
 
 
 
