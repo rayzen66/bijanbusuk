@@ -102,6 +102,11 @@ http://foctv.xyz:25510/live/axcestv/BKjN08kD8R/21.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Astro",Astro Warna
+http://w.nasvpn.xyz:8080/live/best1/best1/7807.m3u8
+
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD1
 http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/1706
 
