@@ -53,8 +53,13 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9hF0Dx5/SGN-09-17-2023-1694929980026.png",PREMIER
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9hF0Dx5/SGN-09-17-2023-1694929980026.png",Astro Premier
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png",Astro Premier
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",Astro Ria HD1
