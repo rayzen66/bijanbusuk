@@ -1377,6 +1377,17 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extens
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186390&extension=ts&play_token=oNnNMlQM3k
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jf9zNQC/SGN-09-21-2023-1695302232905.png", LIVE SHOW ONLY 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/8fbelkwa24/livegv1/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jf9zNQC/SGN-09-21-2023-1695302232905.png", LIVE SHOW ONLY 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/8fbelkwa24/livegv2/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
+
+
 
 
 
