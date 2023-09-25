@@ -1446,10 +1446,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 
 
 
-#EXTINF:-1 tvg-logo="",TEST 3
+#EXTINF:-1 tvg-logo="",TEST 1
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/warnaajepstore.m3u8
 
+#EXTINF:-1 tvg-logo="",TEST 2
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/jepwarna.m3u8
 
+
+#EXTINF:-1 tvg-logo="",TEST 3
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/warnajepstore.m3u8
 
 
 
