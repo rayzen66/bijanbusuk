@@ -113,8 +113,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Astro",Astro Warna
 http://w.nasvpn.xyz:8080/live/best1/best1/7807.m3u8
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD1
-http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/1706
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD1
+http://vo01.mohdtv.com:8880/live/voby0541/68254153/1706.m3u8
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD2
 http://muka03.wanicelife.com:8880/live/mmNgmvu9uL/Y4qXXjdk2n/1706.m3u8
