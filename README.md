@@ -1450,14 +1450,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/warnaajepstore.m3u8
 
 #EXTINF:-1 tvg-logo="",TEST 2
-https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/jepwarna.m3u8
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/jepwarnaaa.m3u8
 
 
 #EXTINF:-1 tvg-logo="",TEST 3
-https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/warnajepstore.m3u8
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/warnaaajepstore.m3u8
 
 
+#EXTINF:-1 tvg-logo="",TEST 4
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/jepstorewarna.m3u8
 
+
+#EXTINF:-1 tvg-logo="",TEST 5
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/jepstorewarnaa.m3u8
 
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
