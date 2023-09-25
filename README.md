@@ -1432,6 +1432,46 @@ http://linears-playback.astro.com.my/vsg/41FalQbe4z6zqZIneBUOZTZjGw303Necb2pRQGn
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Xwm693/Fri-25-08-2023-11-46-45.png",WARNA HD
 http://linears-playback.astro.com.my/vsg/41CatQsfD5PZ1PN4ij4PQTjAUku9HaW8lsPSCZB2A_MKY=KUoM/dash-wv/jitp-dashisowm/2402/default_primary.mpd
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pKjmF6L/Thu-24-08-2023-23-30-09.png",PRIMA B
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/jepprimaa.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/5x9trl0kix/oasis/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MnkFF5N/Fri-25-08-2023-11-42-44.png",OASIS
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:http-user-agent=CheerVision_TV+_LiVe_888_666_8888 
+#KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/5x9trl0kix/ria/
+http://linears-playback.astro.com.my/vsg/41FalQbe4z6zqZIneBUOZTZjGw303Necb2pRQGnVGKd24=DZB7/dash-wv/jitp-linearwm/1004/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD B
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/riajepstore.m3u8
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
+#KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/5x9trl0kix/warna/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Xwm693/Fri-25-08-2023-11-46-45.png",WARNA HD
+http://linears-playback.astro.com.my/vsg/41_Sf_ezUr0PwjgjZLW7fTLemJE0LPLxfyiP0P0jrXz8c=lUD9/dash-wv/jitp-dashisowm/2402/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Xwm693/Fri-25-08-2023-11-46-45.png",WARNA HD B
+https://axcestv.com:443/@jusriungit/AuHCh3H8D6/457
+
+#EXTVLCOPT:http-user-agent=CheerVision_TV+_LiVe_888_666_8888
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/5x9trl0kix/citra/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gsgn8Hw/SGN-09-02-2023-1693647760050.png", CITRA
+http://linears-playback.astro.com.my/vsg/41_Sf_ezUr0PwjgjZLW7fTLbkeLKQbtbJmocUaUsfz10s=O7wv/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+
+
 #EXTVLCOPT:http-user-agent=CheerVision_TV+_LiVe_888_666_8888
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/y7tjtjky72/citra/
