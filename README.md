@@ -96,6 +96,12 @@ http://blazetv.host:8080/garnettejohnson2@gmail.com/abat9X5X2Z/303854
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima HD
 http://foctv.xyz:25510/live/axcestv/BKjN08kD8R/21.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445", Astro Prima
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png", Astro Oasis HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505/
@@ -1347,6 +1353,7 @@ https://onedrive-mastrolive.vercel.app/api/raw/?path=/Series/SpecialForceAnarchy
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mastrolive/mastrolive/main/Poster/Series/SpecialForceAnarchy.jpg" group-title="Special Force Anarchy (Disney+ Hotstar)", Special Force Anarchy (ep7)
 https://onedrive-mastrolive.vercel.app/api/raw/?path=/Series/SpecialForceAnarchy/Special.Force.Anarchy.EP07.mp4
 
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png", Asian Games 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5130
@@ -1362,6 +1369,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5131/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5132
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5132/default.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5133/
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png", Asian Games 4
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5133/default_primary.mpd 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5134
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/230px-2022_Asian_Games_logo.svg.png", Asian Games 5
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5134/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5135
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/230px-2022_Asian_Games_logo.svg.png", Asian Games 6
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5135/default_ott.mpd
 
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1
@@ -1388,9 +1409,34 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/y7tjtjky72/prima/
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
+#EXTVLCOPT:http-user-agent=CheerVision_TV+_LiVe_888_666_8888
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pKjmF6L/Thu-24-08-2023-23-30-09.png",PRIMA
+http://linears-playback.astro.com.my/vsg/41IBwNaD2J2CMUZ9M8CScimkBOy9zzHdc2ApveQWBHEI0=zrD9/dash-wv/jitp-linearwm/1000/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pKjmF6L/Thu-24-08-2023-23-30-09.png",PRIMA B
+https://us.dispatch.ulivetv.net/v/live/cg49a7nnj64g.m3u8?stream_id=cg49a7nnj64g&timestamp=1688226215&rand=ApkvMQY2h3&uuid=9b647b3816b2a66a&from=web&sign=5daa358e33b5d54fdfb5cead5dedd977
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:http-user-agent=CheerVision_TV+_LiVe_888_666_8888 
+#KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/y7tjtjky72/ria/
+http://linears-playback.astro.com.my/vsg/41FalQbe4z6zqZIneBUOZTZjGw303Necb2pRQGnVGKd24=DZB7/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 
+#KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/y7tjtjky72/warna/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Xwm693/Fri-25-08-2023-11-46-45.png",WARNA HD
+http://linears-playback.astro.com.my/vsg/41CatQsfD5PZ1PN4ij4PQTjAUku9HaW8lsPSCZB2A_MKY=KUoM/dash-wv/jitp-dashisowm/2402/default_primary.mpd
+
+#EXTVLCOPT:http-user-agent=CheerVision_TV+_LiVe_888_666_8888
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/y7tjtjky72/citra/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gsgn8Hw/SGN-09-02-2023-1693647760050.png", CITRA
+http://linears-playback.astro.com.my/vsg/41_Sf_ezUr0PwjgjZLW7fTLbkeLKQbtbJmocUaUsfz10s=O7wv/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
