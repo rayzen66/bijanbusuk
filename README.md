@@ -114,10 +114,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Astro",Astro Warna
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Astro",Astro Warna
 http://w.nasvpn.xyz:8080/live/best1/best1/7807.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD1
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD
 http://vo01.mohdtv.com:8880/live/voby0541/68254153/1706.m3u8
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD2
@@ -126,7 +126,7 @@ http://muka03.wanicelife.com:8880/live/mmNgmvu9uL/Y4qXXjdk2n/1706.m3u8
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD3
 http://95.214.235.96:8880/live/3ca06303n13/asdfe23e32/1706.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD
 http://foctv.xyz:25510/live/axcestv/BKjN08kD8R/297.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
