@@ -39,8 +39,6 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", Salam HD
@@ -1392,11 +1390,5 @@ EXTINF:-1 tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Sens
 http://149.18.85.131/live/8059765630/3322606439/13490.m3u8
 https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-logo="", TEST
-https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/unifi/sensasijepstore.m3u8
-
-
-#EXTINF:-1 tvg-logo="", TEST
-https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/sensasijepstore.m3u8
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
