@@ -1317,7 +1317,7 @@ https://linears-playback.astro.com.my/vsg/41Hxci3ejo0Dd2U1WiwenLC-0nPY7MreG1XYlG
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/jepprimaa.m3u8
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 http://stream1.foctv.xyz:25510/live/%40azamcekman/Ti0NKDy655/21.ts?token=HRYOAEAMQVhAVgMGBgAFUwBUBwVTV1UIBAMCBVVQAQdWAVUEVlECVQcWH0YWRRQBAlw7ClMTXgJUGBMUF1RBaQ9QRFsRU1BTVxYfRhFYCwFBC1VVDgRTAFQDAFRIE0NfAhZcQwFcVVtWFh9GAEkSARFfBQ9oVQFGDFdUQ15fRloKGEQOXTsHBw9VXQBHC0RUQR1GCkRBRgoLQV0NSBNRXxJGBxVWRllAUwcCUkcdRAcMRAoXRUhGCkd5aENIE1ZOElEIEloLDUBYFkcXRx1EDRBuFgZERRZVBFlUE0YLEQZEGEQMUhw8AQ1aXQEGRQ8LDUJGWRUARhxHWV4PDUVcRDlEDwURXkFXVQAARhg=
 
 
@@ -1338,13 +1338,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Astro",Astro Warna
 http://w.nasvpn.xyz:8080/live/best1/best1/7807.m3u8
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 http://vo01.mohdtv.com:8880/live/voby0541/68254153/1706.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/297?token=HRYOAEAMQVhAAgFRAQVUAFYCBQBTBVdRXQ0BAwIEVQZXAQdZAlRUVVEWH0YWRRQBAlw7ClMTXgJcAx1DEUJWRDldAkMJRlRRUwERSEdFDwkGE15SAQhRB1UGB1JdHRFGD1BEWxFVWlFbBRFIR1QeEAZDCgJbbgBVE11SBEYLXUMKWEpDXAo8BgdZUgoBE1xGUxNIQV5CFBJfWkQNCB0RVA9AFABHAUFYQAULXVwTSkYAXhENQ0MdEl8WfDhGHRFTHkADD0ANDAxADhEQFhNKRgpCOxFSQhBCAFVcBBYTCRRWFkpDXgUbPQFbXQoAUhINDF8XQQ0TVRJJFlwOClhHWRRrFghXRllAUwQCUlcTGw==
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 http://vo01.mohdtv.com:8880/live/voby0541/68254153/1706.m3u8?token=HRYOAEAMQVhAAgFRAQVUAFYCBQBTBVdRXQ0BAwIEVQZXAQdZAlRUVVEWH0YWRRQBAlw7ClMTXgJcAx1DEUJWRDldAkMJRlRRUwERSEdFDwkGE15SAQhRB1UGB1JdHRFGD1BEWxFVWlFbBRFIR1QeEAZDCgJbbgBVE11SBEYLXUMKWEpDXAo8BgdZUgoBE1xGUxNIQV5CFBJfWkQNCB0RVA9AFABHAUFYQAULXVwTSkYAXhENQ0MdEl8WfDhGHRFTHkADD0ANDAxADhEQFhNKRgpCOxFSQhBCAFVcBBYTCRRWFkpDXgUbPQFbXQoAUhINDF8XQQ0TVRJJFlwOClhHWRRrFghXRllAUwQCUlcTGw==
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD
@@ -1361,11 +1361,11 @@ http://vo01.mohdtv.com:8880/live/ALLChannels681def141491/46401783/1706.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/citrajepstore.m3u8
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 https://us.dispatch.ulivetv.net/v/live/cg4ckrx6xyv4.m3u8?stream_id=cg4ckrx6xyv4&timestamp=1690127876&rand=dRWQc3gEWU&uuid=9b647b3816b2a66a&from=web&sign=566b46864cf85d4b0239c9083119189d
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/citrajepstore.m3u8
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/26
 https://axcestv.com:443/@jusriungit/AuHCh3H8D6/459
 
