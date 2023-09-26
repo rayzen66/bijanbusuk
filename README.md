@@ -703,8 +703,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbosignature.png", HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/dcub
+#EXTINF:-1 tvg-logo="https://github.com/hendroagung2904/LOGO/blob/main/HBO%20Signature.png",HBO Signature
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 
@@ -768,7 +769,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png", SONY PIX
-http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=282631&extension=ts&play_token=8elHzUlVi6
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=282631&extension=ts&play_token=8elHzUlVi6
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/8kWnyqn.png",Star Movies 
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
@@ -777,13 +778,14 @@ http://shareex@195.26.87.217/live?channelId=198&deviceMac=00:1A:79:33:E9:41
 http://103.61.73.220:8000/play/a04c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png", STAR MOVIE
-http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1116488&extension=ts&play_token=1PvUcweHaG
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116488&extension=ts&play_token=1PvUcweHaG
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png",Star Movies Select
 http://shareex@195.26.87.217/live?channelId=199&deviceMac=00:1A:79:33:E9:41
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png",Star Movies Select
-http://103.61.73.220:8000/play/a04d
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155729&extension=ts&play_token=vOBlxrufX5
 
 
 
