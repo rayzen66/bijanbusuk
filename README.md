@@ -1319,6 +1319,13 @@ https://linears-playback.astro.com.my/vsg/41Hxci3ejo0Dd2U1WiwenLC-0nPY7MreG1XYlG
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/jepprimaa.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+https://us.dispatch.ulivetv.net/v/live/cg49a7nnj64g.m3u8?stream_id=cg49a7nnj64g&timestamp=1695742025&rand=qKW2DPbXcM&uuid=jHpT5hpwmLn4sdQFSc6dnt&from=web&sign=cbed8a8b0a5374dc51676dd347e08c3c|referer=https://www.histar.tv
+
+
+
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 http://stream1.foctv.xyz:25510/live/%40azamcekman/Ti0NKDy655/21.ts?token=HRYOAEAMQVhAVgMGBgAFUwBUBwVTV1UIBAMCBVVQAQdWAVUEVlECVQcWH0YWRRQBAlw7ClMTXgJUGBMUF1RBaQ9QRFsRU1BTVxYfRhFYCwFBC1VVDgRTAFQDAFRIE0NfAhZcQwFcVVtWFh9GAEkSARFfBQ9oVQFGDFdUQ15fRloKGEQOXTsHBw9VXQBHC0RUQR1GCkRBRgoLQV0NSBNRXxJGBxVWRllAUwcCUkcdRAcMRAoXRUhGCkd5aENIE1ZOElEIEloLDUBYFkcXRx1EDRBuFgZERRZVBFlUE0YLEQZEGEQMUhw8AQ1aXQEGRQ8LDUJGWRUARhxHWV4PDUVcRDlEDwURXkFXVQAARhg=
 
@@ -1337,7 +1344,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="Astro",Astro Warna
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+https://us.dispatch.ulivetv.net/v/live/cg4ao9s4cbeo.m3u8?stream_id=cg4ao9s4cbeo&timestamp=1695741549&rand=JOh9Xftyg5&uuid=aXLvgeKovvvZBwiur48g83&from=web&sign=7930733c915433a226d9758e4b60b41d|referer=https://www.histar.tv
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 http://w.nasvpn.xyz:8080/live/best1/best1/7807.m3u8
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
@@ -1357,8 +1370,16 @@ http://foctv.xyz:25510/live/axcestv/BKjN08kD8R/297.m3u8
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD5
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
+
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD
 http://vo01.mohdtv.com:8880/live/ALLChannels681def141491/46401783/1706.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+https://us.dispatch.ulivetv.net/v/live/cg4ckrx6xyv4.m3u8?stream_id=cg4ckrx6xyv4&timestamp=1695739657&rand=mWuD1w89CJ&uuid=sHZVn5xx4yaBo5nMkxFnto&from=web&sign=11f8aed71458456e999efd2064f34951|referer=https://www.histar.tv
+
+
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/citrajepstore.m3u8
@@ -1370,6 +1391,19 @@ https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/citrajepstore.m
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/26
 https://axcestv.com:443/@jusriungit/AuHCh3H8D6/459
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+EXTINF:-1 tvg-id="106.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="Astro",Astro Oasis
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
