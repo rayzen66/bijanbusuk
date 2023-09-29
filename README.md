@@ -1307,6 +1307,8 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/23
 http://foctv.xyz:25510/live/axcestv/BKjN08kD8R/23.m3u8
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD
+http://iptv12k.com:35461/7010925006/990986/13635
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/riajepstore.m3u8
@@ -1359,11 +1361,16 @@ http://w.nasvpn.xyz:8080/live/best1/best1/7807.m3u8
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 http://vo01.mohdtv.com:8880/live/voby0541/68254153/1706.m3u8
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+http://iptv12k.com:35461/7010925006/990986/13629
+
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/297?token=HRYOAEAMQVhAAgFRAQVUAFYCBQBTBVdRXQ0BAwIEVQZXAQdZAlRUVVEWH0YWRRQBAlw7ClMTXgJcAx1DEUJWRDldAkMJRlRRUwERSEdFDwkGE15SAQhRB1UGB1JdHRFGD1BEWxFVWlFbBRFIR1QeEAZDCgJbbgBVE11SBEYLXUMKWEpDXAo8BgdZUgoBE1xGUxNIQV5CFBJfWkQNCB0RVA9AFABHAUFYQAULXVwTSkYAXhENQ0MdEl8WfDhGHRFTHkADD0ANDAxADhEQFhNKRgpCOxFSQhBCAFVcBBYTCRRWFkpDXgUbPQFbXQoAUhINDF8XQQ0TVRJJFlwOClhHWRRrFghXRllAUwQCUlcTGw==
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 http://vo01.mohdtv.com:8880/live/voby0541/68254153/1706.m3u8?token=HRYOAEAMQVhAAgFRAQVUAFYCBQBTBVdRXQ0BAwIEVQZXAQdZAlRUVVEWH0YWRRQBAlw7ClMTXgJcAx1DEUJWRDldAkMJRlRRUwERSEdFDwkGE15SAQhRB1UGB1JdHRFGD1BEWxFVWlFbBRFIR1QeEAZDCgJbbgBVE11SBEYLXUMKWEpDXAo8BgdZUgoBE1xGUxNIQV5CFBJfWkQNCB0RVA9AFABHAUFYQAULXVwTSkYAXhENQ0MdEl8WfDhGHRFTHkADD0ANDAxADhEQFhNKRgpCOxFSQhBCAFVcBBYTCRRWFkpDXgUbPQFbXQoAUhINDF8XQQ0TVRJJFlwOClhHWRRrFghXRllAUwQCUlcTGw==
+
+
 
 EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",Astro Warna HD
 http://foctv.xyz:25510/live/axcestv/BKjN08kD8R/297.m3u8
@@ -1395,7 +1402,8 @@ https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/citrajepstore.m
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/26
 https://axcestv.com:443/@jusriungit/AuHCh3H8D6/459
 
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+http://iptv12k.com:35461/7010925006/990986/721
 
 
 
