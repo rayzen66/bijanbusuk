@@ -1440,4 +1440,11 @@ http://149.18.85.131/live/8059765630/3322606439/13490.m3u8
 https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd
 
 
+#EXTINF:-1, tvg-logo="https://telegra.ph/file/521f96cbc505fa6e79750.jpg",Penunggang Agama
+https://f2lpadubot.herokuapp.com/1694229264714204/Penunggang.Agama.2021.1080p.PPVHD.mkv
+
+#EXTINF:-1 tvg-logo="",penunggangAgama2021 
+https://botxdirect.herokuapp.com/221038701159035062760297436/Penunggang.Agama.2.2021.1080p.WEB-DL.mkv
+
+
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
