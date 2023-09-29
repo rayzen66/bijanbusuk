@@ -47,6 +47,7 @@ https://centerrrs.hypp.tv/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=cent
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",SENSASI
+http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3606.mpd
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=rKYifC4cgUH4ajqf5oEB0Z2I03cm4d2TMQnQ6CSa3m3t3RxCUoK5rFP47blvMbDbJxhCD7QhYxY3hz3Xy08%2F4ggYU9UMh1fxCV547C0d2qBt5J0dsgfU28LWZM15p3G2%3A20230918144514%3AUTC%2C10001003897360%2C27.125.250.92%2C20230918144514%2Curn:Huawei:liveTV:SP000004015718%2C10001003897360%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0006%2C%2C%2C2%2C10000106865763%2C0%2C10000104587428%2C3028494234%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.165_80&hms_devid=1765&mag_hms=1765,1788,1794,1792&mount=1000002&targetdev=1765&it=H4sIAAAAAAAAAzWMTQsCIRQA_43Hx_qxlQdPRdBFgq2u8dSXCLaSbgv9-9qo6zAzU0VPh53ZcOo7J1FprpSSQeverYLQH0RerR1r9LDFSOYx5zRGW8KSXYbtlXfQgRAcJGenZbfPGI34mvZ5d1QN_2cD1Tl5MqHdYMYGGGOliFMqIxwzvs41_5Q30mXu4pkAAAA
 
 
@@ -619,10 +620,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Logo_10000499.png", HITS MOVIES HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png",Thrill
-https://anevia115.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+http://103.150.197.226:25461/movie/hometv@226/Wdk8VzyYTG/3609.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
