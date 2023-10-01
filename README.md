@@ -1290,6 +1290,15 @@ http://foctv.xyz:25510/live/axcestv/BKjN08kD8R/23.m3u8
 http://iptv12k.com:35461/7010925006/990986/13635
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD 8
+http://iptv12k.com:35461/7010925006/990986/13635
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD 9
+http://iptv12k.com:35461/test167/12345/13635
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD 10
+http://iptv12k.com:35461/80201033004/324542/13635
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD 1
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/riajepstore.m3u8
 
 ***********************************PRIMA***********************************************
@@ -1343,6 +1352,21 @@ http://vo01.mohdtv.com:8880/live/voby0541/68254153/1706.m3u8
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 4
 http://iptv12k.com:35461/7010925006/990986/13629
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 4.1
+http://iptv12k.com:35461/test167/12345/9169
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 4.2
+http://iptv12k.com:35461/80201033004/324542/9169
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 4.3
+http://iptv12k.com:35461/80201033004/324542/4313
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 4.4
+http://iptv12k.com:35461/test167/12345/4313
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 4.5
+http://iptv12k.com:35461/7010925006/990986/4313
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD 5
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/25
 
@@ -1364,23 +1388,29 @@ http://vo01.mohdtv.com:8880/live/ALLChannels681def141491/46401783/1706.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD 1
 https://us.dispatch.ulivetv.net/v/live/cg4ckrx6xyv4.m3u8?stream_id=cg4ckrx6xyv4&timestamp=1695739657&rand=mWuD1w89CJ&uuid=sHZVn5xx4yaBo5nMkxFnto&from=web&sign=11f8aed71458456e999efd2064f34951|referer=https://www.histar.tv
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD 2
 https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/php/astro/citrajepstore.m3u8
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD 3
 https://us.dispatch.ulivetv.net/v/live/cg4ckrx6xyv4.m3u8?stream_id=cg4ckrx6xyv4&timestamp=1690127876&rand=dRWQc3gEWU&uuid=9b647b3816b2a66a&from=web&sign=566b46864cf85d4b0239c9083119189d
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD 4
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/26
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD 5
 https://axcestv.com:443/@jusriungit/AuHCh3H8D6/459
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD 6
 http://iptv12k.com:35461/7010925006/990986/721
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD 7
+http://iptv12k.com:35461/test167/12345/721
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD 8
+http://iptv12k.com:35461/80201033004/324542/721
 
 
 
@@ -1397,7 +1427,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi HD
+http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
 https://co2-bks400-05.starhubgo.com/bpk-token/2ab@ltq53pwlc4x5jspmlp4c4b51520e2p5tlnq3uxca/bpk-tv/HubSensasiHD/output/manifest.mpd?bkm-query
 
 
