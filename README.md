@@ -1328,6 +1328,12 @@ EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+
+
 ******************OASIS**************************************************
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", OASIS HD
