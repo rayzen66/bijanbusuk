@@ -774,6 +774,9 @@ http://shareex@195.26.87.217/live?channelId=198&deviceMac=00:1A:79:33:E9:41
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8kWnyqn.png",Star Movies 
 http://103.61.73.220:8000/play/a04c
 
+#EXTINF:-1,(CH-09) Star Movies
+http://116.204.149.11:8000/play/a009/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png", STAR MOVIE
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/67281
 
@@ -792,6 +795,11 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155729&ex
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png",Star Movies Select
 http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73//267542
 
+#EXTINF:-1,(CH-10) Star Movies Select
+http://116.204.149.11:8000/play/a00a/index.m3u8
+
+#EXTINF:-1,(CH-03) AXN Movies
+http://116.204.149.11:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg",AndPrive 
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8 
