@@ -88,9 +88,9 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227948/32
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
-EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/Tv5/index.m3u8?auth_key=1695109345-fabcb559a7c14e57850a164ec09d47bc-0-cde4b57c991b35fe0d2dded6c5600e97&token=1695109345-fabcb559a7c14e57850a164ec09d47bc-0-cde4b57c991b35fe0d2dded6c5600e97
+https://live.mana2.my/Tv5/manifest.mpd|Referer=https://live.mana2.my/
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", TV6
@@ -115,8 +115,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",SUKE TV
-https://live.mana2.my/SukeTv/index.m3u8?auth_key=1695109423-313e465d55b14e4dbce188898320f7ce-0-3ee9f7ddcd714af1e1f1f4814fd31c63&token=1695109423-313e465d55b14e4dbce188898320f7ce-0-3ee9f7ddcd714af1e1f1f4814fd31c63
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",SUKE TV
+https://live.mana2.my/SukeTv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVSarawak.png",TVS
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
