@@ -28,8 +28,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/5b318e37-8add-4b31-90c8-35fc1255014b
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live03.mpd
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV 3
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/ 
 https://aqfadtv.xyz/live/tv3/index.mpd
