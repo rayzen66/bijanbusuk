@@ -1389,4 +1389,36 @@ https://kametv.my.id/putar/astroria.php
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1RGzz48/citra.png" group-title="MALAYSIA",Astro Citra
 https://kametv.my.id/putar/malay/citra.php
 
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-logo=" https://i.postimg.cc/k41P5tx3/ASTRO-PRIMA.png " group-title="TV MALAYSIA",Astro PRIMA
+http://51.79.82.208:16008
+
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-logo=" https://i.postimg.cc/k41P5tx3/ASTRO-PRIMA.png " group-title="TV MALAYSIA",Astro PRIMA
+http://w.nasvpn.xyz:8080/live/saya/saya/16578.ts?blog.ntnas.top
+
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-logo=" https://i.postimg.cc/k41P5tx3/ASTRO-PRIMA.png " group-title="TV MALAYSIA",Astro PRIMA
+http://w.nasvpn.xyz:8080/live/saya/saya/176.ts?blog.ntnas.top
+
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-logo=" https://i.postimg.cc/1zKZLdXz/ASTRO-RIA.png " group-title="TV MALAYSIA",Astro RIA
+http://51.79.82.208:16007
+
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-logo=" https://i.postimg.cc/1zKZLdXz/ASTRO-RIA.png " group-title="TV MALAYSIA",Astro RIA
+http://w.nasvpn.xyz:8080/live/saya/saya/11.ts?blog.ntnas.top
+
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-logo=" https://i.postimg.cc/1zKZLdXz/ASTRO-RIA.png " group-title="TV MALAYSIA",Astro RIA
+http://w.nasvpn.xyz:8080/live/saya/saya/7868.ts?blog.ntnas.top
+
+
+
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo=" https://i.postimg.cc/9MFjVBwY/ASTRO-CERIA.png " group-title="TV MALAYSIA",Astro CERIA
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo=" https://i.postimg.cc/qMCHkqqS/ASTRO-WARNA.png " group-title="TV MALAYSIA",Astro WARNA
+http://kmkus.wanicelife.com:8880/29us04223n02/reyger734/1706
+
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-logo=" https://i.postimg.cc/L4WMKL9j/ASTRO-CITRA.png " group-title="TV MALAYSIA",Astro CITRA
+http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-logo=" https://i.postimg.cc/L4WMKL9j/ASTRO-CITRA.png " group-title="TV MALAYSIA",Astro CITRA
+http://w.nasvpn.xyz:8080/live/saya/saya/172.ts?blog.ntnas.top
+
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
