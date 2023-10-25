@@ -987,6 +987,8 @@ http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115615_&extensio
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1
 https://iplogger.com/ASSP1
 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1
+https://m2.ballnaja.com/assp1/tracks-v1a1/mono.m3u8
 *******************************************
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png", ASSP2 HD
@@ -1005,7 +1007,8 @@ EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/cont
 ##https://raw.githubusercontent.com/Ortsa8/stream/main/sports/assp2.m3u8
 https://raw.githubusercontent.com/Ortsa8/stream/main/ortsa/assp2.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png", SuperSport 2
+https://m2.ballnaja.com/assp2/tracks-v1a1/mono.m3u8
 ***********************************************
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png", ASSP3 HD
@@ -1017,6 +1020,8 @@ http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115617_&extensio
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3
 https://iplogger.com/ASSP3
 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3
+https://m2.ballnaja.com/assp3/tracks-v1a1/mono.m3u8
 *******************************************
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png", ASSP4 HD
@@ -1030,8 +1035,8 @@ http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115618_&extensio
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro Supersport 4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
-
-
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro Supersport 4
+https://m2.ballnaja.com/assp4/tracks-v1a1/mono.m3u8
 **************************************************************************************************************************************************************************
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", SPOTV
@@ -1410,7 +1415,12 @@ http://w.nasvpn.xyz:8080/live/saya/saya/11.ts?blog.ntnas.top
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-logo=" https://i.postimg.cc/1zKZLdXz/ASTRO-RIA.png " group-title="TV MALAYSIA",Astro RIA
 http://w.nasvpn.xyz:8080/live/saya/saya/7868.ts?blog.ntnas.top
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Astro_Ria.png/220px-Astro_Ria.png", Astro Ria HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"37fb99ca61a94c889fdc758bb2a67495","kid":"f723fd2686d9ce8f76a83fac34dff9e4"}],"type":"temporary"}
+https://1.yurend.xyz/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo=" https://i.postimg.cc/9MFjVBwY/ASTRO-CERIA.png " group-title="TV MALAYSIA",Astro CERIA
 http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
@@ -1424,6 +1434,10 @@ http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-logo=" https://i.postimg.cc/L4WMKL9j/ASTRO-CITRA.png " group-title="TV MALAYSIA",Astro CITRA
 http://w.nasvpn.xyz:8080/live/saya/saya/172.ts?blog.ntnas.top
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408 
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-logo=" https://i.postimg.cc/L4WMKL9j/ASTRO-CITRA.png " group-title="TV MALAYSIA",Astro CITRA
+https://1.yurend.xyz/dash-wv/linear/2408/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",A
 http://epg.112114.xyz/douyu/252802
