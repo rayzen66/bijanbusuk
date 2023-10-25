@@ -1421,4 +1421,21 @@ http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-logo=" https://i.postimg.cc/L4WMKL9j/ASTRO-CITRA.png " group-title="TV MALAYSIA",Astro CITRA
 http://w.nasvpn.xyz:8080/live/saya/saya/172.ts?blog.ntnas.top
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",A
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",B
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",C
+http://epg.112114.xyz/douyu/4505431
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",D
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",E
+http://epg.112114.xyz/douyu/276200
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",F
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/480px-Film4.svg.png" group-title="HIBURAN",G
+http://epg.112114.xyz/douyu/6140589
+
+
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
