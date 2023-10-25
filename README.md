@@ -97,7 +97,7 @@ EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/lo
 https://live.mana2.my/Tv5/manifest.mpd|Referer=https://live.mana2.my/
 
 
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", TV6
+EXTINF:-1 tvg-logo="https://static.wikia.noco⁸okie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net
@@ -696,6 +696,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/dcub
 EXTINF:-1 tvg-logo="https://github.com/hendroagung2904/LOGO/blob/main/HBO%20Signature.png",HBO Signature
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://transvision.apkplfree.workers.dev/drmcubmu
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/8ct62yr/Hbo-sign-hometv.png" group-title="MOVIES",HBO SIGNATURE
+http://watchlive.my.id/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
