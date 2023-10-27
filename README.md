@@ -1351,7 +1351,17 @@ http://kuchini.site:8080/devtv/5af3eeb538/157557
 http://kuchini.site:8080/devtv/5af3eeb538/157558
 
 
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="LIGA INGGRIS", ASTRO SUPERSPORT
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146068.ts
 
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="LIGA INGGRIS", ASTRO SUPERSPORT 3
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571247&extension=ts&play_token=YQu2x70UI7
+
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="LIGA INGGRIS", ASTRO SUPERSPORT 4
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558.ts
+
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="LIGA INGGRIS", ASTRO SUPERSPORT 5
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/287792.ts
 
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
