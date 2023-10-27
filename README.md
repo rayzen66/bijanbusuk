@@ -1278,7 +1278,14 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.p
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 
+#EXTINF:-1 tvg-id="104" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA
+http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
 
+#EXTINF:-1 tvg-id="104" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA
+http://149.18.85.131/live/8059765630/3322606439/54899.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest/scale-to-width-down/596?cb=20220623141711",ASTRO SENSASI
+http://149.18.85.131/live/8059765630/3322606439/13490.m3u8
 
 
 
