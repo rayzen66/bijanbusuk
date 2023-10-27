@@ -1278,17 +1278,29 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.p
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 
-#EXTINF:-1 tvg-id="104" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
 
-#EXTINF:-1 tvg-id="104" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA
 http://149.18.85.131/live/8059765630/3322606439/54899.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest/scale-to-width-down/596?cb=20220623141711",ASTRO SENSASI
 http://149.18.85.131/live/8059765630/3322606439/13490.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA
+http://speedtrademarket.com/livehd333/irinaspicy/c/warna
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA
+http://tv365.me/live/8059765630/3322606439/191874.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA
+http://149.18.85.131/live/8059765630/3322606439/191900.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",Astro Warna
+http://iptv12k.com:35461/test167/12345/9169
+
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",Astro Sensasi
+http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
@@ -1326,15 +1338,19 @@ http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157557.m3u8
 #EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png",ช่อง Astro SuperSport 4
 http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157558.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",MY:Astro SuperSport
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png",MY:Astro SuperSport
 http://kuchini.site:8080/devtv/5af3eeb538/146068
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",MY:Astro SuperSport 2
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png",MY:Astro SuperSport 2
 http://kuchini.site:8080/devtv/5af3eeb538/157556
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",MY:Astro SuperSport 3
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png",MY:Astro SuperSport 3
 http://kuchini.site:8080/devtv/5af3eeb538/157557
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",MY:Astro SuperSport 4
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png",MY:Astro SuperSport 4
 http://kuchini.site:8080/devtv/5af3eeb538/157558
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="SHAREEXT@SUKAN•ID|MY|HK|TW",MY:Astro SuperSport 5
+
+
 
 
 
