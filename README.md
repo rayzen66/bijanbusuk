@@ -1247,8 +1247,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
 
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD 10
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD
+https://live.astradamy.com/astro/ria/index.mpd
 
 ***********************************PRIMA***********************************************
 
