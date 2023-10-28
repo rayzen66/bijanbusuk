@@ -1241,10 +1241,32 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
 **************************RIA******************************************************
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA test 1
+http://foctv.xyz:25510/live/axcestv/BKjN08kD8R/23.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA test 2
+http://iptv12k.com:35461/live/test167/12345/13635.m3u8
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA test3
+https://ktpremium.com:443/live/M919HR/5577/912833.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA test4
+http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA test5
+http://vo01.mohdtv.com:8880/live/smarttv585cde0035cb/17791023/1705.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA test6
+https://ktpremium.com:443/live/lynn89/lynn89/25855.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA HD test7
 https://live.astradamy.com/astro/ria/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA test8
+http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA test9
+http://149.18.85.131/live/8059765630/3322606439/54899.m3u8
 
 ***********************************PRIMA***********************************************
 
@@ -1255,6 +1277,26 @@ https://live.astradamy.com/astro/ria/index.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD test1
+http://141.95.55.32:25461/live/WD9054/YH93743/20.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD test2
+http://vo01.mohdtv.com:8880/live/smarttv585cde0035cb/17791023/1702.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD test3
+http://dmtn.tv:8080/live/steveny5997/54332611/380155.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD test4
+http://foctv.xyz:25510/live/axcestv/BKjN08kD8R/21.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD test5
+http://dmtn.tv:8080/live/steveny5997/54332611/380155.m3u8
 
 ******************OASIS**************************************************
 
@@ -1270,7 +1312,77 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test1
+http://speedtrademarket.com/livehd333/irinaspicy/c/warna
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test2
+http://tv365.me/live/8059765630/3322606439/191874.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test3
+http://149.18.85.131/live/8059765630/3322606439/191900.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",Astro Warna test4
+http://iptv12k.com:35461/test167/12345/9169
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test5
+https://ktpremium.com/live/M919HR/5577/912836.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test6
+http://141.95.55.32:25461/live/WD9054/YH93743/22.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test7
+http://vo01.mohdtv.com:8880/live/smarttv585cde0035cb/17791023/1706.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test8
+https://axcestv.com:443/live/@jusriungit/AuHCh3H8D6/457.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test9
+http://foctv.xyz:25510/live/axcestv/BKjN08kD8R/297.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test10
+http://vo01.mohdtv.com:8880/live/smarttv585cde0035cb/17791023/1706.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test11
+http://muka03.wanicelife.com:8880/live/mmNgmvu9uL/Y4qXXjdk2n/1706.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test12
+https://ktpremium.com:443/live/lynn89/lynn89/25867.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test13
+https://ktpremium.com:443/live/123meta101/34tregfsfsdf4/25867.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test14
+https://rtmsport.com/9warn4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test15
+http://185.243.7.4/play/live.php?mac=00:1A:79:73:45:10&stream=941609&extension=m3u8&play_token=go_ott
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test16
+https://local.kpsvpn.com/index_2402.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test17
+http://51.161.209.155:35461/live/649010610007/123321/5075.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test18
+https://smt.sky4k.eu.org/live2088/index.m3u8?id=Warna
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test19
+http://149.18.85.131/live/8059765630/3322606439/191900.m3u8
 
 ************************CITRA**************************************
 
@@ -1278,26 +1390,60 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.p
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test1
+https://ktpremium.com/live/M919HR/5577/913177.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA
-http://149.18.85.131/live/8059765630/3322606439/54899.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test2
+http://141.95.55.32:25461/live/WD9054/YH93743/26.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test3
+https://axcestv.com:443/live/@jusriungit/AuHCh3H8D6/459.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test4
+https://smt.sky4k.eu.org/AEC_V3/index.php?play=stream1&id=AstroCitraHD
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test5
+http://foctv.xyz:25510/live/axcestv/BKjN08kD8R/26.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test6
+http://vo01.mohdtv.com:8880/live/ALLChannels681def141491/46401783/1706.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test7
+http://my.odtv.uk:80/live/6288284322/8436372383/19.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test8
+http://vo01.mohdtv.com:8880/live/smarttv585cde00254c/34918658/1706.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test9
+https://ktpremium.com:443/live/lynn89/lynn89/913177.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test10
+https://ktpremium.com:443/live/123meta101/34tregfsfsdf4/913177.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test11
+http://foctv.xyz:25510/live/@azamcekman/Ti0NKDy655/26.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test12
+https://smt.sky4k.eu.org/AEC/index.php?play=stream1&id=AstroCitraHD
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test13
+https://rtmsport.com/5citr4.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test14
+https://local.kpsvpn.com/index_2700.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test15
+http://188.165.218.151:8080/live/haji/haji/172.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test16
+http://149.18.85.131/live/8059765630/3322606439/400200335.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Sensasi_%283D%29.png/revision/latest/scale-to-width-down/596?cb=20220623141711",ASTRO SENSASI
 http://149.18.85.131/live/8059765630/3322606439/13490.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA
-http://speedtrademarket.com/livehd333/irinaspicy/c/warna
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA
-http://tv365.me/live/8059765630/3322606439/191874.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA
-http://149.18.85.131/live/8059765630/3322606439/191900.m3u8
 
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",Astro Warna
-http://iptv12k.com:35461/test167/12345/9169
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",Astro Sensasi
 http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
@@ -1314,54 +1460,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 
 
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png",ช่อง Astro Citra
-https://ktpremium.com:443/N197NGF/8199/25852
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png",ช่อง Astro Oasis
-https://ktpremium.com:443/N197NGF/8199/25864
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png",ช่อง Astro Prima
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157467.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/98eeb75a39995d2c6ab45fb716af8310.png",ช่อง Astro Ria
-https://ktpremium.com:443/N197NGF/8199/912833
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png",ช่อง Astro SuperSport
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/146068.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png",ช่อง Astro SuperSport 2
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157556.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png",ช่อง Astro SuperSport 3
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157557.m3u8
-
-#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png",ช่อง Astro SuperSport 4
-http://gamsgo.cyou:8080/live/Vladisergeevic/7eef2c4388/157558.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png",MY:Astro SuperSport
-http://kuchini.site:8080/devtv/5af3eeb538/146068
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png",MY:Astro SuperSport 2
-http://kuchini.site:8080/devtv/5af3eeb538/157556
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png",MY:Astro SuperSport 3
-http://kuchini.site:8080/devtv/5af3eeb538/157557
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png",MY:Astro SuperSport 4
-http://kuchini.site:8080/devtv/5af3eeb538/157558
 
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="LIGA INGGRIS", ASTRO SUPERSPORT
-http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146068.ts
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="LIGA INGGRIS", ASTRO SUPERSPORT 3
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571247&extension=ts&play_token=YQu2x70UI7
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="LIGA INGGRIS", ASTRO SUPERSPORT 4
-http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558.ts
 
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="LIGA INGGRIS", ASTRO SUPERSPORT 5
-http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/287792.ts
+
 
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
