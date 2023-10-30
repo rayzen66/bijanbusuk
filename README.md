@@ -30,7 +30,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 
 
 
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png", TV3
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png", TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
