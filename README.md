@@ -1258,6 +1258,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
 **************************RIA******************************************************
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA
+http://8.219.138.150:8885/live/bLncDOemMC0cpcUcYa9ZEAlEynYsK-AhlfwN6PwzBDcKMiNxC-EDc8t2IihVxgU7k5tipCmVUN19_oYwpb0PyclmKxdL8x8bicxKiVsQIloKCrTiYdTwWdE07x7ivn7UiZGaOjC7jt7-LQ8txMovLaqKfWF66jKvpO-OfIimEaSspiMyBYCycwx2Ew3ORXx5qldMPnyHV8rKpdfs9b6x16vP2t1gQzfd9wR4m0hnFz4jBxD_ZpWn742C4Cfm3vJN16eJo47ZokyxzQGzokkqMa8yrvN_Zp0YmIZ0Bjsb0s0.m3u8?u=1698806221
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ria.png",ASTRO RIA test 1
 http://foctv.xyz:25510/live/axcestv/BKjN08kD8R/23.m3u8
 
@@ -1327,7 +1331,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+http://8.219.138.150:8885/live/bLncDOemMC0cpcUcYa9ZEAlEynYsK-AhlfwN6PwzBDcKMiNxC-EDc8t2IihVxgU7k5tipCmVUN19_oYwpb0PyceNad12i_4hj_y16Apb9mZV3a6JOmIYx64IakOkgPavqKXOl1ytvKZhg1tsYcMyUejPa1bZvwKn_orYuOldYH4f-OfXp1H93GS06c0QcpBQ2P-lAOO7dPwLXCGAjLUeR58yTUBZefFsRpMx0xnhzcii9hDgpmF1W6qsnfHgO4oera9vXN5LNkNh23mcd35kmt3aHP93qifJlgrou6KXY8Q.m3u8?u=1698806221
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-warna-my.png",ASTRO WARNA test1
 http://speedtrademarket.com/livehd333/irinaspicy/c/warna
@@ -1405,7 +1410,8 @@ http://149.18.85.131/live/8059765630/3322606439/191900.m3u8
 
 
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+http://8.219.138.150:8885/live/bLncDOemMC0cpcUcYa9ZEAlEynYsK-AhlfwN6PwzBDcKMiNxC-EDc8t2IihVxgU7k5tipCmVUN19_oYwpb0PySxsJBUG_LcXMyFLwTMsTt0J2zpR1ADQOzKltj4UFG0wF_DzgtWnN5ednjX10KBbAZAtwqARGYNMznurjKRpq31GXd1QKkqc8mUM18pbSVQmI6cNLaEp_Yncf626YyGaetO0bBQuYSqFIAJqJ8NEBB6_OD9dbWzw2S-vl1pKjA-hvJXCZrPXAN2HsYpkBBunr2nawLgoeZaJ4i0AJHfE_98.m3u8?u=1698806221
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD test1
 https://ktpremium.com/live/M919HR/5577/913177.m3u8
