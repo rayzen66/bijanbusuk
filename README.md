@@ -51,6 +51,11 @@ EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/l
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
+#EXTINF:-1 tvg-logo=""https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_USensasi.png",SENSASI
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3838bf685aa8dba33086aa2369e0fe7:9bf61620fcd6818d05e8858daab52ad5
+https://pizztv.qreatifku.my.id/cdnweb/SENSASI.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
 #EXTINF:-1 tvg-logo=""https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_USensasi.png",SENSASI
@@ -736,9 +741,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://transvision.apkplfree.workers.dev/drmcubmu
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8ct62yr/Hbo-sign-hometv.png",HBO SIGNATURE
-http://watchlive.my.id/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1521,6 +1526,19 @@ https://bks03.starhubgo.com/bpk-token/2aa@4fq3yycqawdd10tk5aylta1rrfpbmhgw4f2vxo
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",Astro Sensasi
 http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
+
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png", Astro SuperSport
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/146068
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png", Astro SuperSport 2
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157556
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png", Astro SuperSport 3
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157557
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png", Astro SuperSport 4
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157558
 
 
 
