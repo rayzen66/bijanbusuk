@@ -109,12 +109,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png",TV IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png",SUKE TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://www.youtube.com
-https://live.mana2.my/SukeTv/index.m3u8?auth_key=1697778159-ec5b35a60ee045d2ba40599183b3d048-0-0001fb6b351f2632ff47f11faef1bbc1&token=1697778159-ec5b35a60ee045d2ba40599183b3d048-0-0001fb6b351f2632ff47f11faef1bbc1 
-
-
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/mobile/channel/logos/hxismd.png",suke-tv
+#EXTVLCOPT:http-referrer=https://www.mana2.my/channel/live/suke-tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux; Android 10;CPH1818 Build/QP1A.190711.020; wv) ApleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1699434617-b032496f1bab4ff98c3c5b1b62c143b4-0-af3a8a5c3b522cde3f5c4a486f2ebac0&token=1699434617-b032496f1bab4ff98c3c5b1b62c143b4-0-af3a8a5c3b522cde3f5c4a486f2ebac0
 
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVSarawak.png",TVS
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
@@ -764,11 +762,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony PIX
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ohGIruj8XFbQFvz/zGsilQ", "kid":"zhcmSzF9sQjxnNwRqhqeZg" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTGRP:ii. Movies
+#EXTVLCOPT:network-caching=1000
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png", SONY PIX
@@ -1261,7 +1256,7 @@ http://154.12.80.233:34400/stream/b86272ea7a862932d088554d80737101
 EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 1
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 2
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
