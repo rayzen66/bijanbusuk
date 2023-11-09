@@ -705,6 +705,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png", HBO Hits
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8ct62yr/Hbo-sign-hometv.png",HBO SIGNATURE
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
@@ -1356,5 +1360,23 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA HD 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+
+
+
+
+***********************movie**********************
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/220px-Netflix_2015_logo.svg.png", group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/220px-Netflix_2015_logo.svg.png" group-title="NETFLIX, Jawan 2023
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
+https://tinyurl.com/pejaljawan
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a5705d89e43090166c27845ecb0510:6515b27faa59b6cf00e274db05d911f4
+#EXTINF:-1 tvg-id="xx" tvg-name="Ibu Belum Mati" group-title="Astro Citra - AOD" tvg-logo="https://iili.io/GsBIne.jpg",Ibu Belum Mati
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8e4acb4a-2f09-5cd9-8d4a-a6dd3ee608a9/default_dash.mpd
+
+
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
