@@ -35,6 +35,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default.mpd
 https://linears-playback.astro.com.my/vsg/41Q2JOX8KtOe28ba8x3splIguOrP487D2BAVqzhfqNLpU=z4VY/dash-wv/jitp-linearwm/1004/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
+https://linear07-playback.sooka.my/CH4/masterCH4.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 http://mykingtv.net:2082/amad1234/amad1234/8444
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
@@ -71,7 +76,7 @@ http://mykingtv.net:2082/amad1234/amad1234/8454
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217e77e40cf4ec1269ea1e278eb2c610:b2a2333955933b7dc3d71e7685971f71
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", AURA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", AURA HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png", AURA HD
@@ -81,7 +86,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA HD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA HD
