@@ -1373,5 +1373,28 @@ https://tinyurl.com/pejaljawan
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8e4acb4a-2f09-5cd9-8d4a-a6dd3ee608a9/default_dash.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pmYfDlY.png",Astro Ria [A]
+http://mykingtv.net:2082/amad1234/amad1234/8444
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pmYfDlY.png",Astro Ria [B]
+http://mykingtv.net:2082/amad1234/amad1234/8445
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zDtVGyH.png",Astro Prima [A]
+http://mykingtv.net:2082/amad1234/amad1234/8446
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zDtVGyH.png",Astro Prima [B]
+http://mykingtv.net:2082/amad1234/amad1234/8447
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJvetrD.png",Astro Warna [A]
+http://mykingtv.net:2082/amad1234/amad1234/8448
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJvetrD.png",Astro Warna [B]
+http://mykingtv.net:2082/amad1234/amad1234/8449
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQ1Vyv4.png",Astro Oasis [A]
+http://mykingtv.net:2082/amad1234/amad1234/8451
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQ1Vyv4.png",Astro Oasis [B]
+http://mykingtv.net:2082/amad1234/amad1234/8452
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HMuUrQ.png",Astro Citra [A]
+http://mykingtv.net:2082/amad1234/amad1234/8453
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HMuUrQ.png",Astro Citra [B]
+http://mykingtv.net:2082/amad1234/amad1234/8454
+
+
+
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
