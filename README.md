@@ -105,13 +105,10 @@ EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/l
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"m/YWIPzWgY0F6IWNqrUq1Q", "kid":"s4OL9oWqjbozCGqiNp4P5w" } ], "type":"temporary" }
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://103.91.64.73/ott/znpjtv57ts/inspirasi/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png", Inspirasi
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live29.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
