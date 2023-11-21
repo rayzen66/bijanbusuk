@@ -1099,8 +1099,9 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/23
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 4
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
+#KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 4
 https://aqfadtv.xyz/live/ria/index.mpd
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 5
@@ -1112,8 +1113,11 @@ http://154.12.80.233:34400/stream/fd439bb2ea03f86e32a1a9314f56e7b3
 EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 7
 http://154.12.80.233:34400/stream/5db2ac85c76398700ec1e245e07e13f8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 8
-http://154.12.80.233:34400/stream/b86272ea7a862932d088554d80737101
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
+#KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
+https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 
 
 
