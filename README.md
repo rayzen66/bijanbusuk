@@ -681,7 +681,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony PIX
-#EXTGRP:ii. Movies
 #EXTVLCOPT:network-caching=1000
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
