@@ -41,7 +41,10 @@ https://linears-playback.astro.com.my/dash-wv/jitp-linearwm/1004/default.mpd
 http://mykingtv.net:2082/amad1234/amad1234/8444
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
-http://mykingtv.net:2082/amad1234/amad1234/8445
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1705
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71020
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -61,7 +64,7 @@ EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.p
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
-http://mykingtv.net:2082/amad1234/amad1234/8448
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1706
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 http://mykingtv.net:2082/amad1234/amad1234/8449
