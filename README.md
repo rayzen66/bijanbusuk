@@ -40,8 +40,8 @@ https://linears-playback.astro.com.my/dash-wv/jitp-linearwm/1004/default.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1705
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71020
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRiaHD
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -57,8 +57,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bhcdw24jVsJOTlmxm8mPxQ", "kid":"aXljcdxORX2Y+isCXqv8lA" } ], "type":"temporary" }
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
-https://linear05-playback.sooka.my/CH1/masterCH1.mpd
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroWarnaHD
@@ -68,8 +68,8 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroWarnaHD
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/27
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71146
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217e77e40cf4ec1269ea1e278eb2c610:b2a2333955933b7dc3d71e7685971f71
