@@ -63,16 +63,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1706
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroWarnaHD
-
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
-https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/24
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/27
+
+EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71146
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1110,13 +1110,13 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
 https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="ASEAN TV", Astro Ria
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/23
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="ASEAN TV", Astro Ria (B)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/224
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="ASEAN TV", Astro Ria (C)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/282
 
 
@@ -1171,14 +1171,7 @@ EXTINF:-1 tvg-id="107" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCICtpFXRBP5wdfshc1MJKo
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="ASEAN TV", Astro Warna (A)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/297
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="ASEAN TV", Astro Warna (C)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/24
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="ASEAN TV", Astro Warna(B)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/25
 
 
 
@@ -1199,11 +1192,8 @@ EXTINF:-1 tvg-id="AstroCitra" group-title="Astro Becup" ch-number="108" tvg-logo
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
 http://parkpay.live:8080/live/Whts1414/gkCjBHNgAP/236208.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="ASEAN TV", Astro Citra
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/26
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="ASEAN TV", Astro Citra(B)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/27
+
 
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
