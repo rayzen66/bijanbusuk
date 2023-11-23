@@ -1192,6 +1192,17 @@ EXTINF:-1 tvg-id="AstroCitra" group-title="Astro Becup" ch-number="108" tvg-logo
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
 http://parkpay.live:8080/live/Whts1414/gkCjBHNgAP/236208.m3u8
 
+#EXTINF:-1 tvg-logo=""",TEST 1
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/282
+
+#EXTINF:-1 tvg-logo=""",TEST 2
+http://foctv.xyz:25510/axcestv/BKjN08kD8R/282
+
+#EXTINF:-1 tvg-logo=""",TEST 3
+http://foctv.xyz:25510/Imrany/BB1732/282
+
+#EXTINF:-1 tvg-logo=""",TEST 4
+http://foctv.xyz:25510/Zulhairie/BB2064/828
 
 
 
