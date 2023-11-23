@@ -63,8 +63,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1706
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroWarnaHD
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/24
