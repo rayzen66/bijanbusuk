@@ -37,8 +37,8 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
 https://linears-playback.astro.com.my/dash-wv/jitp-linearwm/1004/default.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
-http://mykingtv.net:2082/amad1234/amad1234/8444
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1705
@@ -67,10 +67,10 @@ https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1706
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
-http://mykingtv.net:2082/amad1234/amad1234/8449
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroWarnaHD
 
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
-http://mykingtv.net:2082/amad1234/amad1234/8453
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71146
@@ -1083,11 +1083,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 8
+EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD 8
 #https://linears-playback.astro.com.my/vsg/41MlTsej4YNoyfXCZWARkIQ2X1oktz3gtPiax_5wjZJ0E=boJW/dash-wv/jitp-linearwm/1004/default.mpd
 https://linears-playback.astro.com.my/vsg/41MlTsej4YNoyfXCZWARkIQ54xRzgdOWCwlNkHZ3FUdzY=WYpa/dash-wv/jitp-linearwm/1004/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hyDJ483/ria.png",Astro Ria
+EXTINF:-1 tvg-logo="https://i.ibb.co/hyDJ483/ria.png",Astro Ria
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqVXlaR05rWVRBdE5XRTJOaTAwTlRGbExUazJOREF0Tm1ObU1HWTVNekk1TXpSayIsIndtb3BpZCI6MzIsImV4cCI6MTY4MjQxMDMyNCwiaWF0IjoxNjgxODA2MzI0fQ.eYVwo4SgXFtHj5jmZGYwY4qKFBHx4lPCEz40NwH8TJI"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1095,20 +1095,29 @@ https://linears-playback.astro.com.my/vsg/41MlTsej4YNoyfXCZWARkIQ54xRzgdOWCwlNkH
 #KODIPROP:inputstream.adaptive.license_key={"37fb99ca61a94c889fdc758bb2a67495": "f723fd2686d9ce8f76a83fac34dff9e4"}
 https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="Malay" tvg-id="104" tvg-name="104", Astro Ria HD
+EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="Malay" tvg-id="104" tvg-name="104", Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" } 
 https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
 https://linear07-playback.sooka.my/CH4/masterCH4.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="ASEAN TV", Astro Ria
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/23
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="ASEAN TV", Astro Ria (B)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/224
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="ASEAN TV", Astro Ria (C)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/282
 
 
 ***********************************PRIMA***********************************************
@@ -1121,21 +1130,21 @@ https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 
 ****************WARNA***********************************************
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",Astro Warna SOOKA 2023
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png",Astro Warna SOOKA 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png", Warna 1080p 2023
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/107.png", Warna 1080p 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
 https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOK-uza4K4Hh1tVPbKYfMkbU=r72j/dash-wv/jitp-linearwm/2402/default_ott.mpd?7
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
+EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqVXlaR05rWVRBdE5XRTJOaTAwTlRGbExUazJOREF0Tm1ObU1HWTVNekk1TXpSayIsIndtb3BpZCI6MzIsImV4cCI6MTY4MjQxMDMyNCwiaWF0IjoxNjgxODA2MzI0fQ.eYVwo4SgXFtHj5jmZGYwY4qKFBHx4lPCEz40NwH8TJI"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1145,45 +1154,56 @@ https://linears-playback.astro.com.my/vsg/41oZnwZy-4e0jRSSlVtXBwOK-uza4K4Hh1tVPb
 #https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNjo7IWALpAQaQzprP4ObMi0=IIRG/dash-wv/jitp-linearwm/2402/default_primary.mpd?token=disabled
 http://141.95.55.32:25461/live/SK085112/67834/22.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="107" tvg-name="107", Astro Warna HD
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Malay" tvg-id="107" tvg-name="107", Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
 http://50.7.161.82:8278/streams/d/warnahd_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="107" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia",Astro Warna
+EXTINF:-1 tvg-id="107" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia",Astro Warna
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://epg.pw/stream/aa1b2652b5400194d10060d1fd203f35b901cf19f748391c77761261e72e8e16.ctv
 
-#EXTINF:-1 tvg-id="107" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia",Astro Warna (Backup)
+EXTINF:-1 tvg-id="107" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Malaysia",Astro Warna (Backup)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://iptv.lancartech.co.id:443/play/zWcrP61lSDglxFOi2kyTxZ550_UEiHe1jVes9udiFXCICtpFXRBP5wdfshc1MJKo
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="ASEAN TV", Astro Warna (A)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/297
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="ASEAN TV", Astro Warna (C)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/24
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="ASEAN TV", Astro Warna(B)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/25
+
+
+
 ************************CITRA**************************************
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="Malay" tvg-id="108" tvg-name="108", Astro Citra HD
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="Malay" tvg-id="108" tvg-name="108", Astro Citra HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
+EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
 http://141.95.55.32:25461/live/SK085112/67834/26.ts
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Astro Becup" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (bekup)
+EXTINF:-1 tvg-id="AstroCitra" group-title="Astro Becup" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (bekup)
 #https://stream.zeehanzgadget.com/citra
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
 http://parkpay.live:8080/live/Whts1414/gkCjBHNgAP/236208.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="ASEAN TV", Astro Citra
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/26
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="ASEAN TV", Astro Citra(B)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/27
 
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
