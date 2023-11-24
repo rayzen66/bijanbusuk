@@ -1075,7 +1075,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
 **************************RIA******************************************************
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1004/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
