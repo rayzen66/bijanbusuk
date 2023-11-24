@@ -1196,7 +1196,10 @@ EXTINF:-1 tvg-id="AstroCitra" group-title="Astro Becup" ch-number="108" tvg-logo
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
 http://parkpay.live:8080/live/Whts1414/gkCjBHNgAP/236208.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", Astro Citra HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2700/default.mpd
 
 
 
