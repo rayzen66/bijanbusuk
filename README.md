@@ -156,7 +156,7 @@ EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/lo
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/Mytv/index.m3u8|User-Agent=Mozilla
 
-#EXTINF:-1 tvg-logo="https://static.wikia.noco⁸okie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", TV6
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814", TV6
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
@@ -1102,8 +1102,30 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
 
 ************************CITRA**************************************
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="Malay" tvg-id="108" tvg-name="108", Astro Citra HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png" group-title="Malay" tvg-id="108" tvg-name="108", Astro Citra HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
 
+******************************live******************************************************
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg",Astro GO Live Event 1 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg",Astro GO Live Event 2 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
+#EXTINF:-1 tvg-logo=https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg"",Astro Go Live Event 3 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5KcwyR7/4-C4-E513-A-DCCD-4-FD1-8315-070-BD431-FFF8.jpg",Astro Go Live Event 4 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
 
 
 
