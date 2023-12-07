@@ -1079,6 +1079,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRiaHD
+
 *****************************WARNA*************************************
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
@@ -1086,10 +1089,17 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" }
 https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
 
+
+
+
 ************************CITRA**************************************
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD
+https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
+
 
 ******************************live******************************************************
 
