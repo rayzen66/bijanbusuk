@@ -1088,10 +1088,16 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroRiaHD
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroRiaHD
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1705
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+http://mykingtv.net:2082/live/amad1234/amad1234/8445.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 *****************************WARNA*************************************
 
@@ -1103,51 +1109,47 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1706
 
-
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+http://mykingtv.net:2082/live/amad1234/amad1234/8448.ts
 ************************CITRA**************************************
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD
 https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroCitraHD
 
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD
+http://mykingtv.net:2082/live/amad1234/amad1234/8454.ts
 ******************************live******************************************************
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vdcZaKFbY0s+CXFzqLfqew", "kid":"BRDNLxNQRgGVb7WBZ95r6w" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Sensasi.png",ASTRO SENSASI 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0 
-https://ucdn.starhubgo.com/bpk-tv/HubSensasiHD/output/manifest.mpd 
-
-#EXTINF:-1 tvg-id="AstroRia" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_key=de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus 1
+#EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",AstroGo Live Event 1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_key=8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus 2
+#EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",AstroGo Live Event 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus 3
+#EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",AstroGo Live Event 3
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus 4
+#EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",AstroGo Live Event 4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro Supersport Plus 5
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default.mpd
 
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
