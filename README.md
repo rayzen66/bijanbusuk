@@ -36,6 +36,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
 https://linears-playback.astro.com.my/vsg/41dKS1PonH0R7zcrnNWUf7fJEJzV1weiXr2PoM0s_qw1U=3Pyr/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09cQ9CL/Fri-25-08-2023-11-32-23.png",RIA HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
+https://linears-playback.astro.com.my/vsg/41zAVNAJ6AcJzWXkOoZ7fw73Ay-VkgaRRoPXwhabSEakg=mkdf/dash-wv/jitp-linearwm/1004/default_ott.mpd
+
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png", PRIMA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
@@ -53,12 +59,27 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810": "0a80e20c568e88e53c7087c1c6493318"}
 https://linears-playback.astro.com.my/vsg/41n12pdkxBBxKrI60H-qXpiobawz9wGT0BVKFWC4AyNOw=mX0K/dash-wv/jitp-dashisowm/2402/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810": "0a80e20c568e88e53c7087c1c6493318"}
+https://linears-playback.astro.com.my/vsg/41zAVNAJ6AcJzWXkOoZ7fw73Ay-VkgaRRoPXwhabSEakg=mkdf/dash-wv/jitp-linearwm/2402/default_ott.mpd
+
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
 https://linears-playback.astro.com.my/vsg/41YaAG0OfnJYVO1fSPj922sUKeilxPHhhaNPDKKau0HyY=PN9b/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
+https://linears-playback.astro.com.my/vsg/41zAVNAJ6AcJzWXkOoZ7fw73Ay-VkgaRRoPXwhabSEakg=mkdf/dash-wv/jitp-linearwm/2700/default_ott.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217e77e40cf4ec1269ea1e278eb2c610:b2a2333955933b7dc3d71e7685971f71
@@ -1187,6 +1208,24 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",AstroGo Live Event 4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJ2dQxX/png-transparent-astro-box-office-malaysia-television-logo-tariffs-canada-purple-television-violet.png",Astro GO Live Event 1 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJ2dQxX/png-transparent-astro-box-office-malaysia-television-logo-tariffs-canada-purple-television-violet.png",Astro GO Live Event 2 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJ2dQxX/png-transparent-astro-box-office-malaysia-television-logo-tariffs-canada-purple-television-violet.png",Astro Go Live Event 3 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJ2dQxX/png-transparent-astro-box-office-malaysia-television-logo-tariffs-canada-purple-television-violet.png",Astro Go Live Event 4 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
 
 #EXTM3U billed-msg="😎 BijanBusuk 😎"
